@@ -1,0 +1,1471 @@
+CandidateID,CandidateName,Department,HireDate,HireSource,RoleHiredFor,TimeToHireDays
+9001,Allison Hill,News & Content,2024-06-02,LinkedIn,Photojournalist,19
+9002,Noah Rhodes,Sales,2020-10-05,Employee Referral,Account Executive,38
+9003,Angie Henderson,Finance,2025-03-18,Employee Referral,Financial Analyst,37
+9004,Daniel Wagner,News & Content,2025-11-16,Career Site,Editor,47
+9005,Cristian Santos,Engineering,2022-12-30,Employee Referral,Systems Engineer,26
+9006,Connie Lawrence,News & Content,2019-02-10,Employee Referral,Photojournalist,27
+9007,Abigail Shaffer,News & Content,2019-10-19,LinkedIn,Photojournalist,7
+9008,Gina Moore,Sales,2020-12-03,LinkedIn,Account Executive,46
+9009,Gabrielle Davis,News & Content,2020-08-31,Indeed,Editor,28
+9010,Ryan Munoz,News & Content,2021-06-30,LinkedIn,News Director,24
+9011,Monica Herrera,News & Content,2018-07-26,LinkedIn,News Director,25
+9012,Jamie Arnold,Sales,2023-08-31,Indeed,Sales Manager,41
+9013,Lisa Hensley,Sales,2021-08-04,Indeed,Account Executive,35
+9014,Michele W. Williams,News & Content,2020-01-17,Employee Referral,Producer,27
+9015,Dylan Miller,Finance,2018-09-16,Employee Referral,Accountant,26
+9016,Brian Ramirez,Sales,2025-05-31,Employee Referral,Sales Manager,46
+9017,Holly Wood,Human Resources,2024-10-07,Career Site,HR Generalist,20
+9018,Derek Zuniga,News & Content,2020-06-20,Indeed,Producer,31
+9019,Lisa Jackson,Sales,2024-04-29,Employee Referral,Account Executive,31
+9020,Carla Gray,News & Content,2023-10-29,Career Site,Reporter,39
+9021,Margaret Hawkins DDS,Engineering,2022-11-14,LinkedIn,Broadcast Engineer,70
+9022,Patty Perez,Finance,2021-08-29,Employee Referral,Accountant,49
+9023,Ethan A. Adams,News & Content,2022-10-02,University Recruiting,Editor,36
+9024,Tommy W. Walter,Sales,2022-07-16,University Recruiting,Account Executive,45
+9025,Matthew Foster,Sales,2022-12-21,Employee Referral,Sales Manager,20
+9026,Judy Baker,Sales,2023-06-19,LinkedIn,Sales Manager,13
+9027,Justin Baker,Finance,2021-02-20,Recruiter Sourced,Finance Manager,16
+9028,Stephanie Ross,News & Content,2023-09-08,Indeed,Photojournalist,22
+9029,Zachary Hicks,News & Content,2019-06-11,Employee Referral,Photojournalist,41
+9030,Anthony Rodriguez,News & Content,2022-09-29,Career Site,News Director,45
+9031,Rebecca Henderson,Sales,2019-02-03,Career Site,Account Executive,31
+9032,James Ferrell,Finance,2025-03-29,Employee Referral,Accountant,25
+9033,Tricia Valencia,Sales,2019-08-07,Recruiter Sourced,Account Executive,14
+9034,Nathan Maldonado,News & Content,2025-07-19,Employee Referral,News Director,48
+9035,Debra Davidson,Sales,2020-03-05,LinkedIn,Account Executive,49
+9036,Jeffrey Chavez,News & Content,2022-06-11,Indeed,Photojournalist,22
+9037,Sherri B. Baker,Finance,2019-05-08,Recruiter Sourced,Financial Analyst,20
+9038,Cassandra Gaines,Sales,2023-02-16,Career Site,Account Executive,33
+9039,Elizabeth Fowler,Finance,2025-04-01,Career Site,Accountant,53
+9040,Brittany Farmer,Sales,2023-10-28,Indeed,Sales Coordinator,38
+9041,Paula M. Moreno,News & Content,2022-10-07,Indeed,Producer,28
+9042,Fred Smith,News & Content,2024-03-03,Employee Referral,Photojournalist,33
+9043,Sherry Decker,News & Content,2020-08-09,Employee Referral,Producer,15
+9044,Anthony Humphrey,News & Content,2021-06-28,Indeed,Editor,47
+9045,Angelica Tucker,Engineering,2023-05-29,Recruiter Sourced,IT Support,27
+9046,Philip Cannon,News & Content,2019-02-16,Career Site,Photojournalist,14
+9047,John Pierce,News & Content,2026-01-01,Employee Referral,News Director,31
+9048,Shane Henderson,News & Content,2020-03-24,Employee Referral,Photojournalist,28
+9049,Joshua B. Blair,Sales,2022-06-28,University Recruiting,Account Executive,40
+9050,Eric Carney,News & Content,2025-09-04,Recruiter Sourced,Reporter,49
+9051,Jessica Holmes,Engineering,2019-03-14,Recruiter Sourced,IT Support,51
+9052,Danny Morgan,Finance,2024-12-19,Recruiter Sourced,Finance Manager,36
+9053,Crystal Robinson,News & Content,2019-01-17,LinkedIn,Reporter,30
+9054,Mark Perez,Engineering,2023-01-09,LinkedIn,Systems Engineer,29
+9055,Shannon Jones,Sales,2026-01-24,Recruiter Sourced,Sales Manager,7
+9056,Michael Lewis,News & Content,2021-11-20,Employee Referral,Producer,38
+9057,Timothy Duncan,Sales,2021-07-06,Employee Referral,Sales Coordinator,39
+9058,Richard Aguirre,Human Resources,2024-03-24,LinkedIn,HR Manager,31
+9059,Brent J. Jordan,News & Content,2025-02-23,Indeed,Editor,21
+9060,John Daniel,Human Resources,2020-09-07,University Recruiting,HR Generalist,52
+9061,Victoria G. Garcia,Finance,2018-11-19,University Recruiting,Accountant,33
+9062,Gerald H. Hensley,News & Content,2019-02-14,LinkedIn,Editor,12
+9063,Connor West,Sales,2020-12-28,LinkedIn,Sales Coordinator,35
+9064,Donald Wright,News & Content,2026-02-12,Indeed,Photojournalist,28
+9065,Jessica Callahan,Human Resources,2026-03-30,Employee Referral,HR Manager,40
+9066,Amber Kidd,Sales,2019-05-03,Employee Referral,Sales Manager,30
+9067,Tracy House,News & Content,2024-05-11,Employee Referral,Reporter,38
+9068,Carol Tucker,Human Resources,2022-10-24,Employee Referral,HR Generalist,33
+9069,James Brown,News & Content,2020-01-28,Career Site,News Director,23
+9070,William Baker,News & Content,2022-10-08,Career Site,Reporter,44
+9071,Jordan Henderson,Engineering,2020-07-19,LinkedIn,IT Support,52
+9072,Whitney Peters,Finance,2023-07-25,Indeed,Financial Analyst,52
+9073,Brittney Phillips,News & Content,2019-12-28,Employee Referral,Photojournalist,27
+9074,Lauren Daniels,News & Content,2024-07-21,Employee Referral,Photojournalist,46
+9075,Amy Silva,Finance,2021-11-18,Employee Referral,Financial Analyst,56
+9076,Sarah Moore,Sales,2019-05-28,Employee Referral,Sales Manager,45
+9077,Angela Lopez,Finance,2023-09-02,Indeed,Finance Manager,42
+9078,Megan Young,News & Content,2021-06-03,Employee Referral,News Director,18
+9079,Steve Sanchez,Finance,2022-03-25,Career Site,Finance Manager,42
+9080,Lisa B. Barnes,News & Content,2023-11-18,Employee Referral,Photojournalist,31
+9081,Kelly D. Donovan,Sales,2025-08-15,LinkedIn,Account Executive,29
+9082,Mike A. Allen,News & Content,2019-11-23,Career Site,Reporter,41
+9083,Michael Evans,News & Content,2020-01-02,Recruiter Sourced,Editor,51
+9084,Paul Jones,Engineering,2021-10-09,Employee Referral,Broadcast Engineer,67
+9085,Zachary Ferrell,News & Content,2021-04-05,Employee Referral,Photojournalist,15
+9086,Daniel Baker,Engineering,2019-10-29,LinkedIn,IT Support,49
+9087,Shirley Suarez,Engineering,2026-07-19,Career Site,Broadcast Engineer,42
+9088,Christopher Bass,News & Content,2022-02-07,Employee Referral,Reporter,49
+9089,Lisa Archer,Sales,2021-05-18,Employee Referral,Sales Manager,36
+9090,Aimee Montoya,Sales,2021-01-29,Employee Referral,Account Executive,45
+9091,Matthew Mcmillan,Engineering,2026-06-29,Employee Referral,Broadcast Engineer,36
+9092,Brian Rodriguez,News & Content,2021-02-26,Career Site,Reporter,18
+9093,Denise Jacobs,Engineering,2021-07-14,Career Site,Broadcast Engineer,43
+9094,Christina Walters,News & Content,2024-09-02,Employee Referral,Producer,21
+9095,John Whitehead,Finance,2022-01-02,LinkedIn,Accountant,44
+9096,Anna Henderson,Human Resources,2024-05-13,Recruiter Sourced,HR Manager,50
+9097,Aaron W. Wise,Engineering,2023-06-05,Career Site,Systems Engineer,22
+9098,Deborah Figueroa,Sales,2023-01-24,LinkedIn,Sales Manager,35
+9099,Jessica Smith,Sales,2020-04-09,Employee Referral,Sales Coordinator,45
+9100,Stephen M. Mckee,News & Content,2024-09-07,Indeed,Photojournalist,30
+9101,Sandra Aguilar,Engineering,2025-12-20,Recruiter Sourced,Broadcast Engineer,69
+9102,Cameron Parker,Human Resources,2020-08-04,Indeed,HR Generalist,35
+9103,Rebecca Valencia,News & Content,2026-04-02,Employee Referral,Producer,21
+9104,Christine Wright,Engineering,2022-02-20,Employee Referral,Systems Engineer,46
+9105,Richard Henson,Sales,2021-09-26,Career Site,Account Executive,32
+9106,Marc Moore,Sales,2024-05-15,University Recruiting,Account Executive,43
+9107,Sharon Cherry,Finance,2026-06-04,University Recruiting,Accountant,28
+9108,Sierra Johnson,Sales,2023-04-29,LinkedIn,Sales Coordinator,44
+9109,Evelyn Galvan,Engineering,2022-09-13,Recruiter Sourced,Broadcast Engineer,21
+9110,Sharon Cochran,Engineering,2026-07-04,Indeed,Broadcast Engineer,27
+9111,Richard Rodriguez,Engineering,2020-12-21,University Recruiting,Broadcast Engineer,42
+9112,Shannon Walker,Sales,2020-12-17,Employee Referral,Sales Coordinator,56
+9113,Julia Torres,Sales,2020-05-02,Indeed,Account Executive,47
+9114,Crystal Johnson,Sales,2025-05-28,Career Site,Account Executive,34
+9115,Garrett Lin,Human Resources,2018-09-25,Career Site,HR Generalist,21
+9116,Diana May,Sales,2025-02-18,LinkedIn,Account Executive,51
+9117,William Herrera,Sales,2024-01-29,Recruiter Sourced,Account Executive,37
+9118,Ashley Waller,News & Content,2020-10-07,Recruiter Sourced,Photojournalist,37
+9119,Victor Baker,News & Content,2022-12-27,Indeed,Photojournalist,52
+9120,Jeffrey Chandler,News & Content,2023-01-04,Career Site,News Director,34
+9121,Larry Dixon,Sales,2025-12-19,Career Site,Sales Manager,37
+9122,Kenneth Scott,Human Resources,2019-10-19,LinkedIn,HR Generalist,36
+9123,April Frost,News & Content,2018-11-11,LinkedIn,News Director,36
+9124,Michelle Harmon,Finance,2021-05-28,Employee Referral,Financial Analyst,22
+9125,Helen Jones,News & Content,2019-09-01,LinkedIn,Producer,10
+9126,Erin E. Edwards,News & Content,2021-06-30,Indeed,News Director,38
+9127,Michelle Evans,Finance,2023-03-21,Employee Referral,Accountant,22
+9128,Jason Powell,Sales,2020-06-03,Indeed,Sales Manager,29
+9129,Cameron Fisher,News & Content,2025-01-17,Career Site,Producer,41
+9130,Megan Orr,Sales,2019-04-18,Employee Referral,Sales Manager,17
+9131,Elizabeth Kelley,News & Content,2021-10-04,Employee Referral,Photojournalist,65
+9132,Dustin Jordan,News & Content,2025-11-26,Indeed,News Director,57
+9133,Mary Marshall,Sales,2024-06-07,Career Site,Account Executive,34
+9134,Daniel Kennedy,Engineering,2024-05-07,LinkedIn,Broadcast Engineer,39
+9135,Rebecca Jackson,Human Resources,2024-11-25,Recruiter Sourced,HR Manager,28
+9136,Jose Schultz,News & Content,2019-12-11,Employee Referral,Producer,12
+9137,Robert Potter,Sales,2025-03-01,Employee Referral,Sales Manager,23
+9138,Courtney Gonzalez,Sales,2024-01-28,Employee Referral,Sales Coordinator,55
+9139,David Alvarez,News & Content,2023-03-03,Employee Referral,Producer,38
+9140,Angel Perry,News & Content,2025-10-27,Career Site,Photojournalist,13
+9141,Cheyenne Horton,News & Content,2023-04-28,Career Site,Editor,38
+9142,David Douglas Jr.,News & Content,2020-12-17,Indeed,Photojournalist,55
+9143,Patricia Rodriguez,Sales,2024-05-28,LinkedIn,Sales Manager,24
+9144,Christopher Rubio,News & Content,2023-03-03,Career Site,Photojournalist,17
+9145,Amber Wright,Human Resources,2019-03-10,Employee Referral,HR Manager,30
+9146,Joyce Solis,News & Content,2019-01-03,Employee Referral,Photojournalist,58
+9147,Victoria Larson,News & Content,2024-09-22,Indeed,News Director,17
+9148,Stephanie Salazar,News & Content,2021-05-05,LinkedIn,Photojournalist,32
+9149,Kathy Rivas,Finance,2025-02-04,LinkedIn,Finance Manager,54
+9150,Stephanie Manning,Sales,2021-11-22,Employee Referral,Sales Coordinator,51
+9151,David Wright,News & Content,2025-07-02,LinkedIn,Reporter,34
+9152,Pamela Boyd,Finance,2025-07-08,Recruiter Sourced,Accountant,64
+9153,Denise J. Jones,News & Content,2020-05-16,Career Site,Producer,31
+9154,Devon Flores,Sales,2023-10-13,Indeed,Sales Manager,34
+9155,Brenda Hall,Finance,2023-05-18,University Recruiting,Finance Manager,9
+9156,Michelle Brown,News & Content,2018-08-26,Career Site,Reporter,50
+9157,Joshua Perry,News & Content,2024-10-11,LinkedIn,Editor,42
+9158,Jason Stein,Engineering,2021-08-14,LinkedIn,IT Support,34
+9159,Melissa Gates,News & Content,2020-12-30,University Recruiting,Editor,27
+9160,Jamie Smith,Sales,2018-11-21,LinkedIn,Account Executive,36
+9161,Paul Castaneda,Finance,2022-11-17,Recruiter Sourced,Financial Analyst,25
+9162,Jennifer Adkins,Human Resources,2019-10-04,Career Site,HR Generalist,29
+9163,Lindsey Walker,Sales,2022-07-31,Indeed,Sales Coordinator,38
+9164,Jeffrey Johnson,Engineering,2020-04-29,Recruiter Sourced,IT Support,41
+9165,Michael Powell,News & Content,2018-12-18,LinkedIn,Editor,41
+9166,John Anderson,Engineering,2024-05-30,Recruiter Sourced,IT Support,24
+9167,Alyssa Long,News & Content,2021-09-14,University Recruiting,Editor,10
+9168,Alyssa Day,News & Content,2022-02-15,Career Site,Editor,18
+9169,Joel Williams,Engineering,2023-04-27,LinkedIn,Broadcast Engineer,54
+9170,Daniel Murphy,Engineering,2022-08-06,Career Site,IT Support,28
+9171,Jamie Walton,Sales,2020-05-02,Employee Referral,Sales Coordinator,34
+9172,Darlene Miller,News & Content,2020-11-16,Recruiter Sourced,Reporter,46
+9173,Joshua Cooke,Human Resources,2021-09-18,LinkedIn,HR Generalist,30
+9174,Matthew Harrington,Sales,2019-08-14,Employee Referral,Sales Manager,45
+9175,Nicole Herring,Human Resources,2019-03-22,Recruiter Sourced,HR Generalist,30
+9176,Alex Hernandez,Human Resources,2023-02-17,University Recruiting,HR Generalist,26
+9177,Michael Elliott,News & Content,2018-12-15,University Recruiting,Producer,58
+9178,Michael Wang,Engineering,2021-10-02,LinkedIn,IT Support,47
+9179,Lawrence Adkins,News & Content,2019-03-29,LinkedIn,Reporter,49
+9180,Robert Oconnell,News & Content,2022-07-29,Career Site,Photojournalist,18
+9181,Alexander Collins,News & Content,2024-10-01,Recruiter Sourced,Reporter,24
+9182,Tina Sanders,Sales,2019-08-08,Indeed,Account Executive,33
+9183,Angela Vaughn,Sales,2019-08-22,LinkedIn,Sales Coordinator,29
+9184,Ashley Barton,News & Content,2023-01-13,Employee Referral,Photojournalist,44
+9185,Lindsay Martinez,Sales,2022-06-18,Employee Referral,Sales Manager,41
+9186,Dr. Hannah Patterson,News & Content,2023-10-11,Employee Referral,Editor,51
+9187,Jonathan Peterson,Engineering,2020-02-17,Employee Referral,IT Support,28
+9188,Samantha Garcia,Human Resources,2023-06-27,Recruiter Sourced,HR Manager,36
+9189,Madison Poole,Finance,2024-06-11,Career Site,Finance Manager,49
+9190,Jessica Gross,News & Content,2020-07-12,University Recruiting,News Director,27
+9191,Debra Morton,Sales,2019-02-18,University Recruiting,Sales Coordinator,25
+9192,Karen Graham,Sales,2024-10-09,Employee Referral,Sales Coordinator,51
+9193,Debra Christian,News & Content,2021-02-23,Career Site,Reporter,7
+9194,Angelica Keith,News & Content,2025-12-14,Recruiter Sourced,Reporter,54
+9195,John Bishop,Sales,2019-04-11,Employee Referral,Sales Manager,30
+9196,Allen Rosales,Finance,2023-12-07,LinkedIn,Finance Manager,33
+9197,Daniel Salinas,Finance,2021-12-12,Employee Referral,Finance Manager,50
+9198,Spencer Haynes,Sales,2021-05-06,Indeed,Sales Manager,44
+9199,Adam Vaughan,Human Resources,2021-02-15,University Recruiting,HR Generalist,15
+9200,Nathan Freeman,Sales,2023-04-24,Recruiter Sourced,Sales Manager,23
+9201,Melissa Brewer,Human Resources,2018-10-02,Employee Referral,HR Manager,34
+9202,Ricky Davis II,Sales,2020-12-30,University Recruiting,Account Executive,46
+9203,Elizabeth Perkins,News & Content,2026-06-17,Employee Referral,Editor,40
+9204,Joseph Coleman,Finance,2023-06-28,Indeed,Accountant,34
+9205,Erin Warner,Sales,2026-06-25,Indeed,Account Executive,28
+9206,David Martinez,Engineering,2022-02-05,Indeed,IT Support,58
+9207,Bryan Herrera,Sales,2019-09-23,Indeed,Sales Manager,32
+9208,Cathy Robinson,Engineering,2018-12-02,Indeed,Broadcast Engineer,46
+9209,Dr. William Warren,News & Content,2025-02-07,LinkedIn,Editor,31
+9210,Brian Lee,Finance,2020-02-27,LinkedIn,Financial Analyst,16
+9211,Christopher Smith,Engineering,2021-07-20,Indeed,Broadcast Engineer,9
+9212,Denise Mccann,Sales,2024-08-15,Recruiter Sourced,Account Executive,38
+9213,Melissa Martinez,News & Content,2025-05-19,Career Site,Photojournalist,43
+9214,Katherine Salas,News & Content,2019-06-17,LinkedIn,Photojournalist,53
+9215,Julie Alexander,News & Content,2018-12-30,University Recruiting,News Director,33
+9216,Anthony Everett,Engineering,2026-02-24,Recruiter Sourced,IT Support,30
+9217,Rodney Morales,Sales,2025-12-21,University Recruiting,Sales Manager,37
+9218,Mark Brown,News & Content,2025-07-05,LinkedIn,Producer,19
+9219,Justin Torres,Finance,2025-02-13,University Recruiting,Accountant,37
+9220,Bailey Duran DDS,Human Resources,2018-09-02,LinkedIn,HR Generalist,37
+9221,Courtney Mills,Sales,2024-02-10,LinkedIn,Sales Manager,32
+9222,Jeremy D. Dalton,Finance,2019-06-14,Recruiter Sourced,Financial Analyst,33
+9223,Elizabeth Oliver DDS,Engineering,2022-02-28,Recruiter Sourced,IT Support,53
+9224,Theresa Clark,News & Content,2018-09-28,University Recruiting,Editor,38
+9225,Matthew Moore,Engineering,2020-03-25,Recruiter Sourced,IT Support,29
+9226,Benjamin Smith,News & Content,2022-11-12,Employee Referral,Photojournalist,13
+9227,Kirk Carter,Finance,2020-03-10,University Recruiting,Accountant,16
+9228,Michael Warner,News & Content,2022-09-29,Career Site,Reporter,40
+9229,Mike Bradshaw,Sales,2020-08-17,Indeed,Sales Coordinator,23
+9230,Lori Guerrero,Engineering,2022-06-04,Career Site,Broadcast Engineer,30
+9231,Jessica Stephens,News & Content,2024-05-25,Indeed,Photojournalist,35
+9232,Susan Serrano,Sales,2019-09-10,Recruiter Sourced,Sales Coordinator,54
+9233,Christopher Parker,Human Resources,2024-02-24,Indeed,HR Generalist,47
+9234,Laura R. Roberts,Sales,2018-09-15,LinkedIn,Sales Coordinator,36
+9235,Michael Lyons,Sales,2023-03-23,Employee Referral,Sales Manager,53
+9236,Kathryn Snyder,Engineering,2023-11-13,Employee Referral,Systems Engineer,45
+9237,Andrew Reynolds,Sales,2018-11-28,Employee Referral,Sales Coordinator,11
+9238,David Davis,News & Content,2019-12-03,LinkedIn,Producer,52
+9239,Sara Johnston,Finance,2020-10-30,Recruiter Sourced,Financial Analyst,36
+9240,Yvonne Chambers,News & Content,2024-11-15,Career Site,Photojournalist,7
+9241,Andrew Avila,News & Content,2023-07-03,LinkedIn,Producer,46
+9242,Matthew Moon,News & Content,2018-12-26,University Recruiting,News Director,38
+9243,Kevin Walters,News & Content,2023-10-19,Employee Referral,Producer,33
+9244,Brandon Bailey MD,News & Content,2018-08-17,Employee Referral,Photojournalist,44
+9245,Shannon Rivera,News & Content,2021-09-01,LinkedIn,Producer,33
+9246,Donna Landry,News & Content,2020-09-23,LinkedIn,Reporter,39
+9247,Krista Gibson,News & Content,2025-05-17,Indeed,Photojournalist,32
+9248,Frank Cordova,News & Content,2023-11-03,Employee Referral,News Director,33
+9249,Jose Travis,Sales,2025-06-22,Employee Referral,Account Executive,19
+9250,Kimberly Gutierrez,News & Content,2018-09-17,LinkedIn,Photojournalist,40
+9251,Isaiah Avila,Sales,2025-07-01,Recruiter Sourced,Sales Manager,60
+9252,Olivia Harris,News & Content,2023-10-03,Employee Referral,Photojournalist,29
+9253,Tanya Kim,News & Content,2020-05-29,Employee Referral,Photojournalist,23
+9254,Barbara Dudley,News & Content,2021-08-09,Employee Referral,Editor,26
+9255,Cynthia M. Moore,Sales,2026-05-16,Employee Referral,Sales Coordinator,15
+9256,Kristen Davis,Sales,2019-05-11,LinkedIn,Sales Coordinator,31
+9257,Susan Murray MD,News & Content,2021-01-30,Indeed,Editor,32
+9258,Kathleen Moran,News & Content,2025-06-29,Recruiter Sourced,Reporter,34
+9259,Denise Davenport,News & Content,2022-10-24,Indeed,News Director,45
+9260,Mrs. Kristen Reyes,News & Content,2020-01-19,Career Site,Reporter,25
+9261,Katie Suarez,News & Content,2022-07-25,Employee Referral,Producer,26
+9262,Desiree Tyler,News & Content,2022-03-23,LinkedIn,Photojournalist,18
+9263,Timothy Romero,Sales,2025-12-20,Indeed,Sales Manager,25
+9264,Diane E. Evans,News & Content,2018-09-24,Career Site,Photojournalist,7
+9265,Yvonne Burns,Engineering,2020-07-15,Employee Referral,IT Support,45
+9266,Joshua Reed,Finance,2022-10-17,Recruiter Sourced,Accountant,21
+9267,Kimberly Gibson,News & Content,2021-03-24,Indeed,Photojournalist,21
+9268,Colin Terry,Engineering,2021-09-15,LinkedIn,Systems Engineer,35
+9269,Cynthia Rowe,Sales,2019-10-25,Indeed,Account Executive,23
+9270,Patrick Thornton,Sales,2021-05-02,LinkedIn,Account Executive,22
+9271,Jasmin Alvarado,News & Content,2021-05-17,Employee Referral,Reporter,20
+9272,Veronica S. Simpson,Sales,2023-07-24,LinkedIn,Sales Coordinator,25
+9273,Jonathan Lawrence,News & Content,2020-06-13,Employee Referral,Photojournalist,36
+9274,Shelly Alexander,Sales,2026-05-21,Career Site,Sales Coordinator,45
+9275,Joyce Bowen,News & Content,2022-07-27,Career Site,Producer,22
+9276,Matthew Moore,Sales,2025-01-20,Indeed,Sales Coordinator,33
+9277,Wayne Morgan,News & Content,2023-07-26,Indeed,Producer,28
+9278,Marie Christian,Sales,2025-08-03,Employee Referral,Account Executive,54
+9279,Shannon James,News & Content,2025-09-06,LinkedIn,Reporter,52
+9280,Nathan Malone,News & Content,2025-01-29,Indeed,Producer,16
+9281,Amanda Jones,Finance,2018-10-18,LinkedIn,Accountant,34
+9282,Tammie Bright,News & Content,2022-12-31,Employee Referral,Editor,35
+9283,Jessica Garcia,News & Content,2020-10-19,Employee Referral,Photojournalist,28
+9284,Shelia Wallace,News & Content,2019-10-10,Employee Referral,News Director,25
+9285,Stephanie Williams,Engineering,2025-09-26,Employee Referral,Systems Engineer,23
+9286,Elaine Brooks,News & Content,2023-10-25,Recruiter Sourced,Photojournalist,26
+9287,Joseph Knight,Finance,2019-04-06,Employee Referral,Accountant,7
+9288,Carolyn Miller,News & Content,2021-08-13,University Recruiting,Producer,42
+9289,Lisa A. Allen,Sales,2026-03-30,Employee Referral,Sales Manager,39
+9290,Briana Murray,News & Content,2023-06-17,Recruiter Sourced,Photojournalist,32
+9291,David Smith,News & Content,2023-07-25,Recruiter Sourced,Reporter,24
+9292,Stephanie Byrd,Engineering,2020-05-18,Career Site,IT Support,27
+9293,Jeremy Reed,Sales,2020-06-25,University Recruiting,Sales Coordinator,60
+9294,Margaret Coleman,News & Content,2019-10-13,LinkedIn,Producer,55
+9295,Ryan G. Gonzalez,Engineering,2026-04-28,Career Site,Systems Engineer,26
+9296,John Young,News & Content,2025-11-02,LinkedIn,Photojournalist,20
+9297,Laura H. Haney,Sales,2021-03-12,Indeed,Account Executive,28
+9298,William Barrett,News & Content,2022-11-24,Indeed,Editor,30
+9299,Keith Jennings,News & Content,2020-03-19,LinkedIn,Reporter,19
+9300,Amber Obrien,Engineering,2019-09-01,LinkedIn,Broadcast Engineer,37
+9301,Tanner Mitchell DDS,Sales,2022-11-21,Indeed,Sales Coordinator,32
+9302,Heather Fields,Finance,2024-12-16,Employee Referral,Finance Manager,28
+9303,Megan Le,News & Content,2025-06-17,Employee Referral,News Director,26
+9304,Sara Fuller,Sales,2021-01-11,Career Site,Account Executive,43
+9305,Maria Parker,News & Content,2024-03-14,Career Site,News Director,24
+9306,Kevin Oconnor,Finance,2022-10-01,LinkedIn,Financial Analyst,65
+9307,Edward Burgess,Sales,2019-08-23,LinkedIn,Sales Manager,36
+9308,Carlos Ryan,News & Content,2026-07-11,Employee Referral,News Director,35
+9309,Kiara Mcintyre,News & Content,2026-05-14,Employee Referral,Editor,40
+9310,Dawn Summers,Engineering,2019-09-21,Recruiter Sourced,IT Support,54
+9311,Dr. Paul Morgan,News & Content,2026-01-09,Employee Referral,Reporter,26
+9312,Victor T. Taylor,News & Content,2025-11-23,Employee Referral,News Director,41
+9313,Shannon Ramsey,Engineering,2021-02-05,Employee Referral,IT Support,41
+9314,Tracy Ballard,Sales,2023-01-07,Indeed,Sales Manager,47
+9315,Richard Smith,Human Resources,2026-02-23,LinkedIn,HR Manager,30
+9316,Jordan Chambers,News & Content,2019-07-04,Recruiter Sourced,Reporter,46
+9317,Lauren Carson,Finance,2021-02-06,LinkedIn,Accountant,25
+9318,Ashley H. Hall,Sales,2025-08-06,LinkedIn,Sales Manager,7
+9319,Stephen H. Hoffman,Sales,2024-05-17,Career Site,Sales Coordinator,13
+9320,Connie Brown,Sales,2024-09-06,Recruiter Sourced,Sales Coordinator,34
+9321,Susan Turner,News & Content,2025-08-07,LinkedIn,Reporter,45
+9322,Charles Shah,News & Content,2021-11-14,Indeed,Producer,35
+9323,Johnathan Davis,Sales,2021-11-06,Employee Referral,Sales Manager,36
+9324,Brandy C. Chavez,Sales,2022-02-07,LinkedIn,Sales Coordinator,41
+9325,Natalie Bautista,Sales,2026-01-11,Employee Referral,Account Executive,40
+9326,Patrick Moore,News & Content,2025-09-17,Indeed,Photojournalist,50
+9327,Brett Burns,Sales,2026-01-09,Recruiter Sourced,Sales Manager,27
+9328,Trevor Johnson,Sales,2020-10-01,LinkedIn,Account Executive,39
+9329,Jeremy S. Sampson,News & Content,2024-10-16,Employee Referral,Producer,53
+9330,Ariana Jennings,Sales,2019-05-31,Recruiter Sourced,Sales Coordinator,39
+9331,Vanessa Howard,News & Content,2020-01-14,LinkedIn,Photojournalist,50
+9332,Colton Martinez,Engineering,2024-08-28,Employee Referral,Broadcast Engineer,28
+9333,Jordan Bates,Finance,2023-06-16,Employee Referral,Finance Manager,46
+9334,Linda Smith,Sales,2020-09-10,Career Site,Sales Coordinator,46
+9335,Dana Martinez,Sales,2023-02-04,Career Site,Account Executive,12
+9336,Andrea Hubbard,Finance,2020-05-28,LinkedIn,Finance Manager,37
+9337,Daniel Kane,News & Content,2020-06-01,Employee Referral,Photojournalist,36
+9338,Charles Lester,News & Content,2024-01-22,LinkedIn,Producer,44
+9339,Scott Thomas,Finance,2021-06-07,LinkedIn,Finance Manager,36
+9340,David Thompson,Sales,2024-01-24,Indeed,Sales Coordinator,68
+9341,Allison Smith,Sales,2022-05-16,Employee Referral,Account Executive,57
+9342,Cynthia Morris,News & Content,2022-07-30,University Recruiting,Reporter,41
+9343,Anthony Harmon,News & Content,2023-05-25,Career Site,Editor,37
+9344,Nichole Alvarez,News & Content,2024-04-03,Indeed,Photojournalist,19
+9345,Kayla Rodriguez,Sales,2021-07-20,LinkedIn,Sales Manager,36
+9346,Theresa Williams,Sales,2025-05-17,University Recruiting,Account Executive,35
+9347,Sharon Boyd,Sales,2022-06-29,LinkedIn,Sales Coordinator,67
+9348,Victor Brown,News & Content,2019-08-29,LinkedIn,Producer,40
+9349,James Parks,News & Content,2020-02-08,Employee Referral,Photojournalist,47
+9350,Theodore Jones Jr.,Engineering,2018-10-26,Employee Referral,IT Support,26
+9351,Ana Hill,Engineering,2024-09-03,LinkedIn,Broadcast Engineer,45
+9352,Kimberly Nguyen,News & Content,2018-09-05,Recruiter Sourced,Producer,7
+9353,Kerry Chavez DDS,Engineering,2020-09-19,LinkedIn,IT Support,50
+9354,Michael Farrell,Engineering,2021-11-11,LinkedIn,Broadcast Engineer,23
+9355,Patricia Le,News & Content,2024-07-01,Employee Referral,Reporter,19
+9356,Jesse Perez,Sales,2026-06-19,Employee Referral,Account Executive,32
+9357,Jesse Perry,Engineering,2024-08-15,Indeed,IT Support,44
+9358,Jeffery Ortega,Sales,2019-02-02,LinkedIn,Sales Coordinator,31
+9359,Christian Leblanc,Sales,2025-12-22,Indeed,Sales Coordinator,20
+9360,Ronald Davis,Engineering,2026-06-12,University Recruiting,Broadcast Engineer,40
+9361,Parker Cain,News & Content,2025-06-30,Employee Referral,News Director,23
+9362,Laurie Hoffman,Sales,2022-06-24,University Recruiting,Account Executive,31
+9363,Bryan Gomez,Engineering,2021-02-27,Indeed,Systems Engineer,25
+9364,Nicole Parrish,News & Content,2022-03-21,Career Site,Reporter,35
+9365,Tracy Burke,News & Content,2020-07-14,Employee Referral,Photojournalist,32
+9366,Kenneth Lewis,Engineering,2021-10-19,Employee Referral,Systems Engineer,36
+9367,Courtney Rodriguez,News & Content,2018-11-23,Employee Referral,Editor,67
+9368,Holly Farmer,Finance,2024-06-10,Employee Referral,Finance Manager,19
+9369,Renee B. Bruce,Human Resources,2021-08-08,Career Site,HR Manager,52
+9370,Sabrina Austin,News & Content,2021-01-23,LinkedIn,Producer,7
+9371,Allison Hickman,Sales,2023-06-14,LinkedIn,Sales Manager,18
+9372,Debra White,News & Content,2024-07-01,Employee Referral,News Director,36
+9373,Ellen Morgan,Sales,2023-04-24,Recruiter Sourced,Sales Coordinator,32
+9374,Sergio Knight,Engineering,2022-10-05,LinkedIn,Broadcast Engineer,40
+9375,Charles Schultz,News & Content,2025-07-26,Career Site,Photojournalist,29
+9376,Paul Lewis,Sales,2024-11-08,Employee Referral,Sales Manager,33
+9377,Glen Wood,Engineering,2022-09-22,Career Site,IT Support,32
+9378,Paula Bradley,Finance,2022-03-04,Employee Referral,Accountant,34
+9379,Anthony Moore,Engineering,2025-03-05,Employee Referral,Systems Engineer,35
+9380,Megan Nelson,News & Content,2018-11-24,Employee Referral,Reporter,32
+9381,Karla Ramos,News & Content,2026-07-11,Career Site,Photojournalist,29
+9382,Paul Wilson,News & Content,2022-09-16,Employee Referral,Photojournalist,31
+9383,Douglas Gregory,Sales,2021-09-21,Career Site,Sales Coordinator,37
+9384,Mr. Andrew Foster,Sales,2024-06-10,LinkedIn,Sales Coordinator,37
+9385,Aimee Turner,News & Content,2023-01-08,Career Site,Photojournalist,25
+9386,Chad Scott,News & Content,2022-09-09,Recruiter Sourced,Editor,21
+9387,Adam Burgess,Sales,2023-08-09,Employee Referral,Account Executive,12
+9388,James Padilla,News & Content,2018-12-15,Recruiter Sourced,Photojournalist,56
+9389,Sandra Drake,News & Content,2020-11-20,Recruiter Sourced,Reporter,17
+9390,Scott Williams,Human Resources,2021-09-29,LinkedIn,HR Manager,23
+9391,Thomas Atkins,Finance,2020-12-29,Indeed,Accountant,43
+9392,Laura Mckinney,News & Content,2025-03-07,LinkedIn,Photojournalist,15
+9393,Brian Smith,Finance,2022-04-02,Indeed,Financial Analyst,11
+9394,Robert Montgomery,Engineering,2021-12-09,University Recruiting,Broadcast Engineer,26
+9395,Tamara Davis,Engineering,2023-06-19,Career Site,Broadcast Engineer,46
+9396,Dana Chapman,News & Content,2018-12-30,Recruiter Sourced,Producer,33
+9397,Jennifer Collins,News & Content,2022-09-11,LinkedIn,Editor,62
+9398,Gary Jackson,News & Content,2019-09-12,Employee Referral,Editor,42
+9399,Ashley Hicks,News & Content,2025-03-13,Employee Referral,Photojournalist,17
+9400,Hannah Luna,News & Content,2022-03-04,LinkedIn,Editor,35
+9401,Robin Young,Sales,2024-05-04,Employee Referral,Sales Manager,12
+9402,Craig Morrison,News & Content,2019-06-19,Indeed,Reporter,41
+9403,Mary T. Thompson,Sales,2024-10-15,Career Site,Sales Coordinator,27
+9404,Kathleen W. Webster,Sales,2026-01-23,Employee Referral,Sales Manager,40
+9405,Joann Glass,Engineering,2024-02-17,Employee Referral,Broadcast Engineer,55
+9406,Madison Weber,Sales,2019-08-23,Career Site,Account Executive,54
+9407,Lori Hernandez,News & Content,2021-11-13,Employee Referral,News Director,31
+9408,Jeremy Turner,Engineering,2022-03-02,LinkedIn,Systems Engineer,44
+9409,Anthony Romero,Finance,2019-12-28,Indeed,Financial Analyst,29
+9410,Jesse Brown,News & Content,2023-04-13,Indeed,Photojournalist,36
+9411,Angela Lin,Sales,2024-04-05,Employee Referral,Sales Manager,14
+9412,Lisa Hunter,News & Content,2020-03-05,LinkedIn,Reporter,23
+9413,Julian C. Conner,Human Resources,2022-03-13,Career Site,HR Generalist,41
+9414,Joanna Pacheco,Finance,2020-07-23,LinkedIn,Finance Manager,11
+9415,Erica Alvarez,News & Content,2024-02-04,Career Site,Editor,35
+9416,Antonio Garcia,News & Content,2025-10-25,Employee Referral,News Director,36
+9417,Gwendolyn Klein,News & Content,2024-12-06,Employee Referral,Reporter,41
+9418,Carrie Wright,Sales,2024-04-22,Employee Referral,Sales Coordinator,14
+9419,Jeffrey Mills,News & Content,2019-07-19,Indeed,Reporter,12
+9420,Jake Campbell,Engineering,2019-06-22,Career Site,Broadcast Engineer,46
+9421,George Harper,News & Content,2022-02-26,Employee Referral,Reporter,36
+9422,Maria Jones,Sales,2021-06-18,Indeed,Account Executive,29
+9423,Michael Mitchell,Sales,2022-10-01,Career Site,Account Executive,13
+9424,Mary Escobar,News & Content,2021-08-19,Recruiter Sourced,Editor,28
+9425,Felicia Aguilar,News & Content,2024-11-20,Recruiter Sourced,Photojournalist,19
+9426,Gregory Ponce,Sales,2022-08-27,Indeed,Account Executive,46
+9427,Jenna Larson,News & Content,2026-02-27,LinkedIn,Editor,16
+9428,Emily Bennett,News & Content,2021-08-03,Indeed,News Director,31
+9429,Robin Santiago,Human Resources,2021-08-09,Recruiter Sourced,HR Generalist,44
+9430,Nancy Jennings,Sales,2024-09-14,Career Site,Account Executive,42
+9431,Maria Henderson,Sales,2025-11-09,Career Site,Account Executive,28
+9432,Jack White,Sales,2023-01-31,LinkedIn,Account Executive,42
+9433,Travis Tucker,Human Resources,2023-11-02,Employee Referral,HR Manager,44
+9434,Chad Jones,News & Content,2019-10-05,Employee Referral,Reporter,35
+9435,Ashley Wise,Finance,2025-07-05,Career Site,Finance Manager,39
+9436,Sophia Johnson,Human Resources,2019-12-28,University Recruiting,HR Generalist,31
+9437,Ralph A. Anderson,News & Content,2024-04-03,University Recruiting,Producer,48
+9438,Christopher Guerra,News & Content,2021-12-01,Recruiter Sourced,News Director,32
+9439,Rhonda Martin,News & Content,2021-01-13,LinkedIn,Reporter,15
+9440,Jason Rhodes,Engineering,2024-09-15,Employee Referral,IT Support,40
+9441,Jeremy Mitchell,News & Content,2022-02-16,Employee Referral,Reporter,20
+9442,Joann Ferguson,Sales,2023-07-28,Career Site,Sales Coordinator,50
+9443,Robert Harrison,Engineering,2019-07-02,Employee Referral,Broadcast Engineer,39
+9444,Holly Valentine,Sales,2019-08-12,Recruiter Sourced,Account Executive,8
+9445,Mrs. Diane Reyes,Finance,2020-03-07,LinkedIn,Finance Manager,45
+9446,Tracy Montoya,News & Content,2023-07-17,Indeed,Photojournalist,37
+9447,Brenda Wright,Finance,2020-08-01,Employee Referral,Finance Manager,43
+9448,Shelly Spencer,Sales,2022-03-25,Recruiter Sourced,Account Executive,34
+9449,Ryan Rosales,Engineering,2025-05-27,University Recruiting,Systems Engineer,49
+9450,Phillip N. Nelson,Finance,2022-11-28,LinkedIn,Accountant,25
+9451,Brittany Kim,Human Resources,2018-08-09,LinkedIn,HR Generalist,45
+9452,Courtney Hayes,News & Content,2025-08-15,University Recruiting,News Director,38
+9453,Alexander Brown,Sales,2020-06-18,Career Site,Sales Manager,12
+9454,Cynthia Vang,News & Content,2023-04-09,Career Site,Producer,11
+9455,Alfred Galvan,News & Content,2022-05-14,Employee Referral,Editor,30
+9456,Marie Moody,Human Resources,2021-11-03,LinkedIn,HR Manager,23
+9457,Dustin Gallegos,Human Resources,2019-03-13,LinkedIn,HR Generalist,8
+9458,Brenda Thornton,Sales,2023-05-12,Career Site,Sales Manager,18
+9459,Aaron Miller,Sales,2020-07-08,Employee Referral,Account Executive,31
+9460,Ruben Dunn,News & Content,2022-12-09,Recruiter Sourced,Editor,23
+9461,Kelsey Rodriguez,Sales,2023-07-08,University Recruiting,Sales Coordinator,64
+9462,Eric Williams,News & Content,2023-01-08,Employee Referral,Photojournalist,25
+9463,Riley Bryant,Sales,2025-02-28,University Recruiting,Account Executive,49
+9464,Taylor Carlson,Human Resources,2018-12-13,Indeed,HR Manager,55
+9465,Jose Allen,News & Content,2019-09-30,Employee Referral,Producer,27
+9466,Jeffrey Mendez,News & Content,2023-10-14,Employee Referral,Photojournalist,26
+9467,Jason B. Beck,Human Resources,2018-11-08,Career Site,HR Generalist,27
+9468,William Jones,News & Content,2025-05-22,University Recruiting,Reporter,31
+9469,Katie Mcneil,Engineering,2023-11-23,Recruiter Sourced,Broadcast Engineer,29
+9470,Jeanette Harrison,Sales,2025-04-06,Career Site,Sales Coordinator,18
+9471,Veronica King,Sales,2020-12-12,Career Site,Sales Manager,38
+9472,Richard Cooper,Sales,2025-12-03,Employee Referral,Sales Coordinator,29
+9473,Lori Ingram,Sales,2018-12-14,Employee Referral,Account Executive,64
+9474,Evelyn Williams,Human Resources,2021-11-23,Indeed,HR Generalist,46
+9475,Robin Thompson,News & Content,2019-12-26,Employee Referral,Producer,29
+9476,Julie Dominguez,Finance,2023-12-08,Employee Referral,Finance Manager,41
+9477,Robin Brown,Engineering,2023-06-13,Recruiter Sourced,Broadcast Engineer,41
+9478,Judith Carter,Sales,2024-02-03,Indeed,Sales Coordinator,48
+9479,Curtis Williams,Sales,2023-04-27,Employee Referral,Sales Coordinator,11
+9480,Kaylee Hays,News & Content,2024-11-09,Employee Referral,Producer,17
+9481,Dawn Mullins,News & Content,2019-12-24,Career Site,Editor,23
+9482,Howard Norman,News & Content,2022-03-15,Employee Referral,Reporter,33
+9483,Evelyn Martinez,News & Content,2023-03-11,Career Site,Reporter,7
+9484,Steve P. Paul,Engineering,2026-01-04,Indeed,Systems Engineer,22
+9485,Jasmine Beltran,Sales,2019-04-22,Recruiter Sourced,Account Executive,51
+9486,Jonathan Glass MD,Human Resources,2020-12-14,Indeed,HR Manager,19
+9487,Monica Miller,News & Content,2021-07-04,Employee Referral,News Director,37
+9488,Samantha Gardner,News & Content,2021-08-04,Career Site,Producer,37
+9489,Bobby Guerrero,News & Content,2019-02-06,Recruiter Sourced,Editor,39
+9490,Lance Simmons,Sales,2021-12-23,Recruiter Sourced,Sales Manager,43
+9491,Heather Williams,Engineering,2022-12-18,Career Site,IT Support,47
+9492,Heather Bolton,Engineering,2020-11-25,Career Site,Systems Engineer,53
+9493,William Gould,News & Content,2019-08-21,Employee Referral,Photojournalist,29
+9494,Mark Cox,Sales,2024-02-12,Career Site,Sales Manager,23
+9495,Meghan Cisneros,Engineering,2020-10-02,Employee Referral,Broadcast Engineer,39
+9496,Lawrence Harrington,Sales,2022-10-11,Indeed,Sales Manager,39
+9497,Austin O. Osborne,Sales,2022-10-04,Employee Referral,Sales Manager,44
+9498,James Bradley,News & Content,2024-02-16,University Recruiting,Producer,14
+9499,Meghan Rush,Sales,2023-06-16,Indeed,Sales Coordinator,43
+9500,Phillip Berry,Sales,2019-06-08,Indeed,Account Executive,16
+9501,Jennifer Banks,News & Content,2024-05-25,Career Site,Producer,37
+9502,Brian Fitzgerald,News & Content,2023-08-04,Indeed,News Director,28
+9503,Mr. Justin Green III,Finance,2026-06-16,University Recruiting,Accountant,49
+9504,Zachary Mitchell,News & Content,2022-06-06,University Recruiting,Photojournalist,15
+9505,Katherine Martinez,News & Content,2024-01-26,Employee Referral,Producer,36
+9506,Jodi Roach,Engineering,2026-01-11,Employee Referral,Broadcast Engineer,39
+9507,Brandon Fleming,Finance,2026-06-13,LinkedIn,Financial Analyst,29
+9508,Emma Reed,News & Content,2020-11-09,Indeed,Reporter,36
+9509,Joshua Vance,Finance,2023-06-07,LinkedIn,Finance Manager,27
+9510,Michelle Ho,Finance,2021-02-02,Recruiter Sourced,Finance Manager,35
+9511,Rebecca H. Hicks,News & Content,2022-10-06,University Recruiting,Editor,38
+9512,Curtis Taylor,News & Content,2026-07-09,Employee Referral,Photojournalist,27
+9513,Allison Spencer,News & Content,2021-05-22,Employee Referral,News Director,32
+9514,Robert Arnold,News & Content,2019-08-07,Career Site,News Director,7
+9515,Angelica Parker,News & Content,2023-01-23,Career Site,News Director,11
+9516,Dr. Kelly Hammond DVM,News & Content,2022-09-19,University Recruiting,Producer,28
+9517,William Day,News & Content,2023-08-13,LinkedIn,News Director,18
+9518,Michael Cooper,News & Content,2022-07-02,Recruiter Sourced,News Director,31
+9519,Penny Bowman,News & Content,2019-12-31,Career Site,Producer,48
+9520,Vincent Reynolds,News & Content,2023-06-08,LinkedIn,Editor,51
+9521,Amy Martinez,Sales,2024-03-24,University Recruiting,Sales Manager,31
+9522,Christopher Morris,Engineering,2026-05-24,University Recruiting,IT Support,19
+9523,Hannah Everett,News & Content,2018-07-28,LinkedIn,Photojournalist,18
+9524,Sarah K. King,Human Resources,2018-10-02,LinkedIn,HR Generalist,55
+9525,Krista Martinez,News & Content,2023-07-25,University Recruiting,Reporter,45
+9526,Joseph Shaw,Sales,2019-07-03,Employee Referral,Sales Manager,31
+9527,Todd Moore,News & Content,2025-05-06,Employee Referral,Reporter,34
+9528,Michelle Jacobs,Sales,2024-12-15,LinkedIn,Sales Manager,31
+9529,Kristy Bryan,News & Content,2026-07-21,Recruiter Sourced,Reporter,40
+9530,Angel May,Finance,2021-11-14,Employee Referral,Accountant,33
+9531,Marilyn Wang,Sales,2021-03-25,Recruiter Sourced,Sales Coordinator,43
+9532,Mark Jimenez,Sales,2023-01-16,Recruiter Sourced,Sales Coordinator,43
+9533,Donna Frye,Engineering,2023-08-29,Career Site,Systems Engineer,21
+9534,Dr. Michael Evans,Engineering,2018-08-26,Employee Referral,IT Support,38
+9535,Anthony G. Gonzales,Sales,2020-03-02,University Recruiting,Sales Coordinator,50
+9536,Mr. Lawrence Edwards,Finance,2020-10-23,LinkedIn,Financial Analyst,40
+9537,Morgan Valencia,Sales,2024-11-17,Employee Referral,Account Executive,38
+9538,Bianca Wood,Sales,2021-01-08,LinkedIn,Sales Coordinator,24
+9539,Emma Owens,Sales,2022-08-12,Employee Referral,Account Executive,24
+9540,David Davis,Finance,2021-02-24,Indeed,Accountant,33
+9541,James Gilbert,Engineering,2018-08-10,Employee Referral,Broadcast Engineer,25
+9542,Sean Moore,News & Content,2024-01-18,LinkedIn,Reporter,46
+9543,Kenneth Edwards,Sales,2021-04-16,Employee Referral,Sales Manager,31
+9544,Kathleen Robertson,Human Resources,2024-05-09,LinkedIn,HR Manager,25
+9545,Mr. Alexander Landry MD,Finance,2023-06-27,Indeed,Finance Manager,47
+9546,Cindy Gomez,Sales,2018-10-17,Recruiter Sourced,Sales Manager,19
+9547,Johnny Khan,Sales,2019-12-19,Career Site,Sales Coordinator,33
+9548,Julie Herrera,Finance,2021-03-15,Employee Referral,Finance Manager,26
+9549,Jessica Khan,News & Content,2021-04-06,Employee Referral,Photojournalist,65
+9550,Pamela Diaz,News & Content,2023-12-09,Career Site,News Director,33
+9551,Kelly Lee,News & Content,2025-11-21,Indeed,News Director,22
+9552,Angel Gordon,Sales,2024-12-08,LinkedIn,Account Executive,34
+9553,Diana H. Hays,Sales,2023-09-22,Employee Referral,Sales Manager,31
+9554,Barbara H. Hester,News & Content,2022-05-30,Employee Referral,Producer,24
+9555,Robert Morgan,News & Content,2023-07-30,Indeed,Reporter,46
+9556,Nicole Gonzalez,Sales,2025-09-11,Employee Referral,Sales Manager,42
+9557,Kathryn Williams,Sales,2022-11-09,Employee Referral,Account Executive,37
+9558,Gary Wells,Engineering,2021-03-29,Career Site,IT Support,23
+9559,Larry Robertson,Sales,2024-10-30,Employee Referral,Account Executive,57
+9560,Louis Martin,Finance,2021-11-14,Recruiter Sourced,Accountant,38
+9561,Nancy Evans MD,Sales,2024-07-01,Career Site,Account Executive,26
+9562,Kim Erickson,Sales,2025-03-29,Recruiter Sourced,Sales Manager,48
+9563,Robert Richardson,Human Resources,2020-12-14,Employee Referral,HR Manager,35
+9564,Veronica Silva,Sales,2024-05-11,Recruiter Sourced,Account Executive,46
+9565,Molly Watts,Sales,2021-01-30,LinkedIn,Account Executive,39
+9566,John Coffey,Finance,2022-11-05,Career Site,Finance Manager,62
+9567,Paula Lane,Engineering,2020-03-23,Employee Referral,Broadcast Engineer,20
+9568,Lauren Jackson,Human Resources,2024-01-17,Career Site,HR Manager,27
+9569,Lisa Randall,Human Resources,2024-12-15,Career Site,HR Manager,72
+9570,Michael Johnson,News & Content,2025-08-30,Career Site,Editor,32
+9571,Ashley Smith,Finance,2021-05-22,Employee Referral,Financial Analyst,19
+9572,Christian Vaughn,Sales,2026-04-26,Career Site,Account Executive,41
+9573,Reginald Knapp,Finance,2020-10-20,Employee Referral,Accountant,48
+9574,Nancy Brown,News & Content,2018-10-23,Career Site,Reporter,32
+9575,Daniel Nguyen,Human Resources,2026-06-06,Career Site,HR Manager,9
+9576,Kelly Edwards,Finance,2023-07-28,LinkedIn,Financial Analyst,22
+9577,Thomas Peterson,News & Content,2025-04-19,University Recruiting,Reporter,13
+9578,Raymond Le,Sales,2023-02-16,Career Site,Account Executive,60
+9579,Melissa Bishop,News & Content,2021-09-04,LinkedIn,Reporter,12
+9580,David Grant,News & Content,2023-04-28,Indeed,News Director,26
+9581,Bill Evans,Sales,2025-06-23,Recruiter Sourced,Account Executive,40
+9582,Daniel Bush,Sales,2024-07-28,Indeed,Account Executive,17
+9583,Gregory Peck,Engineering,2024-03-14,Career Site,IT Support,39
+9584,Denise Martinez,News & Content,2021-01-27,Recruiter Sourced,Reporter,25
+9585,Jamie Baird,News & Content,2018-10-24,Employee Referral,News Director,38
+9586,Tina Ballard,Engineering,2021-11-14,Indeed,Systems Engineer,30
+9587,Dwayne Klein,Engineering,2022-07-15,Employee Referral,IT Support,31
+9588,Jeremy Scott,Sales,2020-06-17,Indeed,Sales Coordinator,47
+9589,Dale Ryan,Sales,2022-03-05,LinkedIn,Sales Coordinator,18
+9590,Melissa Taylor,News & Content,2026-03-02,LinkedIn,Editor,38
+9591,Laurie Sanchez,News & Content,2020-04-15,University Recruiting,News Director,44
+9592,Kiara Little,Sales,2020-12-23,LinkedIn,Sales Manager,17
+9593,Jason Love,News & Content,2019-06-16,Career Site,Photojournalist,13
+9594,Randy Smith,Human Resources,2024-11-02,Employee Referral,HR Generalist,30
+9595,Tanya Russell,Sales,2024-10-12,Employee Referral,Account Executive,7
+9596,Sherry Woods,News & Content,2025-11-12,Recruiter Sourced,Producer,37
+9597,Victor Morris,Human Resources,2022-02-09,LinkedIn,HR Manager,42
+9598,Susan Davis,Sales,2018-10-04,Career Site,Account Executive,15
+9599,Kimberly Sharp,News & Content,2022-06-03,Employee Referral,Reporter,45
+9600,Susan Thompson,Engineering,2022-07-24,LinkedIn,Systems Engineer,49
+9601,Casey Gillespie,Finance,2020-01-30,Recruiter Sourced,Finance Manager,38
+9602,Jennifer Simpson DVM,News & Content,2025-12-12,Recruiter Sourced,Reporter,50
+9603,Tammy Mcdowell,Sales,2024-06-02,Employee Referral,Account Executive,29
+9604,Keith Rodriguez,News & Content,2022-10-01,Employee Referral,Photojournalist,26
+9605,Mrs. Virginia Daniels,Finance,2024-10-06,Indeed,Finance Manager,32
+9606,Todd Rosales MD,News & Content,2019-09-15,University Recruiting,Producer,20
+9607,Brian Martin,News & Content,2025-07-14,LinkedIn,News Director,26
+9608,David Lopez,News & Content,2025-02-19,Employee Referral,News Director,34
+9609,Rachel Bradley,Sales,2026-01-23,University Recruiting,Account Executive,35
+9610,Casey Chase,News & Content,2023-12-22,Recruiter Sourced,News Director,39
+9611,Samantha Robertson,Engineering,2019-08-15,LinkedIn,IT Support,7
+9612,Michael Lopez,News & Content,2024-05-10,Career Site,Reporter,72
+9613,Franklin Wright,News & Content,2022-03-27,Employee Referral,Producer,21
+9614,David Molina,Engineering,2024-04-08,Career Site,Systems Engineer,42
+9615,Elizabeth Sharp,Sales,2022-09-27,University Recruiting,Sales Coordinator,37
+9616,Matthew Schwartz,News & Content,2018-08-05,LinkedIn,Reporter,25
+9617,Bryan Parker,Engineering,2026-01-07,Recruiter Sourced,IT Support,41
+9618,Jonathan Jacobson,Sales,2024-01-21,Recruiter Sourced,Sales Manager,22
+9619,Emily Wilson,News & Content,2023-04-25,University Recruiting,Photojournalist,33
+9620,Elizabeth Mendez,Sales,2019-04-04,Indeed,Sales Coordinator,60
+9621,Casey Hernandez,News & Content,2022-04-18,Recruiter Sourced,Producer,28
+9622,Lisa Perry,News & Content,2018-12-05,University Recruiting,Reporter,34
+9623,Kaitlin Medina,Sales,2022-09-22,Career Site,Sales Manager,20
+9624,Colleen Wright,News & Content,2023-10-31,Career Site,Reporter,42
+9625,Shelley Miller,Engineering,2021-01-22,LinkedIn,Systems Engineer,23
+9626,Mike Miller,News & Content,2023-03-07,Career Site,Producer,37
+9627,Amy K. Kelley,News & Content,2021-01-21,University Recruiting,Producer,47
+9628,Laura Hernandez,Finance,2025-09-11,Career Site,Financial Analyst,30
+9629,Joseph Wilson,Sales,2021-02-15,Indeed,Sales Coordinator,41
+9630,Kevin Davis,News & Content,2020-02-06,LinkedIn,Reporter,38
+9631,Rhonda Chavez,News & Content,2020-10-09,LinkedIn,News Director,47
+9632,Joyce Brown,Engineering,2021-02-10,Career Site,IT Support,41
+9633,Robert Cummings,News & Content,2022-02-01,Recruiter Sourced,News Director,50
+9634,Robert Reese,Sales,2019-07-02,Employee Referral,Sales Coordinator,30
+9635,Amber C. Cooper,Sales,2019-10-03,Indeed,Sales Manager,17
+9636,Zachary Michael,Engineering,2020-09-30,Career Site,IT Support,12
+9637,Timothy Johnson,News & Content,2018-09-06,LinkedIn,News Director,13
+9638,Randy Cannon,Human Resources,2023-07-18,LinkedIn,HR Generalist,30
+9639,Maria Fisher,News & Content,2022-09-03,Employee Referral,Editor,36
+9640,Janet Kane DVM,Engineering,2020-03-18,Career Site,Systems Engineer,24
+9641,Mike Stanley,News & Content,2021-05-12,Indeed,Editor,7
+9642,Martha Bailey,Sales,2021-02-08,Recruiter Sourced,Sales Coordinator,25
+9643,Joshua Rice,Finance,2019-09-10,Indeed,Finance Manager,28
+9644,Courtney Smith,Sales,2024-03-12,LinkedIn,Sales Coordinator,33
+9645,Edwin Nunez,News & Content,2020-10-28,LinkedIn,Photojournalist,52
+9646,Kim Morrow,News & Content,2020-07-08,Indeed,Producer,10
+9647,Gregory Hill,Human Resources,2019-02-17,Indeed,HR Generalist,42
+9648,Molly R. Rodriguez,Sales,2023-06-19,Career Site,Sales Manager,41
+9649,Jennifer Miranda,News & Content,2021-04-08,University Recruiting,News Director,30
+9650,Alexis Harris,Engineering,2022-02-09,University Recruiting,IT Support,39
+9651,Andrew Harper,News & Content,2019-08-08,Employee Referral,Photojournalist,31
+9652,Amber Yang,Sales,2022-04-29,Employee Referral,Sales Manager,41
+9653,David Robinson,News & Content,2023-12-18,LinkedIn,News Director,22
+9654,Amy Gordon,Sales,2019-05-29,LinkedIn,Account Executive,21
+9655,Robert Dennis,Finance,2018-12-28,Recruiter Sourced,Finance Manager,9
+9656,Kyle Chambers,Finance,2021-12-21,Indeed,Financial Analyst,39
+9657,Eric Thomas,Sales,2019-12-28,Career Site,Account Executive,26
+9658,Connie Turner,News & Content,2023-04-30,Employee Referral,Editor,13
+9659,Travis Hobbs,Sales,2023-04-21,Employee Referral,Sales Coordinator,21
+9660,Lori Simmons,News & Content,2025-04-01,Indeed,Editor,41
+9661,William David DDS,Engineering,2024-02-26,Career Site,Systems Engineer,36
+9662,Emma Butler,News & Content,2023-06-28,Employee Referral,News Director,21
+9663,James Webster,Sales,2021-01-21,University Recruiting,Sales Coordinator,52
+9664,Samuel Turner,Engineering,2025-02-05,Indeed,Systems Engineer,33
+9665,Renee Melendez,Engineering,2024-04-06,Employee Referral,Broadcast Engineer,40
+9666,Tracy Grant,Human Resources,2023-12-05,Indeed,HR Manager,35
+9667,David Harris,News & Content,2022-10-29,Recruiter Sourced,Photojournalist,30
+9668,Tammy Boone,News & Content,2026-05-08,Employee Referral,News Director,39
+9669,Nathaniel Lee,News & Content,2024-08-09,Indeed,Producer,48
+9670,Michael Morrison,News & Content,2022-04-14,Recruiter Sourced,Editor,30
+9671,Chelsea Gill,News & Content,2019-08-13,LinkedIn,Reporter,43
+9672,Kristin Mendoza,News & Content,2025-01-23,LinkedIn,News Director,24
+9673,Felicia Krueger,News & Content,2025-12-01,Recruiter Sourced,Photojournalist,57
+9674,Timothy Hayden,Sales,2022-04-22,Employee Referral,Account Executive,23
+9675,Zachary Mendoza,Human Resources,2022-03-16,Indeed,HR Manager,62
+9676,Larry Harris,Human Resources,2024-01-14,Employee Referral,HR Generalist,17
+9677,Kristen R. Rowe,News & Content,2024-03-29,Career Site,Producer,29
+9678,Joseph Howard,News & Content,2022-04-13,Employee Referral,Reporter,39
+9679,Jose Crawford,News & Content,2020-05-31,Employee Referral,News Director,49
+9680,William Harrison,Human Resources,2020-05-07,Indeed,HR Generalist,55
+9681,Suzanne Wood,News & Content,2025-06-13,Employee Referral,Photojournalist,52
+9682,Justin Walker,Sales,2023-06-30,Indeed,Sales Manager,12
+9683,Dean Donovan,News & Content,2025-11-11,University Recruiting,Reporter,39
+9684,Jen Hernandez,News & Content,2021-09-11,LinkedIn,Editor,23
+9685,James Whitaker,News & Content,2024-02-27,LinkedIn,Photojournalist,46
+9686,Mr. Michael Scott PhD,News & Content,2023-11-18,University Recruiting,News Director,48
+9687,Maria Henry,Human Resources,2024-11-13,Employee Referral,HR Generalist,37
+9688,Robert Jackson,Sales,2025-08-14,Indeed,Sales Manager,27
+9689,Katherine Stark,Sales,2022-03-09,LinkedIn,Sales Coordinator,19
+9690,Maria Brown,Sales,2018-10-20,LinkedIn,Sales Manager,24
+9691,Ryan Landry,Engineering,2022-05-12,Employee Referral,Broadcast Engineer,24
+9692,Pamela G. Gutierrez,Finance,2021-05-15,Recruiter Sourced,Financial Analyst,34
+9693,Crystal Mann,Sales,2022-04-01,Employee Referral,Sales Manager,47
+9694,Jonathan Brooks,News & Content,2019-12-05,Career Site,Producer,35
+9695,Mary Jensen,Human Resources,2024-09-13,Indeed,HR Manager,18
+9696,Mr. Aaron Arnold,Sales,2023-05-25,Career Site,Account Executive,17
+9697,Joseph Hill,News & Content,2019-07-31,University Recruiting,Reporter,43
+9698,Alicia Li,News & Content,2019-05-20,Career Site,Producer,59
+9699,Renee Browning,Sales,2025-02-05,LinkedIn,Sales Manager,35
+9700,Brent Hernandez,News & Content,2024-12-07,University Recruiting,News Director,25
+9701,Joseph O. Ochoa,Finance,2021-03-02,Employee Referral,Finance Manager,21
+9702,James Watson,Finance,2023-10-03,Indeed,Financial Analyst,42
+9703,Karl Branch,News & Content,2024-11-24,Employee Referral,Reporter,54
+9704,Michael Abbott,News & Content,2022-10-27,LinkedIn,News Director,30
+9705,Shannon Malone,Engineering,2021-10-07,Career Site,Broadcast Engineer,27
+9706,James Tran,News & Content,2021-11-13,Employee Referral,Photojournalist,15
+9707,Adam Jackson,Finance,2023-07-12,University Recruiting,Financial Analyst,34
+9708,Mr. Richard Knight PhD,News & Content,2022-12-11,Recruiter Sourced,Reporter,44
+9709,Joseph Williams,Finance,2026-05-08,Indeed,Financial Analyst,24
+9710,Sean Clay,Sales,2021-08-18,Career Site,Sales Coordinator,36
+9711,Anthony Jones,News & Content,2021-04-14,Employee Referral,News Director,40
+9712,Stephanie Elliott,Engineering,2025-01-26,Career Site,Systems Engineer,41
+9713,Timothy Edwards,News & Content,2023-04-15,Employee Referral,Editor,20
+9714,Laurie Goodwin,Sales,2024-10-31,LinkedIn,Account Executive,22
+9715,Jennifer Jones,Engineering,2022-01-16,Employee Referral,Broadcast Engineer,35
+9716,David Davenport,Human Resources,2024-11-09,LinkedIn,HR Generalist,43
+9717,Steven Rivera,Sales,2022-12-01,LinkedIn,Account Executive,62
+9718,Brenda Hinton,News & Content,2020-06-13,Indeed,News Director,19
+9719,Kathryn Mccann,Sales,2023-11-11,Recruiter Sourced,Account Executive,37
+9720,Jeffrey Roberson,Sales,2019-03-08,Recruiter Sourced,Sales Manager,33
+9721,Randy Friedman,Sales,2026-01-02,Employee Referral,Account Executive,28
+9722,Raymond Johnson,Engineering,2023-02-25,Recruiter Sourced,Broadcast Engineer,49
+9723,Willie Henry,Human Resources,2022-06-14,Recruiter Sourced,HR Generalist,41
+9724,Todd Reynolds,Sales,2023-04-19,LinkedIn,Sales Coordinator,41
+9725,Mary Miller,News & Content,2022-04-06,Employee Referral,Producer,18
+9726,Rebecca Marquez,Sales,2022-12-31,Career Site,Sales Manager,29
+9727,Christian Dawson,Engineering,2025-02-18,LinkedIn,IT Support,34
+9728,Nancy Stewart,News & Content,2019-12-20,Recruiter Sourced,Reporter,36
+9729,Aaron Parker,Human Resources,2026-03-17,Employee Referral,HR Manager,66
+9730,Derrick A. Anderson,Finance,2019-02-12,Career Site,Finance Manager,30
+9731,Jerry Peters,News & Content,2019-06-06,Employee Referral,Photojournalist,7
+9732,Alexander Gomez,Engineering,2025-01-26,Employee Referral,IT Support,34
+9733,Kyle Nguyen,Finance,2024-09-23,LinkedIn,Accountant,40
+9734,Edgar Hughes,Finance,2021-08-04,LinkedIn,Finance Manager,34
+9735,Steven Stein,News & Content,2022-07-07,LinkedIn,Reporter,7
+9736,Laura Jackson,Finance,2023-11-04,Employee Referral,Financial Analyst,37
+9737,Charles Turner,Sales,2019-04-14,Career Site,Sales Coordinator,41
+9738,Arthur Hamilton MD,Sales,2025-02-04,Career Site,Sales Manager,17
+9739,Mr. David Wright,News & Content,2025-08-28,Employee Referral,News Director,25
+9740,Linda Gonzalez,Human Resources,2025-10-14,University Recruiting,HR Generalist,33
+9741,Eric Rush,News & Content,2023-08-25,Employee Referral,Editor,26
+9742,Manuel Brock,News & Content,2018-07-24,Employee Referral,Producer,28
+9743,George Ochoa,Human Resources,2019-09-25,LinkedIn,HR Manager,37
+9744,Valerie Taylor,News & Content,2019-10-03,Employee Referral,Editor,25
+9745,Travis Harris,Human Resources,2022-10-23,Indeed,HR Generalist,14
+9746,Vincent Novak,Sales,2021-09-05,Indeed,Account Executive,45
+9747,Michael Henry,News & Content,2023-03-08,Indeed,News Director,20
+9748,Dana Bennett,News & Content,2020-02-15,Recruiter Sourced,Photojournalist,31
+9749,Jenna Wilson,News & Content,2024-01-05,LinkedIn,Producer,27
+9750,Leslie Gardner,Sales,2021-02-03,LinkedIn,Sales Coordinator,18
+9751,Krista Benton,News & Content,2023-02-14,Recruiter Sourced,Reporter,45
+9752,Michael Gonzales,News & Content,2025-11-12,Employee Referral,Reporter,43
+9753,Michael Fuentes,News & Content,2020-12-29,LinkedIn,Photojournalist,28
+9754,Jennifer Porter,Sales,2026-02-08,Employee Referral,Account Executive,33
+9755,Dana Hopkins,Engineering,2022-01-14,Career Site,Broadcast Engineer,35
+9756,Rachel Jones,News & Content,2026-06-03,Employee Referral,News Director,19
+9757,Karen Morales DDS,News & Content,2021-04-24,Employee Referral,Editor,21
+9758,Melissa Stephens,News & Content,2019-04-10,Indeed,Reporter,33
+9759,Heather Woodard,News & Content,2018-08-16,LinkedIn,Producer,18
+9760,Margaret Miller,Sales,2026-06-14,LinkedIn,Sales Manager,33
+9761,Mary Kelly,Sales,2021-10-17,Career Site,Account Executive,7
+9762,Amanda Terrell,News & Content,2019-07-31,LinkedIn,Editor,28
+9763,Jennifer Goodwin,Sales,2020-11-29,LinkedIn,Account Executive,37
+9764,Jessica Smith,Sales,2021-07-06,University Recruiting,Sales Manager,36
+9765,Jorge Stone,Sales,2022-12-13,Career Site,Sales Coordinator,48
+9766,Laura Griffin,News & Content,2018-12-26,LinkedIn,News Director,19
+9767,Raymond Chapman,News & Content,2024-03-09,Employee Referral,Producer,32
+9768,Haley Johnson,Sales,2025-02-15,Indeed,Sales Manager,45
+9769,Jason Nixon,News & Content,2021-06-07,Career Site,News Director,37
+9770,Todd T. Thomas,Engineering,2025-06-13,Indeed,Systems Engineer,44
+9771,Jesse Clark,Sales,2025-06-26,Employee Referral,Sales Manager,18
+9772,Mr. Jeffrey Horton,Sales,2020-06-10,Career Site,Sales Coordinator,34
+9773,Eric P. Patrick,News & Content,2024-03-05,Indeed,Editor,31
+9774,Samuel Wong,Finance,2021-09-18,Employee Referral,Accountant,35
+9775,Carly Riggs,Sales,2021-02-07,Career Site,Account Executive,23
+9776,Christopher Moore,News & Content,2021-08-15,LinkedIn,Photojournalist,50
+9777,Tina Hall,News & Content,2021-08-11,LinkedIn,Editor,42
+9778,Cody Davidson,Engineering,2022-12-02,Employee Referral,Systems Engineer,49
+9779,Allen Mendez,Sales,2023-11-10,Employee Referral,Sales Manager,37
+9780,Kevin Price,News & Content,2022-05-11,Career Site,Producer,24
+9781,Christine Goodwin,Engineering,2020-01-24,Employee Referral,Systems Engineer,41
+9782,Amy Garcia,News & Content,2021-08-20,LinkedIn,Photojournalist,51
+9783,Chelsea Nguyen,Engineering,2025-12-15,Employee Referral,IT Support,37
+9784,Dennis Huffman,Finance,2025-04-12,Career Site,Financial Analyst,21
+9785,Margaret Harper,News & Content,2019-10-17,Career Site,Producer,26
+9786,Laurie Bailey,News & Content,2026-07-16,University Recruiting,Photojournalist,34
+9787,Lisa C. Cervantes,Sales,2023-12-02,Recruiter Sourced,Sales Manager,52
+9788,Elizabeth Mendez,News & Content,2019-08-20,Career Site,News Director,57
+9789,Cesar Wilson,News & Content,2019-02-18,Recruiter Sourced,News Director,22
+9790,Clayton Steele,Sales,2018-09-07,LinkedIn,Account Executive,38
+9791,Jennifer Taylor,Sales,2024-04-30,University Recruiting,Sales Coordinator,26
+9792,Cody Reid,Engineering,2022-06-15,LinkedIn,Systems Engineer,17
+9793,Maria Cooke,Sales,2022-01-20,LinkedIn,Sales Coordinator,41
+9794,Katherine Taylor,Sales,2026-06-25,Employee Referral,Sales Manager,35
+9795,Jerry Brown,News & Content,2019-03-28,Employee Referral,Photojournalist,36
+9796,Adam Taylor,Sales,2023-09-12,Career Site,Sales Coordinator,31
+9797,Tracey Wagner,News & Content,2021-11-20,LinkedIn,Photojournalist,37
+9798,Michael Perry PhD,News & Content,2022-03-17,Recruiter Sourced,Photojournalist,37
+9799,Bradley Johnson DDS,News & Content,2024-11-14,Recruiter Sourced,Editor,44
+9800,Donald Medina,News & Content,2023-05-25,LinkedIn,News Director,23
+9801,Jim Newton,Engineering,2021-12-18,Recruiter Sourced,Systems Engineer,45
+9802,Krista Wilson,News & Content,2019-12-31,Career Site,News Director,43
+9803,Reginald Morrow,Sales,2022-08-20,Employee Referral,Sales Manager,38
+9804,Rodney Williams,Finance,2022-12-23,University Recruiting,Finance Manager,34
+9805,Kimberly Fritz,Finance,2022-02-28,Employee Referral,Financial Analyst,32
+9806,Ronald Potter,Sales,2021-05-27,Career Site,Account Executive,32
+9807,Zachary Cole,Sales,2020-01-17,Recruiter Sourced,Account Executive,34
+9808,Robert Gonzales,Engineering,2023-05-25,Recruiter Sourced,Systems Engineer,14
+9809,Patricia Young PhD,News & Content,2023-03-08,Career Site,News Director,63
+9810,Heather Page,News & Content,2025-05-02,Indeed,Editor,47
+9811,Carol Taylor,News & Content,2020-06-14,LinkedIn,Reporter,57
+9812,Daniel Brown,News & Content,2022-07-29,Recruiter Sourced,Photojournalist,42
+9813,Douglas Ryan,Finance,2021-11-05,Indeed,Finance Manager,25
+9814,Michael Roberts,Sales,2022-12-05,LinkedIn,Sales Manager,40
+9815,Scott Duke,News & Content,2021-06-30,Employee Referral,News Director,44
+9816,Anna Estes,News & Content,2026-05-21,University Recruiting,Photojournalist,21
+9817,Tamara Riddle,News & Content,2023-02-08,Employee Referral,Producer,50
+9818,Beth Cline,Sales,2024-03-13,Employee Referral,Sales Manager,28
+9819,Michael Poole,Sales,2019-06-19,Indeed,Account Executive,43
+9820,Megan Burns,Sales,2022-05-31,Employee Referral,Sales Coordinator,52
+9821,Debra Perry,News & Content,2024-01-31,LinkedIn,News Director,37
+9822,Mark Beard,Engineering,2019-09-12,Employee Referral,Broadcast Engineer,52
+9823,Jose Ramirez,Engineering,2024-05-29,Career Site,Broadcast Engineer,15
+9824,Jackie C. Clements,Finance,2026-06-06,Employee Referral,Financial Analyst,19
+9825,Aaron Schroeder,Engineering,2026-06-06,LinkedIn,Systems Engineer,23
+9826,Monica Ellis,Sales,2024-10-15,Career Site,Sales Coordinator,7
+9827,Heather Brown,Sales,2022-04-12,Recruiter Sourced,Sales Coordinator,11
+9828,Claudia Jordan,News & Content,2019-03-09,LinkedIn,Editor,52
+9829,Derrick Clayton,News & Content,2025-09-05,Career Site,Producer,49
+9830,Kenneth Knight,Engineering,2019-04-08,Employee Referral,Broadcast Engineer,26
+9831,Mr. Michael Williams,Sales,2022-05-04,Indeed,Account Executive,62
+9832,Richard Stevens,News & Content,2024-06-29,Employee Referral,Producer,30
+9833,Scott Alexander,Sales,2026-03-30,Indeed,Sales Coordinator,58
+9834,Tyler Harris,Engineering,2019-03-09,Indeed,Broadcast Engineer,58
+9835,Bonnie Santos,News & Content,2023-08-18,Career Site,Photojournalist,25
+9836,Timothy H. Hill,Human Resources,2024-12-11,Recruiter Sourced,HR Manager,44
+9837,Danielle W. Watson,Sales,2021-01-22,Indeed,Sales Manager,48
+9838,Carol Sanders,News & Content,2018-12-25,Career Site,Photojournalist,25
+9839,Michael Young,Sales,2021-04-22,Career Site,Sales Manager,7
+9840,Michele Smith,News & Content,2024-10-14,Employee Referral,News Director,44
+9841,Casey Perez,News & Content,2022-04-24,LinkedIn,News Director,23
+9842,Alexandra Dominguez,News & Content,2022-08-30,Employee Referral,News Director,32
+9843,Virginia Henderson,News & Content,2022-04-25,Indeed,Photojournalist,36
+9844,Benjamin Reyes,Sales,2024-06-06,LinkedIn,Sales Manager,41
+9845,Ashley Edwards,Sales,2021-12-05,Indeed,Sales Coordinator,29
+9846,Breanna Ayala,Sales,2026-03-30,LinkedIn,Account Executive,37
+9847,Brandi Haney,Sales,2024-12-11,Recruiter Sourced,Sales Manager,49
+9848,Joseph Smith,News & Content,2020-11-15,Indeed,News Director,8
+9849,Jessica Bowen,News & Content,2018-11-04,Employee Referral,Photojournalist,15
+9850,Brittany Jenkins,Engineering,2025-12-10,Employee Referral,IT Support,18
+9851,Shannon Miller,News & Content,2024-07-21,Employee Referral,Producer,27
+9852,Paul Lawrence,News & Content,2024-05-17,Indeed,Reporter,44
+9853,Victor E. Edwards,News & Content,2023-01-26,LinkedIn,News Director,47
+9854,Donald Miller,News & Content,2019-01-19,Recruiter Sourced,Editor,31
+9855,Lindsay Lawson,News & Content,2022-05-06,Employee Referral,Photojournalist,31
+9856,Melissa Abbott,Engineering,2019-11-30,LinkedIn,Broadcast Engineer,52
+9857,Elizabeth Holmes,Finance,2018-12-21,Employee Referral,Accountant,36
+9858,Nicole Phillips,Engineering,2026-06-25,Indeed,Broadcast Engineer,29
+9859,Steven Blevins,Sales,2025-01-11,LinkedIn,Account Executive,45
+9860,Brian Porter MD,Finance,2023-07-22,Employee Referral,Finance Manager,44
+9861,Vanessa Hatfield,Sales,2020-11-08,Indeed,Sales Coordinator,39
+9862,Bonnie Valencia,News & Content,2019-03-22,Career Site,Reporter,26
+9863,Holly Vega,News & Content,2022-08-09,University Recruiting,News Director,21
+9864,Tiffany T. Townsend,Finance,2025-05-15,Employee Referral,Accountant,22
+9865,Austin Baker,Human Resources,2020-10-12,Recruiter Sourced,HR Generalist,23
+9866,Antonio Mccormick,Sales,2019-08-15,Career Site,Sales Coordinator,22
+9867,Lori Mason,News & Content,2020-10-21,LinkedIn,Photojournalist,27
+9868,Michael Miller,Human Resources,2025-06-03,Employee Referral,HR Manager,33
+9869,Lisa Ramirez,Finance,2018-09-03,Recruiter Sourced,Finance Manager,35
+9870,Jorge Harris,Human Resources,2019-06-14,LinkedIn,HR Generalist,19
+9871,Kimberly Myers,News & Content,2019-12-16,LinkedIn,Reporter,37
+9872,Sandra Becker,Human Resources,2023-04-18,Indeed,HR Generalist,35
+9873,Michael Blair,News & Content,2019-10-08,University Recruiting,Editor,32
+9874,Amy M. Miller,News & Content,2022-02-18,Employee Referral,Producer,26
+9875,Jesse Lynch,Finance,2025-01-08,Career Site,Finance Manager,19
+9876,Patrick Yang,News & Content,2020-08-25,Indeed,Producer,41
+9877,Michael Miles,News & Content,2024-03-01,LinkedIn,News Director,35
+9878,Troy Mills,Human Resources,2022-06-09,LinkedIn,HR Manager,38
+9879,Michelle Jackson,Sales,2024-12-14,Employee Referral,Account Executive,28
+9880,Rick Adams,News & Content,2025-06-15,Employee Referral,Editor,26
+9881,Patricia Johnson,Sales,2021-04-20,Recruiter Sourced,Sales Manager,47
+9882,Denise Brown,News & Content,2019-03-27,Employee Referral,Producer,68
+9883,Laura Jones,Sales,2019-09-20,Recruiter Sourced,Account Executive,30
+9884,Ian Porter,Finance,2026-01-11,Career Site,Finance Manager,35
+9885,Holly Scott,News & Content,2019-10-17,Indeed,Producer,32
+9886,Kenneth S. Sharp,News & Content,2022-07-12,LinkedIn,Editor,23
+9887,Jordan Williams,Finance,2026-07-05,Employee Referral,Finance Manager,28
+9888,Dana Ruiz,Finance,2024-09-21,LinkedIn,Accountant,60
+9889,Chris Velazquez,News & Content,2020-06-18,Career Site,Producer,24
+9890,Kristen Sloan,Finance,2022-01-30,Indeed,Finance Manager,34
+9891,Jennifer Morris,Sales,2023-08-29,Recruiter Sourced,Sales Manager,25
+9892,Nathan Nelson,News & Content,2020-03-31,Career Site,News Director,33
+9893,Jake Shaw,Sales,2024-06-07,Employee Referral,Account Executive,24
+9894,Cassie B. Brock,News & Content,2021-04-27,LinkedIn,Photojournalist,27
+9895,Dr. Andrea Marshall,Human Resources,2023-09-12,Career Site,HR Manager,15
+9896,Ryan Murphy,News & Content,2024-08-08,Recruiter Sourced,News Director,35
+9897,Aimee Gonzalez,News & Content,2019-06-27,Recruiter Sourced,Reporter,29
+9898,Elizabeth Dean,News & Content,2019-11-25,LinkedIn,Reporter,40
+9899,Kevin Snyder,Human Resources,2021-10-01,University Recruiting,HR Generalist,33
+9900,Christie Mccullough,Engineering,2020-12-20,Recruiter Sourced,Systems Engineer,24
+9901,Danielle Smith,Finance,2024-07-12,Indeed,Financial Analyst,21
+9902,David Reed,Human Resources,2024-07-30,Career Site,HR Generalist,33
+9903,Sherry Tapia,News & Content,2022-10-27,Recruiter Sourced,Editor,51
+9904,Matthew Sweeney,News & Content,2021-08-06,University Recruiting,Photojournalist,26
+9905,Ashley Moreno,News & Content,2024-03-15,Employee Referral,News Director,10
+9906,Johnathan Brown,Finance,2022-05-10,Recruiter Sourced,Accountant,36
+9907,Michelle Davis DVM,News & Content,2019-09-21,Indeed,Producer,49
+9908,Kelly Haynes,Sales,2025-07-09,LinkedIn,Sales Coordinator,40
+9909,William Miller,News & Content,2018-08-27,Recruiter Sourced,Photojournalist,18
+9910,Casey Wilkins,News & Content,2025-12-23,Career Site,Reporter,35
+9911,Keith Graham,Finance,2022-02-24,Recruiter Sourced,Finance Manager,44
+9912,Cynthia Green,Engineering,2023-12-27,Recruiter Sourced,Systems Engineer,28
+9913,Robert Haynes,News & Content,2026-04-03,LinkedIn,Editor,26
+9914,Emily Nelson,News & Content,2024-01-09,Recruiter Sourced,Reporter,27
+9915,Dale Chan,Engineering,2018-11-20,Career Site,Broadcast Engineer,31
+9916,Brittney Martin,News & Content,2025-11-25,Indeed,Photojournalist,18
+9917,Jason Herrera,News & Content,2023-08-29,Employee Referral,Photojournalist,36
+9918,Christine Parker,Finance,2026-03-17,Indeed,Finance Manager,37
+9919,Bryan Moore,News & Content,2022-01-05,University Recruiting,News Director,37
+9920,Samantha Terry,Finance,2025-11-26,Career Site,Accountant,33
+9921,Russell Murphy,News & Content,2025-06-05,Indeed,News Director,18
+9922,David Kelly,Engineering,2021-03-28,Employee Referral,Broadcast Engineer,30
+9923,Megan Green,Engineering,2020-09-11,Indeed,IT Support,57
+9924,Amanda Sullivan MD,News & Content,2019-05-07,Recruiter Sourced,Editor,36
+9925,Danielle Murray,News & Content,2023-10-17,Employee Referral,Photojournalist,23
+9926,Brenda Smith,Sales,2021-09-08,Recruiter Sourced,Account Executive,41
+9927,Vickie Anderson,News & Content,2024-09-29,Recruiter Sourced,Photojournalist,57
+9928,Jacqueline Mccoy,Finance,2024-07-20,LinkedIn,Accountant,38
+9929,Lauren Green,Engineering,2024-06-07,LinkedIn,IT Support,31
+9930,Alison Brown,News & Content,2023-04-09,LinkedIn,News Director,50
+9931,Jill Anderson,Sales,2020-02-13,Indeed,Sales Coordinator,27
+9932,Sandra Rivera,Sales,2021-04-04,Employee Referral,Account Executive,46
+9933,Joel J. Jackson,Engineering,2024-01-30,Career Site,IT Support,26
+9934,Samantha Foster,Sales,2019-12-31,LinkedIn,Sales Coordinator,28
+9935,Michael Thompson,News & Content,2022-12-10,LinkedIn,Editor,43
+9936,Cody Ramirez,News & Content,2023-12-10,Indeed,Photojournalist,50
+9937,Amanda Harvey,Sales,2025-03-19,LinkedIn,Sales Coordinator,32
+9938,Edward Jenkins,News & Content,2018-08-27,University Recruiting,Editor,49
+9939,Amy Ramirez,Human Resources,2019-05-05,Indeed,HR Manager,38
+9940,Curtis Wilkerson,News & Content,2019-05-23,LinkedIn,Reporter,23
+9941,Lydia Pham,News & Content,2022-02-16,Career Site,Reporter,28
+9942,Virginia Casey,News & Content,2020-04-25,Recruiter Sourced,Reporter,40
+9943,Joshua Washington,News & Content,2020-10-28,LinkedIn,Producer,51
+9944,Kathryn Price,Engineering,2020-02-08,Indeed,IT Support,47
+9945,Francis Robinson,Sales,2018-10-01,LinkedIn,Sales Coordinator,47
+9946,Paula Brown,News & Content,2019-04-18,University Recruiting,Reporter,16
+9947,Kendra Wang DVM,Sales,2026-01-25,Recruiter Sourced,Sales Manager,43
+9948,Ariel Sandoval,News & Content,2023-10-24,Career Site,Editor,42
+9949,Robert Stark,Sales,2025-03-30,Employee Referral,Sales Coordinator,37
+9950,Zachary Robinson,News & Content,2026-03-01,Indeed,Photojournalist,42
+9951,Rebecca Kelly,News & Content,2023-08-31,Employee Referral,Reporter,11
+9952,Sarah Thompson,Human Resources,2024-03-22,Recruiter Sourced,HR Manager,7
+9953,Renee Wolfe,Sales,2019-07-09,Indeed,Account Executive,37
+9954,Alyssa Haynes,News & Content,2025-05-30,Employee Referral,Producer,33
+9955,Kristy Hart,News & Content,2019-08-07,LinkedIn,News Director,31
+9956,William Keith,Sales,2023-10-23,Recruiter Sourced,Account Executive,39
+9957,Eric Henry Jr.,News & Content,2025-10-04,LinkedIn,Photojournalist,36
+9958,Daniel Fox,Sales,2023-02-02,Recruiter Sourced,Sales Coordinator,38
+9959,Thomas Harris,Sales,2026-04-19,Employee Referral,Account Executive,45
+9960,Mitchell Sellers,Engineering,2025-09-23,LinkedIn,Systems Engineer,27
+9961,Erica Johnson,News & Content,2024-02-15,Recruiter Sourced,Reporter,38
+9962,Sylvia Schroeder,Finance,2020-08-02,Indeed,Accountant,25
+9963,Shannon Yu,Sales,2022-04-18,Employee Referral,Account Executive,9
+9964,Tom Foster,Finance,2026-01-18,Indeed,Accountant,30
+9965,Eric Taylor,News & Content,2023-09-02,LinkedIn,Reporter,47
+9966,Travis Conner,Sales,2025-12-10,Employee Referral,Sales Coordinator,22
+9967,Marie Thompson,Engineering,2020-10-08,Recruiter Sourced,IT Support,39
+9968,Melissa Mcfarland,Sales,2021-12-22,Indeed,Sales Coordinator,45
+9969,Courtney Chapman,News & Content,2025-10-14,Recruiter Sourced,Editor,43
+9970,Eric Barker,News & Content,2024-09-19,Employee Referral,News Director,25
+9971,Nicholas R. Rush,Finance,2021-02-22,Indeed,Financial Analyst,24
+9972,Jenna Gamble,Finance,2019-11-09,Recruiter Sourced,Finance Manager,34
+9973,Amanda Guzman,Sales,2019-02-25,Indeed,Sales Manager,37
+9974,Tracy Walker,Engineering,2024-10-10,Recruiter Sourced,Broadcast Engineer,42
+9975,Taylor Taylor,News & Content,2021-08-15,Recruiter Sourced,Producer,42
+9976,Cynthia Haas,Sales,2021-03-22,LinkedIn,Sales Coordinator,68
+9977,Stephen Davis,Engineering,2019-01-15,LinkedIn,IT Support,53
+9978,Margaret Tanner,News & Content,2026-03-16,Indeed,News Director,29
+9979,Derek Wright,News & Content,2020-09-04,Recruiter Sourced,News Director,61
+9980,David R. Rodriguez,Sales,2022-01-31,Indeed,Sales Coordinator,19
+9981,James Oconnor,News & Content,2022-06-29,Indeed,Photojournalist,20
+9982,Stacey Snyder,Engineering,2025-12-27,Indeed,IT Support,44
+9983,Joshua Garcia,Engineering,2023-06-11,Employee Referral,IT Support,30
+9984,Sean Curtis,Sales,2019-12-27,Career Site,Account Executive,7
+9985,Carla Jones,News & Content,2022-06-30,University Recruiting,Photojournalist,53
+9986,Elizabeth Flores,News & Content,2019-09-17,Indeed,Reporter,41
+9987,Angela Jackson,Sales,2024-09-16,Indeed,Sales Manager,32
+9988,Nicholas Payne,Engineering,2020-04-22,LinkedIn,Systems Engineer,31
+9989,Anna Wheeler,Human Resources,2023-09-15,LinkedIn,HR Manager,31
+9990,Karen Johnson,News & Content,2025-11-10,Employee Referral,Producer,7
+9991,Carmen Preston,Sales,2024-04-13,Indeed,Account Executive,22
+9992,Brian Harris,News & Content,2019-05-21,Indeed,Reporter,25
+9993,Michael Bowen,News & Content,2019-02-22,Employee Referral,Reporter,48
+9994,Deborah Campbell,News & Content,2023-02-17,Indeed,News Director,26
+9995,Anthony Armstrong,Sales,2020-07-25,Indeed,Sales Coordinator,38
+9996,Brittany Ward,Sales,2022-02-15,LinkedIn,Account Executive,31
+9997,Edward Stanley,Sales,2025-09-24,Employee Referral,Sales Coordinator,22
+9998,Christina Johnson,Sales,2019-10-01,LinkedIn,Sales Coordinator,37
+9999,Edgar Miller,Sales,2023-09-07,Indeed,Account Executive,33
+10000,Elizabeth Sanders,Sales,2026-01-08,Career Site,Sales Coordinator,47
+10001,Matthew Davis MD,Sales,2023-11-16,University Recruiting,Sales Manager,28
+10002,Stephen Wood,News & Content,2020-09-09,LinkedIn,News Director,25
+10003,Dennis Marshall,News & Content,2024-02-28,LinkedIn,News Director,44
+10004,Derrick Brown,Engineering,2025-10-18,Career Site,Systems Engineer,31
+10005,Mary Miller,Finance,2023-02-27,Indeed,Finance Manager,45
+10006,Joshua A. Arellano,Sales,2022-09-06,University Recruiting,Sales Coordinator,26
+10007,Kristen Randall,Sales,2026-01-29,Recruiter Sourced,Account Executive,35
+10008,Jennifer Nichols,Human Resources,2022-06-26,Career Site,HR Generalist,26
+10009,Karen K. Keith,News & Content,2022-01-18,Employee Referral,News Director,23
+10010,Blake Orr,Sales,2025-04-24,LinkedIn,Account Executive,7
+10011,Kathryn Lester,News & Content,2024-10-21,Employee Referral,Reporter,53
+10012,Megan Oliver,News & Content,2024-11-03,Employee Referral,Reporter,27
+10013,Peter Thompson,Human Resources,2022-11-18,Employee Referral,HR Manager,40
+10014,Dr. Rhonda Martinez,News & Content,2018-08-02,Career Site,Reporter,31
+10015,William Graham,News & Content,2026-03-12,Career Site,Editor,49
+10016,Lori Flowers MD,News & Content,2025-02-07,Employee Referral,News Director,11
+10017,Suzanne Jones,Engineering,2022-06-01,Indeed,Systems Engineer,36
+10018,James Nguyen,Engineering,2023-02-05,Recruiter Sourced,Systems Engineer,43
+10019,Jimmy Marks,News & Content,2026-01-15,Career Site,Producer,34
+10020,Lisa Mills,Human Resources,2021-06-06,Employee Referral,HR Manager,24
+10021,Jason Hernandez,Sales,2024-01-06,Employee Referral,Sales Coordinator,11
+10022,Olivia Ayers,Sales,2021-10-06,LinkedIn,Sales Coordinator,25
+10023,Kristine Garcia,Engineering,2023-08-14,Indeed,IT Support,8
+10024,Joseph Cooper,Sales,2026-03-25,Career Site,Account Executive,43
+10025,James Washington,Sales,2019-04-14,Career Site,Sales Coordinator,40
+10026,Amanda Hill,News & Content,2022-11-02,LinkedIn,News Director,44
+10027,Lee Steele,News & Content,2026-03-31,Career Site,Producer,21
+10028,Steve Rivera,News & Content,2019-03-16,Career Site,Reporter,19
+10029,Patrick Mccall,News & Content,2022-03-28,LinkedIn,Photojournalist,40
+10030,Alicia Roth,News & Content,2024-09-09,Recruiter Sourced,Producer,40
+10031,Douglas V. Vasquez,Sales,2023-09-28,Recruiter Sourced,Account Executive,10
+10032,Annette Melton,Finance,2019-12-22,Indeed,Finance Manager,24
+10033,William Ramos,Finance,2018-11-15,LinkedIn,Finance Manager,54
+10034,Debra Butler,Engineering,2021-08-19,Career Site,IT Support,44
+10035,Chelsea L. Lewis,Finance,2020-02-02,LinkedIn,Accountant,30
+10036,Natalie Malone,Finance,2024-02-16,Employee Referral,Financial Analyst,18
+10037,Samantha Robertson,Sales,2025-09-24,Recruiter Sourced,Account Executive,21
+10038,Eric Hunter,News & Content,2023-08-09,Employee Referral,Producer,28
+10039,Samuel Suarez,Sales,2021-06-07,Career Site,Account Executive,15
+10040,Corey Whitaker,Human Resources,2019-03-28,Employee Referral,HR Generalist,49
+10041,Danielle B. Bryant,News & Content,2023-08-16,LinkedIn,Producer,48
+10042,Michele Hill,News & Content,2024-06-10,Indeed,Reporter,18
+10043,Kathy Reid,Sales,2019-09-05,LinkedIn,Sales Manager,58
+10044,Andre Watson,News & Content,2020-02-08,Employee Referral,Photojournalist,27
+10045,Cassandra Harrell,Sales,2024-04-26,LinkedIn,Account Executive,34
+10046,Hannah M. Martin,News & Content,2023-04-21,University Recruiting,Editor,27
+10047,Nicole Barker,News & Content,2022-06-22,LinkedIn,Producer,19
+10048,James Martin,Sales,2019-01-24,Employee Referral,Account Executive,29
+10049,Traci Vincent,News & Content,2022-11-19,Career Site,News Director,10
+10050,Megan Adams,Human Resources,2021-01-08,Recruiter Sourced,HR Generalist,29
+10051,Alejandro Deleon,Sales,2022-10-31,Employee Referral,Sales Manager,32
+10052,Alexa Buck,News & Content,2025-03-26,Recruiter Sourced,Editor,36
+10053,Lindsay Smith,Sales,2022-02-25,Indeed,Sales Coordinator,13
+10054,Robert Torres,Engineering,2026-07-11,LinkedIn,Systems Engineer,14
+10055,Maria Coleman,News & Content,2018-11-09,Indeed,Producer,36
+10056,Gregory King,Human Resources,2019-01-03,Indeed,HR Generalist,18
+10057,Mike Holloway,Engineering,2024-11-10,Career Site,Broadcast Engineer,31
+10058,Brian Hunt,News & Content,2018-11-26,LinkedIn,Producer,49
+10059,Sarah Brooks,Sales,2019-07-04,Employee Referral,Sales Manager,17
+10060,Lisa Evans,Engineering,2025-01-06,University Recruiting,Systems Engineer,22
+10061,Arthur Mcneil,Sales,2023-11-24,Indeed,Sales Coordinator,46
+10062,Shannon Green,News & Content,2022-03-24,Employee Referral,Reporter,10
+10063,Stephanie Evans,Finance,2023-12-26,LinkedIn,Financial Analyst,31
+10064,Ralph Yoder,News & Content,2025-07-21,LinkedIn,Editor,64
+10065,Rebekah Greene,News & Content,2019-10-02,University Recruiting,Producer,37
+10066,Melanie Griffith,Sales,2023-03-12,Indeed,Account Executive,45
+10067,Yolanda Green,News & Content,2025-12-16,Indeed,News Director,28
+10068,James Johnson,Engineering,2018-11-08,Employee Referral,IT Support,17
+10069,Laura Lee,Sales,2019-09-10,LinkedIn,Sales Coordinator,14
+10070,Courtney Nichols,News & Content,2023-10-16,University Recruiting,Producer,37
+10071,Susan P. Powers,News & Content,2022-04-30,Recruiter Sourced,Reporter,37
+10072,Sarah Pittman,News & Content,2025-11-26,Recruiter Sourced,Producer,56
+10073,Catherine Davis,Engineering,2018-12-04,Employee Referral,IT Support,29
+10074,David Stokes,News & Content,2024-03-03,Recruiter Sourced,Photojournalist,37
+10075,Catherine Frazier,Sales,2019-08-09,LinkedIn,Sales Manager,32
+10076,Brandon Kelly,Sales,2019-12-09,University Recruiting,Sales Coordinator,18
+10077,Elizabeth French,Human Resources,2018-12-16,LinkedIn,HR Manager,37
+10078,David Carter,News & Content,2021-01-07,LinkedIn,Producer,47
+10079,Julie Delacruz,News & Content,2024-11-28,LinkedIn,Reporter,42
+10080,Terry Jones,Engineering,2022-03-17,LinkedIn,Broadcast Engineer,24
+10081,Kathryn Dillon,News & Content,2019-12-04,Indeed,News Director,69
+10082,Edwin Brown,Sales,2023-04-16,Recruiter Sourced,Sales Coordinator,30
+10083,Brenda Gonzalez,Human Resources,2025-02-06,University Recruiting,HR Manager,49
+10084,Keith Knox,News & Content,2019-05-30,Career Site,Producer,29
+10085,Eugene Baldwin,Engineering,2022-07-15,Indeed,Broadcast Engineer,49
+10086,Kate Welch,Sales,2024-12-14,Recruiter Sourced,Sales Coordinator,31
+10087,Mark Smith,News & Content,2020-04-28,Employee Referral,Reporter,32
+10088,Philip Jackson,News & Content,2024-12-29,Indeed,Reporter,47
+10089,Katherine Gallagher,Finance,2021-12-20,Indeed,Accountant,59
+10090,Lucas Schultz,News & Content,2025-01-19,Career Site,Reporter,30
+10091,Vincent Reyes,News & Content,2026-06-01,Career Site,News Director,28
+10092,Curtis Watson,Finance,2023-12-27,LinkedIn,Financial Analyst,24
+10093,Frank W. Whitaker,Finance,2021-02-25,Recruiter Sourced,Financial Analyst,22
+10094,Michael Sims,Sales,2026-05-14,University Recruiting,Account Executive,25
+10095,Michael Cooper,News & Content,2023-03-02,Employee Referral,Photojournalist,27
+10096,James Chapman,News & Content,2019-08-29,Employee Referral,Producer,45
+10097,Rodney Evans,News & Content,2025-04-02,Career Site,News Director,40
+10098,Nicholas Carlson,News & Content,2024-11-26,Employee Referral,Photojournalist,43
+10099,Stephen Cowan,News & Content,2024-09-03,Career Site,News Director,43
+10100,Steven Howard,News & Content,2023-04-21,Career Site,Producer,49
+10101,Travis Hull,Sales,2021-03-30,Recruiter Sourced,Sales Coordinator,24
+10102,Darryl Acosta,Sales,2019-07-11,LinkedIn,Sales Manager,36
+10103,Nicholas Lawrence,Sales,2019-09-09,Employee Referral,Sales Manager,12
+10104,Jacob Santos,Sales,2021-11-18,Employee Referral,Sales Manager,12
+10105,Shawn Scott,Engineering,2024-02-17,LinkedIn,Broadcast Engineer,35
+10106,Amber Vang,News & Content,2022-12-27,University Recruiting,Producer,32
+10107,Martha Smith,News & Content,2022-01-25,Employee Referral,Editor,34
+10108,Jennifer James,Sales,2025-12-18,LinkedIn,Sales Manager,41
+10109,Kara H. Hernandez,News & Content,2018-11-19,Employee Referral,Producer,52
+10110,Lorraine Turner,News & Content,2019-05-12,Career Site,News Director,34
+10111,Mary Nelson,Sales,2025-05-04,Employee Referral,Account Executive,31
+10112,Breanna Rivas,News & Content,2023-06-17,LinkedIn,Reporter,24
+10113,Nathan Wilson,News & Content,2024-10-12,Employee Referral,Reporter,45
+10114,Brian Gonzalez,Sales,2018-09-07,University Recruiting,Sales Coordinator,25
+10115,Dennis Mills,Sales,2022-06-15,LinkedIn,Sales Manager,30
+10116,Michael Phillips,Finance,2018-08-11,LinkedIn,Financial Analyst,42
+10117,Jon Clark,News & Content,2019-12-30,Employee Referral,Editor,35
+10118,Erin Smith,Engineering,2019-04-10,Indeed,Systems Engineer,34
+10119,Susan Conley,Engineering,2023-10-10,LinkedIn,Broadcast Engineer,22
+10120,Brittany Davis,News & Content,2025-08-27,Recruiter Sourced,Reporter,38
+10121,Misty Garcia,News & Content,2021-11-21,Indeed,Editor,62
+10122,David Hinton,News & Content,2025-01-07,Indeed,Photojournalist,17
+10123,John Garcia,News & Content,2024-09-27,Employee Referral,Editor,19
+10124,Andrew Roberts,Sales,2024-02-06,Career Site,Sales Manager,44
+10125,Emily Rodgers,Engineering,2020-03-17,Recruiter Sourced,Broadcast Engineer,37
+10126,Peter Williams,Engineering,2023-09-05,Indeed,Broadcast Engineer,51
+10127,Mary Jackson,News & Content,2022-09-29,Employee Referral,News Director,24
+10128,Jeffrey Howell,Sales,2021-11-08,Indeed,Account Executive,45
+10129,Anna Briggs,News & Content,2026-01-24,LinkedIn,Photojournalist,38
+10130,James Rivers,Sales,2023-06-11,Employee Referral,Sales Manager,21
+10131,James Jefferson,News & Content,2018-11-10,Career Site,Producer,25
+10132,Mariah Robles,Engineering,2019-12-31,LinkedIn,Broadcast Engineer,34
+10133,Michael Brown,News & Content,2022-07-23,Career Site,Reporter,22
+10134,Caitlin Perry,News & Content,2026-02-28,Employee Referral,Producer,48
+10135,Rebekah Gregory,News & Content,2023-07-30,LinkedIn,Photojournalist,43
+10136,James Howard,Finance,2024-10-26,LinkedIn,Accountant,27
+10137,Michael Roberson,Sales,2021-05-05,Career Site,Sales Manager,31
+10138,Bianca Knapp,Sales,2018-08-06,Recruiter Sourced,Sales Coordinator,46
+10139,Jason Williams,Finance,2020-06-11,LinkedIn,Financial Analyst,33
+10140,Ernest B. Bush,Sales,2019-07-02,LinkedIn,Sales Manager,59
+10141,Patricia Ray,News & Content,2022-10-20,Indeed,Reporter,40
+10142,Vanessa Santiago,News & Content,2019-04-29,Career Site,Editor,23
+10143,Joseph Haynes,News & Content,2021-06-15,University Recruiting,Reporter,20
+10144,Matthew Wright,Engineering,2024-08-25,Employee Referral,Broadcast Engineer,47
+10145,Michael Cruz,Sales,2022-11-17,Career Site,Sales Manager,28
+10146,Kristin Huerta,News & Content,2020-04-24,LinkedIn,Producer,35
+10147,Mason Moore,Sales,2024-09-20,University Recruiting,Sales Manager,7
+10148,Sarah Booth,News & Content,2023-11-01,LinkedIn,News Director,34
+10149,John Allen,Engineering,2020-10-08,Employee Referral,IT Support,15
+10150,Amber Walker,News & Content,2020-02-10,Employee Referral,Producer,15
+10151,Jennifer Young,Engineering,2024-12-06,Career Site,Broadcast Engineer,50
+10152,Robert West,Sales,2024-01-16,Recruiter Sourced,Account Executive,29
+10153,Jillian Wilson,News & Content,2026-04-23,Employee Referral,Photojournalist,29
+10154,Matthew Garcia MD,Sales,2022-05-10,Recruiter Sourced,Account Executive,61
+10155,April Davis,News & Content,2019-12-21,Employee Referral,Editor,46
+10156,Lisa Torres,Engineering,2023-12-03,LinkedIn,Systems Engineer,54
+10157,Christine Powers,News & Content,2018-11-26,Employee Referral,Photojournalist,50
+10158,Heidi Brown,Sales,2023-09-20,LinkedIn,Account Executive,44
+10159,Jesse C. Castro,News & Content,2020-11-02,Career Site,Editor,54
+10160,Kara Sandoval,News & Content,2022-01-14,Employee Referral,Photojournalist,24
+10161,Ashley Malone,Engineering,2021-03-26,Recruiter Sourced,IT Support,22
+10162,Glenn Gallegos,Sales,2024-12-31,Employee Referral,Account Executive,15
+10163,Dorothy Boyd,Sales,2024-08-17,Employee Referral,Account Executive,11
+10164,Amber Martin,Sales,2018-11-27,Recruiter Sourced,Account Executive,35
+10165,Mitchell Griffith,Human Resources,2024-06-25,Employee Referral,HR Manager,14
+10166,Levi Lopez,Engineering,2025-12-16,Employee Referral,Broadcast Engineer,19
+10167,Jenna Bryant,News & Content,2019-12-19,Employee Referral,Photojournalist,31
+10168,Michelle Rodriguez,Sales,2024-11-04,LinkedIn,Account Executive,7
+10169,Timothy Monroe,News & Content,2022-06-10,Indeed,Photojournalist,32
+10170,Patricia Hayes,Sales,2019-06-28,LinkedIn,Sales Coordinator,34
+10171,Tina T. Taylor,Engineering,2025-09-20,University Recruiting,IT Support,60
+10172,Mr. Anthony Mcconnell PhD,Finance,2024-04-30,LinkedIn,Financial Analyst,36
+10173,Mr. Thomas Thompson,News & Content,2023-04-20,Career Site,Producer,35
+10174,Monica Anderson,Sales,2021-03-02,University Recruiting,Sales Manager,54
+10175,Kyle Andrade,News & Content,2020-02-24,Employee Referral,News Director,30
+10176,Janice Petty,News & Content,2023-12-22,Employee Referral,Photojournalist,36
+10177,Pamela Hill,Sales,2021-03-01,Employee Referral,Account Executive,46
+10178,Tracy Chavez,Engineering,2024-10-16,Indeed,Broadcast Engineer,24
+10179,Jason Graves,News & Content,2021-03-02,LinkedIn,Reporter,46
+10180,Elizabeth Miles,News & Content,2019-05-06,University Recruiting,Reporter,16
+10181,Michelle Walls,Human Resources,2024-06-17,Recruiter Sourced,HR Manager,42
+10182,Christina Weber,Human Resources,2025-07-08,LinkedIn,HR Generalist,42
+10183,Gregory Chambers,News & Content,2021-07-25,LinkedIn,Photojournalist,28
+10184,Miss Tina Gordon,Sales,2020-04-28,Employee Referral,Sales Coordinator,31
+10185,Erica Wilson,News & Content,2022-04-30,Employee Referral,Photojournalist,55
+10186,John Duncan,Sales,2022-06-08,LinkedIn,Account Executive,32
+10187,Jennifer Adkins,News & Content,2025-09-07,Employee Referral,News Director,40
+10188,Donna Boone,Engineering,2019-09-20,Employee Referral,Broadcast Engineer,34
+10189,Kelly Johnson,News & Content,2025-12-25,LinkedIn,Editor,25
+10190,Michael Gonzalez,Sales,2022-03-14,Employee Referral,Account Executive,26
+10191,Candace Mitchell,News & Content,2021-08-28,Indeed,Editor,39
+10192,Ryan Vaughn,Engineering,2019-08-26,Employee Referral,IT Support,52
+10193,Paul Johnson,News & Content,2024-04-26,Recruiter Sourced,News Director,17
+10194,Ashley Parrish,Sales,2023-08-13,Career Site,Sales Coordinator,54
+10195,Sharon Newton,Engineering,2026-05-13,Employee Referral,Broadcast Engineer,42
+10196,Cynthia Mueller,News & Content,2020-03-05,LinkedIn,News Director,30
+10197,Donna Beck,News & Content,2019-07-30,LinkedIn,Producer,38
+10198,Jasmine F. Frye,News & Content,2024-02-05,Employee Referral,Photojournalist,42
+10199,Emily Arnold,Human Resources,2019-01-14,Employee Referral,HR Manager,19
+10200,David Oliver,News & Content,2019-08-26,University Recruiting,News Director,31
+10201,Sheila Greer,News & Content,2025-05-16,Indeed,Producer,34
+10202,Michele Holland,News & Content,2022-03-24,Career Site,News Director,12
+10203,Kimberly Morrison,News & Content,2019-12-06,Employee Referral,Producer,44
+10204,Tracey Phillips,News & Content,2021-04-22,LinkedIn,News Director,25
+10205,Michael Lopez,Finance,2025-08-26,Indeed,Finance Manager,26
+10206,Jose Bennett,Finance,2023-05-22,Employee Referral,Accountant,32
+10207,Justin Anderson,News & Content,2024-11-16,LinkedIn,Producer,39
+10208,Dawn Rivera,Finance,2023-08-31,Employee Referral,Accountant,38
+10209,Brittney H. Hernandez,News & Content,2023-06-14,University Recruiting,Reporter,34
+10210,Anthony Randolph,Engineering,2019-12-02,Employee Referral,Broadcast Engineer,38
+10211,Mary H. Henry,News & Content,2026-04-27,LinkedIn,Photojournalist,24
+10212,Heather B. Bowers,Finance,2025-05-26,Indeed,Financial Analyst,36
+10213,Daniel White,Sales,2019-04-02,University Recruiting,Account Executive,41
+10214,Jonathan Perry,News & Content,2025-06-01,Recruiter Sourced,Reporter,26
+10215,Anna Walker,Engineering,2022-06-22,University Recruiting,Broadcast Engineer,34
+10216,Gary W. Ward,News & Content,2026-07-11,University Recruiting,Producer,41
+10217,Paul Moreno,Sales,2023-04-17,Career Site,Account Executive,32
+10218,Samantha Zavala MD,News & Content,2025-04-03,Career Site,News Director,17
+10219,Jill Conway,News & Content,2020-10-16,Employee Referral,News Director,52
+10220,Lisa H. Haley,Engineering,2024-05-26,Employee Referral,IT Support,49
+10221,Erica Moon,News & Content,2024-06-13,Indeed,Reporter,33
+10222,Janice Fernandez,Finance,2020-07-13,Employee Referral,Finance Manager,54
+10223,Thomas Short,Sales,2021-03-06,Employee Referral,Sales Coordinator,42
+10224,Robert Griffin,Human Resources,2023-03-13,Employee Referral,HR Manager,31
+10225,Steven Lee,Engineering,2025-09-10,Indeed,Broadcast Engineer,24
+10226,Tiffany Jackson,Finance,2023-04-18,Recruiter Sourced,Accountant,19
+10227,Kimberly Smith,Sales,2019-10-02,Career Site,Account Executive,32
+10228,Michael Ayala,Finance,2023-02-24,Employee Referral,Accountant,22
+10229,Jessica Garcia,Sales,2018-08-07,LinkedIn,Account Executive,23
+10230,Michele Cherry,Sales,2026-05-27,LinkedIn,Sales Coordinator,38
+10231,Maria Case,Sales,2018-11-18,LinkedIn,Sales Coordinator,16
+10232,Brittany Stevens,Engineering,2022-04-29,Career Site,IT Support,13
+10233,Brandon Brown,News & Content,2024-09-15,Recruiter Sourced,Editor,35
+10234,Kristin Andrews,Engineering,2018-10-30,LinkedIn,Broadcast Engineer,41
+10235,David Hughes,Engineering,2022-10-22,Career Site,Systems Engineer,39
+10236,Jessica Smith,News & Content,2022-05-24,LinkedIn,Reporter,13
+10237,Kimberly May,Human Resources,2024-12-10,Career Site,HR Manager,24
+10238,Nicole Richards,Sales,2025-02-16,Recruiter Sourced,Sales Manager,26
+10239,Angel Reilly,Sales,2022-03-07,Employee Referral,Sales Coordinator,14
+10240,Richard Turner,News & Content,2020-06-25,Employee Referral,Photojournalist,34
+10241,Preston Kim,Sales,2023-01-10,Employee Referral,Sales Coordinator,36
+10242,Matthew Wells,News & Content,2018-08-29,LinkedIn,Photojournalist,31
+10243,Brandy M. Myers,Human Resources,2024-05-31,University Recruiting,HR Manager,13
+10244,Kimberly Choi,Engineering,2026-02-27,Indeed,IT Support,59
+10245,Michael Sloan,News & Content,2019-08-15,Indeed,Producer,23
+10246,Monica Brooks,News & Content,2020-12-04,LinkedIn,Producer,46
+10247,Kristen Peters,Sales,2023-09-28,Recruiter Sourced,Sales Manager,52
+10248,Aaron Carlson,News & Content,2019-04-15,LinkedIn,Photojournalist,28
+10249,Theresa Torres,News & Content,2022-05-25,Indeed,Producer,39
+10250,Stephanie Cooper,Sales,2020-12-30,Employee Referral,Sales Coordinator,16
+10251,Matthew Hunt,News & Content,2024-03-09,LinkedIn,Editor,29
+10252,Daniel Davenport,News & Content,2025-06-03,Employee Referral,Photojournalist,39
+10253,Christopher Marsh,Sales,2024-07-15,Employee Referral,Sales Coordinator,34
+10254,Sarah Randolph,News & Content,2018-10-03,LinkedIn,Editor,43
+10255,Julia Dunn MD,Sales,2022-03-14,Recruiter Sourced,Sales Manager,27
+10256,Brett Swanson,Finance,2024-09-25,Career Site,Finance Manager,46
+10257,Mr. Carl Rios,News & Content,2025-07-21,Career Site,Editor,21
+10258,Manuel Mccullough,Finance,2021-10-20,Recruiter Sourced,Finance Manager,39
+10259,Jerry Jensen,News & Content,2024-11-16,Indeed,Photojournalist,26
+10260,Kevin Cunningham,Engineering,2021-07-10,Employee Referral,Systems Engineer,12
+10261,Eugene Patterson,News & Content,2022-04-10,Employee Referral,Reporter,42
+10262,David Walker,News & Content,2023-08-17,Employee Referral,Reporter,7
+10263,Jessica Larsen,News & Content,2025-06-11,University Recruiting,Photojournalist,24
+10264,Nicholas Humphrey,Sales,2019-02-15,LinkedIn,Account Executive,20
+10265,Ian Torres,Finance,2025-09-15,Employee Referral,Accountant,49
+10266,Casey Obrien,News & Content,2021-03-22,Recruiter Sourced,Producer,44
+10267,Shannon Taylor,News & Content,2018-10-27,LinkedIn,Editor,20
+10268,Deborah Mercado,Human Resources,2021-12-19,Career Site,HR Generalist,18
+10269,Bernard S. Smith,Sales,2020-09-19,Recruiter Sourced,Account Executive,28
+10270,Amanda Perkins,News & Content,2026-02-16,Recruiter Sourced,Photojournalist,19
+10271,Kevin Escobar,News & Content,2022-11-24,Recruiter Sourced,Editor,52
+10272,Kimberly L. Lutz,Finance,2024-11-30,Career Site,Finance Manager,11
+10273,Reginald Diaz,News & Content,2024-11-10,Employee Referral,Reporter,57
+10274,Raymond Quinn,Sales,2019-03-17,Employee Referral,Sales Manager,38
+10275,John Dixon,News & Content,2025-08-09,Career Site,Producer,41
+10276,Jonathan Bates,Finance,2024-06-11,Employee Referral,Accountant,35
+10277,Renee Mendez,Sales,2018-12-31,Employee Referral,Sales Coordinator,13
+10278,Jose Griffin,Sales,2026-02-14,Career Site,Sales Manager,44
+10279,Travis H. Hopkins,News & Content,2023-12-16,Career Site,News Director,34
+10280,Nancy Webb,Sales,2025-08-30,Indeed,Sales Coordinator,21
+10281,Daniel Freeman,Finance,2019-06-13,LinkedIn,Accountant,48
+10282,Jacob Williams,Human Resources,2021-06-26,LinkedIn,HR Manager,46
+10283,Terry Ward,Engineering,2023-07-07,University Recruiting,IT Support,48
+10284,Jesse Williams,Sales,2021-06-26,Recruiter Sourced,Sales Coordinator,46
+10285,Mrs. Michele Boyd,Sales,2019-12-18,LinkedIn,Sales Manager,27
+10286,Sandy Baker,News & Content,2023-01-11,LinkedIn,Producer,41
+10287,Carrie Valdez,Finance,2019-02-04,LinkedIn,Finance Manager,47
+10288,Matthew Houston,Finance,2024-03-26,Indeed,Accountant,46
+10289,Jamie Solomon,Sales,2020-03-13,University Recruiting,Account Executive,7
+10290,Heather Parrish,Finance,2026-05-30,Employee Referral,Accountant,33
+10291,Mr. Larry Shaw,Sales,2020-06-20,Career Site,Sales Manager,24
+10292,Christopher Jones,News & Content,2019-06-20,Employee Referral,Photojournalist,52
+10293,Christine Lopez,News & Content,2022-05-22,Recruiter Sourced,Photojournalist,33
+10294,Mitchell Wilson,News & Content,2026-01-27,Employee Referral,News Director,39
+10295,Robert Cortez,News & Content,2023-03-15,Career Site,Producer,36
+10296,Mr. Daniel Martin,News & Content,2026-03-26,University Recruiting,News Director,51
+10297,Alison Williams,News & Content,2020-03-28,Employee Referral,Reporter,57
+10298,Candace Soto,News & Content,2024-07-08,Recruiter Sourced,News Director,34
+10299,Kenneth Brown,News & Content,2020-05-12,Employee Referral,Producer,37
+10300,Christopher Mullen,Human Resources,2021-05-19,LinkedIn,HR Manager,52
+10301,Kristy S. Smith,News & Content,2020-09-12,Employee Referral,News Director,19
+10302,Mary Campbell,Finance,2024-01-01,Recruiter Sourced,Financial Analyst,20
+10303,Jerry Haney,Engineering,2020-10-10,Career Site,IT Support,25
+10304,Carolyn Greer,News & Content,2019-01-25,Indeed,Reporter,44
+10305,Rebecca Hoover,News & Content,2021-04-27,Indeed,Producer,34
+10306,Matthew Baker,Sales,2022-06-13,LinkedIn,Sales Coordinator,25
+10307,Grace Chavez,Human Resources,2022-10-09,LinkedIn,HR Manager,50
+10308,Crystal Cruz,News & Content,2019-07-17,LinkedIn,Photojournalist,14
+10309,Dale Heath,News & Content,2024-03-28,Career Site,Editor,25
+10310,Jennifer Hernandez,Finance,2023-12-27,Career Site,Finance Manager,32
+10311,John Mendez,Sales,2022-10-28,LinkedIn,Sales Coordinator,57
+10312,Richard Gordon,Engineering,2020-11-23,LinkedIn,IT Support,25
+10313,John Anderson,News & Content,2023-07-12,Employee Referral,News Director,41
+10314,Samantha P. Prince,Human Resources,2024-12-16,Career Site,HR Manager,32
+10315,Marie Boyd,Engineering,2026-02-14,Career Site,Systems Engineer,18
+10316,Andrew Moreno,Engineering,2025-01-11,LinkedIn,Systems Engineer,40
+10317,Robert Clarke,News & Content,2026-02-01,Career Site,News Director,30
+10318,Kevin Figueroa,Sales,2019-01-31,LinkedIn,Sales Manager,27
+10319,Melissa Davis,News & Content,2025-09-11,LinkedIn,Photojournalist,16
+10320,John Hall,News & Content,2022-03-22,University Recruiting,Photojournalist,35
+10321,Diane Mcdowell,News & Content,2019-03-15,Employee Referral,Photojournalist,53
+10322,Colin F. Fletcher,Human Resources,2025-09-28,Career Site,HR Manager,26
+10323,Laura Wilson,News & Content,2020-11-12,LinkedIn,News Director,19
+10324,Matthew Watts,News & Content,2026-03-19,Employee Referral,News Director,12
+10325,Jack Moore,News & Content,2019-06-08,Employee Referral,Reporter,11
+10326,Dawn Wyatt,Sales,2020-10-07,LinkedIn,Account Executive,32
+10327,Jacob Hill,News & Content,2024-02-19,Career Site,Producer,35
+10328,Nicole Gutierrez,News & Content,2022-07-13,Employee Referral,Photojournalist,39
+10329,Karen Wood,News & Content,2025-07-23,Employee Referral,News Director,32
+10330,Dawn Parker,Engineering,2022-09-22,Employee Referral,Systems Engineer,36
+10331,Michael Fitzgerald,Human Resources,2023-07-30,Indeed,HR Manager,53
+10332,Mary Adkins,News & Content,2020-11-26,Employee Referral,Producer,50
+10333,Michael Martin,News & Content,2026-04-26,Employee Referral,Producer,49
+10334,James Morgan,News & Content,2022-11-22,Indeed,Reporter,47
+10335,Melissa Mann,News & Content,2019-08-13,LinkedIn,News Director,42
+10336,Vincent Smith,Sales,2021-05-02,Recruiter Sourced,Sales Manager,14
+10337,Charles Frost,Sales,2022-02-09,University Recruiting,Account Executive,31
+10338,Austin Walker,Finance,2023-09-19,Indeed,Accountant,37
+10339,Andrew Cruz,Engineering,2020-11-21,Career Site,Broadcast Engineer,22
+10340,Miss Kelly Dawson,Sales,2019-01-23,Employee Referral,Sales Manager,56
+10341,Theresa Wilkins,Sales,2025-07-14,Indeed,Sales Manager,29
+10342,Jessica Harris,Engineering,2020-06-01,University Recruiting,Systems Engineer,12
+10343,Regina Mitchell,News & Content,2026-02-20,LinkedIn,News Director,28
+10344,Kyle B. Black,Finance,2023-09-19,Career Site,Financial Analyst,39
+10345,Christopher Johnson,Sales,2021-11-07,University Recruiting,Account Executive,22
+10346,Aaron Moore,Finance,2021-04-20,Career Site,Finance Manager,32
+10347,Penny Gomez MD,Sales,2023-09-23,Recruiter Sourced,Sales Coordinator,13
+10348,Kelly Mclaughlin,News & Content,2021-03-03,LinkedIn,News Director,28
+10349,Brandon Mitchell,News & Content,2023-04-22,Career Site,Photojournalist,34
+10350,Suzanne Bailey,Sales,2024-02-19,Indeed,Sales Manager,32
+10351,Destiny Obrien,Sales,2025-04-18,Indeed,Sales Coordinator,44
+10352,Timothy Andrews,News & Content,2022-02-14,Employee Referral,Photojournalist,21
+10353,Jason Rodriguez,Sales,2020-12-28,Employee Referral,Sales Manager,38
+10354,Edward A. Arroyo,Engineering,2019-08-13,Employee Referral,Systems Engineer,41
+10355,Tina W. Walter,News & Content,2024-11-15,Employee Referral,News Director,24
+10356,Laura Benson,News & Content,2019-12-07,Employee Referral,News Director,22
+10357,Kristine Carrillo,Human Resources,2020-08-21,Employee Referral,HR Generalist,56
+10358,Tonya Ellis,Human Resources,2022-06-07,Indeed,HR Generalist,30
+10359,Kevin Johnson,Sales,2026-04-29,Career Site,Account Executive,39
+10360,Austin Schultz,Finance,2024-09-19,Recruiter Sourced,Financial Analyst,39
+10361,Megan Hall MD,Engineering,2018-12-09,University Recruiting,IT Support,15
+10362,Kelli Smith,Finance,2021-05-20,Indeed,Finance Manager,36
+10363,Danielle Davis,Sales,2022-03-17,Career Site,Sales Manager,36
+10364,Samantha Jones,News & Content,2019-11-22,Employee Referral,News Director,56
+10365,Karen Gomez,Sales,2025-12-14,LinkedIn,Sales Coordinator,35
+10366,Debra Valentine,News & Content,2024-04-02,Indeed,Reporter,43
+10367,Susan Porter,News & Content,2020-11-03,Employee Referral,Editor,44
+10368,Nicolas Salas,Sales,2026-05-06,Career Site,Sales Manager,30
+10369,Dale W. Wright,Engineering,2025-04-10,Career Site,Broadcast Engineer,61
+10370,Brittney Rodriguez,News & Content,2024-02-07,Employee Referral,News Director,24
+10371,Megan Alvarado,Sales,2023-11-22,Career Site,Sales Coordinator,13
+10372,Pamela Weaver,News & Content,2019-10-15,Career Site,Producer,7
+10373,John Oliver,News & Content,2020-06-18,University Recruiting,Reporter,27
+10374,William Prince PhD,News & Content,2018-11-21,Employee Referral,Photojournalist,10
+10375,William Moon IV,Sales,2021-02-03,LinkedIn,Sales Coordinator,25
+10376,Kenneth Brown,News & Content,2019-07-28,Indeed,News Director,34
+10377,Karen Fernandez,Sales,2020-08-22,University Recruiting,Sales Manager,37
+10378,Jennifer Parks,Sales,2020-01-14,LinkedIn,Sales Manager,29
+10379,William Wolfe,Sales,2023-01-22,Career Site,Sales Manager,24
+10380,Michael Smith,Engineering,2018-11-02,Employee Referral,Broadcast Engineer,27
+10381,Kevin Nguyen,Sales,2021-02-04,Employee Referral,Sales Manager,41
+10382,Debbie Dunn,Human Resources,2021-04-23,Recruiter Sourced,HR Generalist,20
+10383,John Austin,Sales,2021-07-17,Recruiter Sourced,Sales Coordinator,24
+10384,Jonathan Clark,Engineering,2022-11-17,LinkedIn,Systems Engineer,38
+10385,Jacqueline Dickerson,Engineering,2019-11-11,LinkedIn,Broadcast Engineer,35
+10386,Christopher Anderson,News & Content,2020-12-21,Indeed,Reporter,12
+10387,Crystal Garcia,Sales,2025-12-03,LinkedIn,Sales Manager,47
+10388,David Reynolds,Engineering,2021-10-18,Career Site,Broadcast Engineer,27
+10389,Charles H. Haley,Engineering,2022-07-22,LinkedIn,IT Support,19
+10390,Robert Thompson,Sales,2019-09-21,Indeed,Account Executive,16
+10391,Dr. Samuel Holmes DDS,Sales,2022-03-23,University Recruiting,Sales Coordinator,47
+10392,Elizabeth Hart,Engineering,2021-02-13,Indeed,Systems Engineer,7
+10393,Jennifer Vaughn,News & Content,2018-08-05,Employee Referral,Producer,39
+10394,Robert Woods,Sales,2024-06-19,Recruiter Sourced,Account Executive,45
+10395,Joanna Cook,Sales,2026-05-13,Recruiter Sourced,Sales Manager,28
+10396,Justin Frederick,News & Content,2021-03-18,Indeed,Reporter,54
+10397,Alejandro Martinez,News & Content,2024-03-15,Employee Referral,News Director,21
+10398,Tracey G. Gonzalez,Sales,2022-05-08,Career Site,Sales Coordinator,40
+10399,Mariah Thompson,News & Content,2020-11-16,Employee Referral,Photojournalist,35
+10400,Heather Nunez,Finance,2026-02-10,Employee Referral,Finance Manager,56
+10401,Dr. Steve James,News & Content,2026-05-28,Employee Referral,Reporter,30
+10402,Mark Thomas,Engineering,2023-02-24,LinkedIn,Systems Engineer,39
+10403,Robert Rogers,News & Content,2019-09-26,Employee Referral,Editor,35
+10404,Laura Sweeney,Sales,2023-01-30,Indeed,Account Executive,14
+10405,Christopher Perez,News & Content,2025-10-24,Employee Referral,News Director,32
+10406,Eddie A. Adams,Sales,2022-02-04,Employee Referral,Account Executive,26
+10407,Denise Wallace,News & Content,2024-01-27,Employee Referral,News Director,35
+10408,Heidi Matthews,Sales,2024-05-30,Indeed,Sales Manager,39
+10409,Jennifer White,Sales,2025-10-05,LinkedIn,Sales Coordinator,51
+10410,Nicholas Stanley,News & Content,2019-09-04,Career Site,Reporter,7
+10411,Mercedes Miller,News & Content,2022-12-19,Career Site,Reporter,34
+10412,Brian Brown,News & Content,2021-01-09,LinkedIn,Reporter,17
+10413,Kimberly Johnson,News & Content,2021-10-09,Recruiter Sourced,Editor,41
+10414,Phillip Miller,News & Content,2025-04-15,Employee Referral,Editor,62
+10415,Christopher Pena,News & Content,2022-02-16,Indeed,Reporter,29
+10416,Ellen Wright,News & Content,2019-04-20,Employee Referral,Editor,23
+10417,Mark Anderson,Sales,2018-12-31,Career Site,Account Executive,27
+10418,Alyssa Alvarado,Human Resources,2023-09-09,Recruiter Sourced,HR Manager,17
+10419,Erika Alvarez,News & Content,2023-03-24,Employee Referral,Editor,7
+10420,Kimberly Nelson,Sales,2020-05-03,Employee Referral,Sales Coordinator,37
+10421,Wayne W. Wolfe,Engineering,2026-01-17,Recruiter Sourced,Broadcast Engineer,33
+10422,Kyle Welch,Sales,2020-10-13,Indeed,Sales Manager,24
+10423,Kristy M. Mills,Finance,2018-09-27,Indeed,Finance Manager,19
+10424,Emily Reed,Finance,2022-11-13,Employee Referral,Finance Manager,44
+10425,Regina Ramos,Sales,2022-02-14,Career Site,Sales Manager,50
+10426,David Torres,Engineering,2023-12-07,Recruiter Sourced,IT Support,35
+10427,Robert Charles,News & Content,2019-04-05,Recruiter Sourced,Producer,7
+10428,John Smith,Human Resources,2022-08-27,Recruiter Sourced,HR Generalist,31
+10429,Theresa Woods,Sales,2020-02-12,LinkedIn,Sales Manager,38
+10430,Jeffrey Carter,News & Content,2021-02-06,Recruiter Sourced,Reporter,30
+10431,Adam Brooks,News & Content,2023-05-27,LinkedIn,Photojournalist,31
+10432,Justin Foster,News & Content,2026-02-08,Recruiter Sourced,News Director,24
+10433,Omar Price,Human Resources,2025-10-29,Recruiter Sourced,HR Generalist,30
+10434,Dennis Henderson,Engineering,2021-06-13,Indeed,Broadcast Engineer,46
+10435,Phillip Kent,Sales,2019-09-29,University Recruiting,Account Executive,36
+10436,Melinda Mitchell,News & Content,2025-05-22,Employee Referral,Photojournalist,26
+10437,Rhonda Gutierrez,Sales,2021-07-08,LinkedIn,Sales Manager,30
+10438,Catherine Roberts,News & Content,2021-07-17,University Recruiting,Reporter,51
+10439,Lisa Nelson,News & Content,2020-11-01,Indeed,Photojournalist,19
+10440,Chelsea Smith,Engineering,2021-05-15,LinkedIn,IT Support,25
+10441,Joseph Lopez,News & Content,2026-05-19,LinkedIn,Editor,31
+10442,Derrick Espinoza,News & Content,2025-07-21,LinkedIn,Producer,25
+10443,Crystal Hernandez,News & Content,2019-04-05,Career Site,Reporter,50
+10444,Glenn Collins DDS,Finance,2024-05-19,Employee Referral,Accountant,46
+10445,Mrs. Raven Rivera DVM,Engineering,2022-02-11,Employee Referral,Systems Engineer,31
+10446,Amy Rowe,Sales,2026-07-02,Employee Referral,Sales Manager,61
+10447,John Lee,Human Resources,2024-12-27,Recruiter Sourced,HR Generalist,37
+10448,Ruth Clayton,Human Resources,2020-11-13,Employee Referral,HR Manager,53
+10449,Randy Wright,News & Content,2025-01-02,Career Site,Editor,52
+10450,Jessica R. Rojas,Sales,2026-04-28,Career Site,Sales Coordinator,39
+10451,Joel Wise,Sales,2021-12-13,Recruiter Sourced,Sales Manager,19
+10452,Vickie Kennedy,News & Content,2025-09-24,Career Site,Editor,34
+10453,Emily Morris,Sales,2019-09-04,Indeed,Sales Manager,24
+10454,Amanda Pineda,News & Content,2023-04-04,Employee Referral,Reporter,40
+10455,Dawn Little,News & Content,2019-04-01,Recruiter Sourced,News Director,38
+10456,Stephen Boyer,Sales,2020-03-22,Career Site,Sales Manager,36
+10457,Brian Chen,Sales,2022-05-10,Indeed,Account Executive,44
+10458,Christopher Hill,Finance,2025-07-01,Indeed,Accountant,38
+10459,Richard Smith,News & Content,2026-06-14,Indeed,Photojournalist,32
+10460,Richard Alvarez,News & Content,2019-02-02,Career Site,Producer,18
+10461,Jacqueline Davis,News & Content,2026-03-29,LinkedIn,News Director,25
+10462,Brandon Montgomery,News & Content,2024-08-10,Employee Referral,Reporter,20
+10463,Yolanda G. Garrett,News & Content,2019-04-08,Employee Referral,Reporter,45
+10464,Matthew Miles,Sales,2021-11-01,Indeed,Sales Manager,31
+10465,Beth Hall,News & Content,2025-11-15,Employee Referral,Producer,36
+10466,Dr. Nicole Trujillo,Engineering,2021-11-16,LinkedIn,Systems Engineer,27
+10467,Corey Norris,Finance,2023-01-03,Recruiter Sourced,Financial Analyst,48
+10468,Chad Roach,News & Content,2024-03-29,LinkedIn,Photojournalist,41
+10469,Mr. Edward Terry,News & Content,2024-08-07,Career Site,Editor,35
+10470,Cody Bailey,Sales,2019-08-28,Indeed,Sales Coordinator,33

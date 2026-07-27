@@ -1,0 +1,1471 @@
+Age,AnnualSalary,Attrition,Department,EmployeeID,EngagementScore,JobRole,JobSatisfaction,OverTime,PerformanceRating,TenureYears,WorkLifeBalance,WorkMode,YearsSinceLastPromotion
+43,54767,No,News & Content,1,1,Photojournalist,3,No,3,4.1,3,On-site,0.3
+39,72622,No,Sales,2,1,Account Executive,3,Yes,3,4.3,4,On-site,0.2
+39,57567,No,Finance,3,4,Financial Analyst,1,No,2,0.8,4,Hybrid,0.8
+36,95031,Yes,News & Content,4,3,Editor,2,Yes,3,10.8,3,Remote,7.7
+28,105281,No,Engineering,5,4,Systems Engineer,3,No,3,3.8,4,Remote,1.7
+45,88299,Yes,News & Content,6,4,Photojournalist,4,No,4,0.3,1,Hybrid,0.3
+46,109974,No,News & Content,7,1,Photojournalist,3,No,3,9.8,3,Hybrid,1.8
+46,70325,No,Sales,8,3,Account Executive,3,No,3,1.0,2,Remote,1.0
+43,104429,No,News & Content,9,2,Editor,4,No,4,9.2,4,On-site,3.6
+34,47631,No,News & Content,10,3,News Director,3,No,3,2.0,3,On-site,0.6
+40,69915,No,News & Content,11,3,News Director,2,No,3,14.8,2,Hybrid,0.1
+41,93484,No,Sales,12,2,Sales Manager,4,No,3,19.1,4,Hybrid,2.2
+38,38481,No,Sales,13,2,Account Executive,4,No,3,5.4,2,On-site,3.6
+44,48547,No,News & Content,14,3,Producer,3,Yes,3,5.1,2,On-site,5.1
+23,105340,No,Finance,15,4,Accountant,4,No,2,1.9,4,On-site,1.9
+46,67996,No,Sales,16,4,Sales Manager,3,Yes,3,12.7,2,On-site,1.5
+46,125110,No,Human Resources,17,2,HR Generalist,3,No,4,0.4,2,Hybrid,0.4
+52,45035,Yes,News & Content,18,3,Producer,1,No,4,1.0,2,On-site,1.0
+42,69960,No,Sales,19,2,Account Executive,4,No,3,14.9,3,Hybrid,0.8
+41,101607,No,News & Content,20,3,Reporter,4,No,3,4.3,3,Hybrid,0.8
+26,85859,No,Engineering,21,1,Broadcast Engineer,3,Yes,3,0.3,4,Hybrid,0.3
+33,58785,No,Finance,22,3,Accountant,1,Yes,2,4.0,4,On-site,2.1
+51,95205,No,News & Content,23,2,Editor,3,No,2,16.8,4,On-site,1.3
+54,63058,No,Sales,24,4,Account Executive,2,No,3,2.6,3,Hybrid,2.4
+50,52185,No,Sales,25,1,Sales Manager,1,No,3,0.1,1,On-site,0.1
+27,62916,No,Sales,26,4,Sales Manager,1,No,3,4.7,3,Remote,2.5
+44,100910,No,Finance,27,4,Finance Manager,1,No,3,3.8,4,On-site,3.8
+31,58379,Yes,News & Content,28,4,Photojournalist,2,No,3,0.4,1,Hybrid,0.4
+37,57835,No,News & Content,29,3,Photojournalist,3,No,3,15.4,3,On-site,2.9
+40,95111,No,News & Content,30,4,News Director,1,No,4,2.5,3,On-site,0.8
+33,99552,No,Sales,31,3,Account Executive,4,Yes,3,13.0,3,Hybrid,0.2
+40,34000,Yes,Finance,32,3,Accountant,4,Yes,3,0.3,2,On-site,0.3
+32,34010,Yes,Sales,33,3,Account Executive,2,No,4,10.0,2,On-site,4.4
+46,80705,No,News & Content,34,4,News Director,3,No,3,0.4,2,On-site,0.0
+43,92528,No,Sales,35,3,Account Executive,2,Yes,3,5.1,3,Hybrid,1.7
+41,74734,No,News & Content,36,3,Photojournalist,4,No,3,21.0,3,Hybrid,1.3
+36,55183,Yes,Finance,37,2,Financial Analyst,2,No,3,0.5,3,On-site,0.5
+21,87997,No,Sales,38,4,Account Executive,2,No,3,1.0,4,On-site,1.0
+25,77308,No,Finance,39,3,Accountant,4,No,3,2.4,4,Hybrid,2.4
+39,72146,No,Sales,40,4,Sales Coordinator,4,Yes,3,1.4,4,Remote,1.3
+48,115158,No,News & Content,41,3,Producer,1,No,4,2.0,3,Hybrid,1.6
+39,44982,Yes,News & Content,42,1,Photojournalist,1,No,3,4.4,3,Remote,1.1
+33,109364,No,News & Content,43,4,Producer,4,No,3,4.4,2,Hybrid,1.5
+42,85582,No,News & Content,44,3,Editor,3,No,3,3.9,3,On-site,0.4
+28,86113,Yes,Engineering,45,2,IT Support,1,Yes,3,1.0,2,Hybrid,0.2
+26,70834,No,News & Content,46,3,Photojournalist,4,No,4,1.7,2,On-site,0.0
+32,37614,No,News & Content,47,3,News Director,3,No,3,3.0,3,Hybrid,0.1
+47,39246,No,News & Content,48,4,Photojournalist,1,No,2,9.1,2,Hybrid,4.0
+54,96685,No,Sales,49,1,Account Executive,3,No,3,7.0,3,On-site,3.0
+24,34000,Yes,News & Content,50,1,Reporter,4,No,4,1.3,2,On-site,1.3
+45,76065,No,Engineering,51,3,IT Support,4,No,3,0.1,4,Hybrid,0.1
+42,78044,Yes,Finance,52,4,Finance Manager,4,No,3,1.0,1,Hybrid,1.0
+57,127551,Yes,News & Content,53,1,Reporter,4,Yes,3,1.0,2,Hybrid,0.3
+39,76752,Yes,Engineering,54,1,Systems Engineer,2,No,3,0.6,4,Hybrid,0.6
+33,84843,No,Sales,55,4,Sales Manager,3,No,3,1.2,2,Hybrid,1.2
+46,65302,Yes,News & Content,56,4,Producer,3,Yes,3,1.2,3,On-site,1.2
+37,101523,No,Sales,57,4,Sales Coordinator,3,No,3,6.1,4,On-site,3.3
+56,64443,No,Human Resources,58,2,HR Manager,4,No,3,7.7,2,Hybrid,2.8
+49,82028,No,News & Content,59,2,Editor,2,No,4,14.4,3,On-site,2.1
+33,121900,No,Human Resources,60,4,HR Generalist,4,No,3,12.1,2,Hybrid,2.1
+31,58129,Yes,Finance,61,2,Accountant,4,Yes,3,0.9,2,Hybrid,0.9
+31,95048,No,News & Content,62,3,Editor,2,No,3,2.3,4,On-site,0.6
+48,52449,No,Sales,63,2,Sales Coordinator,2,No,3,1.5,3,Hybrid,1.4
+39,109791,No,News & Content,64,3,Photojournalist,2,No,3,2.3,3,On-site,2.3
+21,102562,No,Human Resources,65,2,HR Manager,3,No,3,1.0,2,On-site,1.0
+55,106221,No,Sales,66,2,Sales Manager,2,No,3,9.1,3,Remote,0.9
+50,83769,No,News & Content,67,2,Reporter,4,No,3,14.8,3,Hybrid,0.2
+46,37237,No,Human Resources,68,3,HR Generalist,3,No,3,7.7,2,On-site,1.2
+39,44672,Yes,News & Content,69,2,News Director,3,No,3,19.0,3,On-site,3.0
+25,56886,No,News & Content,70,4,Reporter,1,No,3,3.4,2,Hybrid,0.7
+29,46530,No,Engineering,71,3,IT Support,2,No,3,5.9,3,Hybrid,4.0
+28,34000,Yes,Finance,72,2,Financial Analyst,3,No,3,0.4,3,Hybrid,0.4
+21,68530,No,News & Content,73,4,Photojournalist,2,No,3,1.0,4,Hybrid,0.4
+24,34000,No,News & Content,74,4,Photojournalist,4,No,3,4.0,3,On-site,2.0
+44,100283,No,Finance,75,4,Financial Analyst,1,No,3,3.3,4,Hybrid,3.1
+48,84029,Yes,Sales,76,3,Sales Manager,2,Yes,3,0.2,4,Remote,0.2
+44,94166,No,Finance,77,3,Finance Manager,3,No,3,0.3,3,Hybrid,0.3
+48,76911,No,News & Content,78,4,News Director,3,No,3,3.8,3,Hybrid,3.8
+38,101833,No,Finance,79,4,Finance Manager,4,No,3,12.6,3,Hybrid,1.1
+52,71751,No,News & Content,80,4,Photojournalist,2,No,4,5.9,3,On-site,0.7
+27,91113,No,Sales,81,1,Account Executive,4,No,3,7.0,3,Hybrid,6.4
+54,60355,No,News & Content,82,4,Reporter,4,No,3,0.2,4,Hybrid,0.2
+52,56019,No,News & Content,83,4,Editor,2,Yes,3,5.4,2,Hybrid,1.7
+34,70067,No,Engineering,84,4,Broadcast Engineer,4,Yes,3,8.6,2,On-site,0.0
+44,42296,No,News & Content,85,3,Photojournalist,4,No,3,0.4,3,Hybrid,0.4
+42,54140,No,Engineering,86,2,IT Support,2,No,3,9.1,2,On-site,0.2
+36,76107,No,Engineering,87,2,Broadcast Engineer,4,No,2,1.8,4,On-site,1.6
+38,113863,No,News & Content,88,4,Reporter,1,No,3,4.5,3,Remote,0.9
+45,99353,No,Sales,89,1,Sales Manager,1,No,3,2.9,4,Hybrid,2.5
+51,115834,No,Sales,90,3,Account Executive,4,No,3,1.8,2,On-site,1.2
+46,58148,No,Engineering,91,2,Broadcast Engineer,2,No,3,6.7,4,Remote,0.1
+53,52095,No,News & Content,92,3,Reporter,1,No,4,10.1,3,On-site,1.4
+36,38774,No,Engineering,93,4,Broadcast Engineer,1,No,3,3.4,2,Hybrid,3.4
+44,34859,Yes,News & Content,94,3,Producer,3,Yes,3,0.8,4,On-site,0.8
+48,41378,Yes,Finance,95,1,Accountant,4,Yes,4,8.9,3,On-site,0.6
+37,100647,No,Human Resources,96,4,HR Manager,1,No,3,6.7,3,Hybrid,6.7
+51,97889,No,Engineering,97,1,Systems Engineer,4,No,3,0.1,3,Hybrid,0.1
+32,130107,No,Sales,98,4,Sales Manager,3,Yes,3,7.6,1,Remote,0.6
+54,66287,No,Sales,99,1,Sales Coordinator,3,Yes,3,9.2,2,Hybrid,2.3
+37,102549,No,News & Content,100,4,Photojournalist,4,No,4,0.3,3,On-site,0.3
+54,59151,No,Engineering,101,4,Broadcast Engineer,4,No,4,3.0,3,On-site,2.0
+51,118395,No,Human Resources,102,3,HR Generalist,3,No,3,6.7,3,On-site,0.2
+31,79714,No,News & Content,103,3,Producer,2,Yes,3,4.8,4,On-site,2.0
+30,34000,No,Engineering,104,3,Systems Engineer,4,No,3,0.8,2,On-site,0.8
+43,34000,No,Sales,105,3,Account Executive,4,No,2,6.9,4,Remote,1.7
+33,92513,Yes,Sales,106,3,Account Executive,2,Yes,4,0.6,1,On-site,0.6
+38,83203,No,Finance,107,3,Accountant,3,Yes,3,1.3,3,Remote,0.3
+43,102046,No,Sales,108,3,Sales Coordinator,2,No,3,5.0,4,Hybrid,2.5
+49,105236,No,Engineering,109,3,Broadcast Engineer,3,Yes,4,1.1,3,On-site,1.1
+41,55078,No,Engineering,110,4,Broadcast Engineer,3,No,4,0.4,4,On-site,0.4
+39,43197,No,Engineering,111,3,Broadcast Engineer,2,No,3,0.1,3,On-site,0.1
+31,107536,No,Sales,112,3,Sales Coordinator,3,No,3,0.8,4,On-site,0.8
+36,34000,No,Sales,113,4,Account Executive,3,No,3,2.3,3,Remote,2.3
+53,71056,No,Sales,114,2,Account Executive,2,No,3,1.9,2,Hybrid,1.7
+27,73768,No,Human Resources,115,2,HR Generalist,4,No,4,7.0,2,On-site,0.5
+21,73368,Yes,Sales,116,2,Account Executive,2,No,4,1.0,3,On-site,1.0
+48,46437,No,Sales,117,4,Account Executive,4,Yes,3,8.6,4,On-site,1.2
+48,98988,Yes,News & Content,118,3,Photojournalist,2,No,3,4.6,3,Hybrid,4.6
+47,102913,No,News & Content,119,1,Photojournalist,1,No,2,21.3,4,On-site,0.7
+30,85814,No,News & Content,120,3,News Director,1,No,3,2.6,2,Hybrid,2.5
+54,83732,No,Sales,121,3,Sales Manager,1,Yes,3,2.8,4,Hybrid,2.6
+28,71439,No,Human Resources,122,1,HR Generalist,3,Yes,3,1.6,4,On-site,1.6
+30,78309,No,News & Content,123,4,News Director,1,No,3,6.3,4,On-site,0.1
+35,56579,No,Finance,124,4,Financial Analyst,4,No,3,3.2,2,On-site,1.9
+38,69231,No,News & Content,125,4,Producer,4,No,2,2.2,4,On-site,0.8
+29,75450,Yes,News & Content,126,2,News Director,3,Yes,4,3.8,3,On-site,3.8
+34,44215,Yes,Finance,127,2,Accountant,1,No,3,0.3,4,On-site,0.3
+40,73373,No,Sales,128,3,Sales Manager,3,Yes,3,0.1,3,Hybrid,0.1
+25,64710,No,News & Content,129,2,Producer,4,No,3,0.3,2,On-site,0.3
+30,34000,No,Sales,130,3,Sales Manager,3,No,2,2.5,4,On-site,2.5
+32,82970,Yes,News & Content,131,1,Photojournalist,2,No,4,3.4,2,Hybrid,3.4
+28,61091,No,News & Content,132,4,News Director,3,No,4,1.4,3,On-site,1.1
+36,61366,No,Sales,133,4,Account Executive,2,No,3,12.0,4,On-site,1.1
+47,128374,Yes,Engineering,134,1,Broadcast Engineer,1,Yes,2,6.0,3,Remote,0.2
+40,71489,No,Human Resources,135,4,HR Manager,4,No,4,15.9,3,On-site,1.8
+36,88999,No,News & Content,136,2,Producer,3,No,3,1.6,2,Hybrid,1.6
+30,61625,No,Sales,137,3,Sales Manager,1,No,3,2.9,4,On-site,2.1
+28,40794,No,Sales,138,4,Sales Coordinator,2,No,4,3.6,3,Hybrid,0.0
+41,34000,No,News & Content,139,4,Producer,2,No,2,4.5,4,On-site,0.4
+47,83191,No,News & Content,140,2,Photojournalist,4,No,3,0.8,3,Hybrid,0.8
+48,77740,No,News & Content,141,3,Editor,2,No,3,2.6,4,On-site,2.6
+46,38515,Yes,News & Content,142,4,Photojournalist,3,Yes,2,5.9,3,Hybrid,3.1
+45,103420,No,Sales,143,3,Sales Manager,4,Yes,3,6.4,3,Hybrid,1.1
+34,60968,No,News & Content,144,3,Photojournalist,3,No,3,0.1,4,On-site,0.1
+54,98780,No,Human Resources,145,4,HR Manager,2,Yes,3,7.4,3,Hybrid,0.1
+44,51928,Yes,News & Content,146,2,Photojournalist,1,No,4,0.7,3,Hybrid,0.7
+24,71557,No,News & Content,147,4,News Director,4,No,3,4.0,4,Remote,0.5
+29,55664,No,News & Content,148,3,Photojournalist,3,No,3,5.4,3,On-site,2.7
+54,59201,No,Finance,149,3,Finance Manager,2,No,4,6.5,2,On-site,2.4
+35,42060,No,Sales,150,2,Sales Coordinator,4,No,3,1.5,2,Hybrid,0.1
+21,43254,Yes,News & Content,151,3,Reporter,1,No,2,1.0,4,On-site,1.0
+28,48543,Yes,Finance,152,2,Accountant,2,No,2,0.7,4,Hybrid,0.4
+40,104161,No,News & Content,153,4,Producer,1,Yes,3,3.3,4,On-site,2.7
+21,66376,No,Sales,154,3,Sales Manager,4,No,3,1.0,4,On-site,1.0
+31,88869,Yes,Finance,155,2,Finance Manager,2,No,4,1.3,4,Remote,0.5
+43,123200,Yes,News & Content,156,3,Reporter,1,No,3,6.3,2,Hybrid,3.5
+39,34000,Yes,News & Content,157,3,Editor,4,No,4,1.5,3,Hybrid,1.1
+29,94089,No,Engineering,158,3,IT Support,2,Yes,3,4.3,3,Hybrid,1.0
+39,78754,No,News & Content,159,3,Editor,4,No,3,3.2,4,Remote,2.2
+35,57328,No,Sales,160,2,Account Executive,4,No,3,0.4,2,Remote,0.3
+37,34000,Yes,Finance,161,2,Financial Analyst,2,No,3,7.9,3,On-site,0.2
+21,116309,No,Human Resources,162,4,HR Generalist,4,Yes,3,1.0,2,On-site,1.0
+40,64750,No,Sales,163,2,Sales Coordinator,4,No,3,1.2,3,On-site,1.2
+39,96059,No,Engineering,164,2,IT Support,1,No,3,7.4,3,On-site,0.6
+32,69465,No,News & Content,165,2,Editor,4,No,3,6.1,4,Hybrid,5.3
+48,81506,No,Engineering,166,1,IT Support,3,Yes,3,9.3,2,Hybrid,1.4
+44,114776,No,News & Content,167,4,Editor,4,No,3,0.3,3,Hybrid,0.3
+45,73961,Yes,News & Content,168,4,Editor,1,Yes,4,24.3,3,Hybrid,0.2
+26,68921,No,Engineering,169,2,Broadcast Engineer,2,No,3,1.9,4,Hybrid,1.9
+32,75449,No,Engineering,170,3,IT Support,4,Yes,3,4.8,3,Hybrid,0.6
+35,34000,Yes,Sales,171,2,Sales Coordinator,3,No,2,1.0,2,On-site,0.0
+32,67516,No,News & Content,172,3,Reporter,1,No,4,1.6,2,Hybrid,1.6
+45,69557,No,Human Resources,173,4,HR Generalist,3,No,3,0.8,4,On-site,0.7
+42,76056,No,Sales,174,1,Sales Manager,4,No,3,1.3,3,On-site,1.0
+21,46906,No,Human Resources,175,3,HR Generalist,3,No,3,1.0,3,On-site,1.0
+27,39975,Yes,Human Resources,176,3,HR Generalist,1,No,2,0.3,2,On-site,0.3
+46,108045,No,News & Content,177,3,Producer,4,No,3,8.4,3,On-site,0.8
+42,69808,No,Engineering,178,3,IT Support,3,No,3,6.4,2,Remote,0.1
+51,111079,No,News & Content,179,3,Reporter,1,No,3,1.9,2,On-site,1.9
+40,40787,Yes,News & Content,180,2,Photojournalist,1,No,3,16.1,4,On-site,1.1
+37,78411,No,News & Content,181,4,Reporter,3,No,3,9.9,4,On-site,7.1
+21,57545,No,Sales,182,3,Account Executive,4,No,3,1.0,4,Hybrid,0.4
+21,92941,Yes,Sales,183,3,Sales Coordinator,1,No,4,1.0,3,Remote,1.0
+57,74373,No,News & Content,184,4,Photojournalist,4,No,3,5.9,2,Hybrid,2.0
+34,79843,No,Sales,185,4,Sales Manager,2,Yes,4,7.1,4,Hybrid,1.4
+48,55321,No,News & Content,186,3,Editor,3,No,3,1.0,3,Hybrid,1.0
+49,66275,No,Engineering,187,4,IT Support,1,No,4,10.1,3,On-site,2.2
+35,111926,No,Human Resources,188,2,HR Manager,4,No,4,3.4,4,On-site,3.4
+50,34000,Yes,Finance,189,4,Finance Manager,1,No,3,0.3,4,On-site,0.3
+31,66650,No,News & Content,190,4,News Director,1,Yes,3,2.4,4,On-site,2.4
+33,89592,No,Sales,191,4,Sales Coordinator,2,Yes,3,2.9,3,On-site,2.9
+31,89791,No,Sales,192,3,Sales Coordinator,4,No,4,2.9,3,Hybrid,0.3
+40,108099,No,News & Content,193,3,Reporter,3,No,3,4.6,2,On-site,0.8
+42,57325,Yes,News & Content,194,2,Reporter,4,No,3,0.6,1,Hybrid,0.1
+21,59986,No,Sales,195,4,Sales Manager,1,Yes,4,1.0,4,Hybrid,1.0
+26,70164,Yes,Finance,196,3,Finance Manager,3,Yes,3,0.4,3,Hybrid,0.4
+38,77524,No,Finance,197,4,Finance Manager,1,Yes,4,1.6,3,Hybrid,1.0
+21,78157,No,Sales,198,4,Sales Manager,3,No,3,1.0,3,Hybrid,1.0
+30,60297,No,Human Resources,199,2,HR Generalist,4,No,3,4.7,3,Remote,2.7
+23,46077,No,Sales,200,2,Sales Manager,4,No,4,3.0,4,On-site,2.7
+62,93968,No,Human Resources,201,4,HR Manager,3,No,3,0.1,3,Hybrid,0.1
+38,34000,No,Sales,202,3,Account Executive,2,No,3,0.4,3,Hybrid,0.4
+43,127755,No,News & Content,203,3,Editor,4,No,3,9.5,4,On-site,0.8
+43,67076,No,Finance,204,4,Accountant,1,No,3,3.0,4,Remote,3.0
+44,47745,No,Sales,205,4,Account Executive,4,No,3,4.4,2,Remote,4.4
+27,64636,No,Engineering,206,4,IT Support,4,Yes,3,7.0,1,On-site,0.0
+48,50000,No,Sales,207,4,Sales Manager,4,No,3,2.0,3,On-site,2.0
+22,84540,No,Engineering,208,4,Broadcast Engineer,2,No,3,0.2,2,Remote,0.2
+46,69744,Yes,News & Content,209,1,Editor,2,No,3,0.9,1,Hybrid,0.9
+36,51585,No,Finance,210,3,Financial Analyst,2,No,4,8.7,4,Hybrid,3.2
+46,34000,Yes,Engineering,211,4,Broadcast Engineer,1,No,3,7.4,2,On-site,3.6
+35,169884,No,Sales,212,3,Account Executive,3,Yes,3,0.8,1,On-site,0.1
+42,34000,Yes,News & Content,213,2,Photojournalist,3,No,3,2.0,2,On-site,0.2
+36,85770,Yes,News & Content,214,2,Photojournalist,3,Yes,4,2.5,4,Hybrid,1.2
+23,77982,Yes,News & Content,215,3,News Director,2,No,3,1.3,1,Remote,1.0
+37,101037,No,Engineering,216,2,IT Support,3,No,3,1.8,4,On-site,0.7
+62,96017,No,Sales,217,4,Sales Manager,3,Yes,3,0.3,2,Remote,0.0
+28,34000,Yes,News & Content,218,4,Producer,2,Yes,4,8.0,4,Hybrid,1.0
+52,34000,Yes,Finance,219,3,Accountant,1,Yes,3,4.9,3,Remote,3.3
+45,91965,No,Human Resources,220,4,HR Generalist,2,Yes,2,3.7,3,Hybrid,0.4
+44,83804,No,Sales,221,2,Sales Manager,4,No,4,1.4,3,Hybrid,1.4
+54,108159,No,Finance,222,4,Financial Analyst,3,No,3,1.7,1,Hybrid,0.3
+45,43959,No,Engineering,223,4,IT Support,3,No,4,7.6,1,On-site,2.8
+51,88241,No,News & Content,224,2,Editor,3,No,3,9.5,4,Remote,0.2
+34,76014,No,Engineering,225,2,IT Support,2,No,3,3.6,3,On-site,0.9
+21,57913,No,News & Content,226,4,Photojournalist,4,Yes,3,0.3,4,Hybrid,0.3
+37,64516,No,Finance,227,3,Accountant,1,No,3,17.0,4,On-site,0.5
+38,46187,No,News & Content,228,4,Reporter,3,Yes,4,3.0,3,On-site,0.2
+52,106937,No,Sales,229,4,Sales Coordinator,1,No,3,1.4,2,On-site,1.4
+22,132349,No,Engineering,230,4,Broadcast Engineer,2,No,3,0.6,1,On-site,0.6
+22,86399,No,News & Content,231,3,Photojournalist,4,Yes,4,2.0,4,On-site,2.0
+36,81809,No,Sales,232,3,Sales Coordinator,4,No,3,0.4,3,Hybrid,0.4
+41,87902,Yes,Human Resources,233,2,HR Generalist,2,Yes,3,0.1,2,Hybrid,0.1
+47,85991,No,Sales,234,3,Sales Coordinator,4,No,3,8.2,2,Hybrid,3.0
+24,62491,No,Sales,235,4,Sales Manager,2,No,3,4.0,4,On-site,0.1
+46,56612,No,Engineering,236,1,Systems Engineer,3,No,3,4.7,2,Remote,0.1
+45,67558,No,Sales,237,4,Sales Coordinator,3,No,4,0.5,4,On-site,0.5
+45,101371,No,News & Content,238,2,Producer,4,No,3,2.0,4,Hybrid,0.9
+44,63971,No,Finance,239,3,Financial Analyst,4,No,3,0.4,3,Hybrid,0.4
+37,50523,No,News & Content,240,3,Photojournalist,3,No,3,2.4,4,On-site,1.7
+53,55748,No,News & Content,241,3,Producer,1,Yes,3,9.6,3,On-site,0.5
+29,70907,No,News & Content,242,4,News Director,4,No,3,3.8,3,On-site,3.1
+43,134137,Yes,News & Content,243,1,Producer,3,Yes,3,0.6,3,On-site,0.6
+39,100775,No,News & Content,244,3,Photojournalist,4,Yes,4,6.7,4,Hybrid,2.8
+48,69217,Yes,News & Content,245,2,Producer,1,No,3,1.0,3,Hybrid,1.0
+36,64280,No,News & Content,246,4,Reporter,3,No,3,10.4,1,Hybrid,0.2
+21,89351,Yes,News & Content,247,3,Photojournalist,3,No,3,1.0,1,Hybrid,1.0
+26,74910,No,News & Content,248,3,News Director,3,No,3,4.5,3,On-site,2.5
+53,41168,Yes,Sales,249,2,Account Executive,3,No,3,1.9,2,Hybrid,1.2
+40,48266,Yes,News & Content,250,2,Photojournalist,2,No,3,5.7,2,On-site,5.2
+36,41711,No,Sales,251,3,Sales Manager,4,No,3,2.7,3,On-site,2.2
+39,89192,No,News & Content,252,4,Photojournalist,3,No,3,4.8,4,On-site,3.0
+34,85763,No,News & Content,253,3,Photojournalist,1,No,3,3.7,3,Remote,3.7
+44,104519,No,News & Content,254,4,Editor,4,Yes,3,24.0,4,On-site,0.1
+35,102782,Yes,Sales,255,2,Sales Coordinator,1,Yes,3,0.1,1,On-site,0.1
+26,78980,No,Sales,256,4,Sales Coordinator,3,No,3,4.4,4,On-site,2.7
+35,87693,No,News & Content,257,4,Editor,2,No,3,3.4,4,Hybrid,3.4
+31,77657,Yes,News & Content,258,3,Reporter,1,Yes,3,0.5,4,Hybrid,0.5
+38,57039,Yes,News & Content,259,1,News Director,4,Yes,3,2.7,3,Hybrid,0.4
+40,78757,No,News & Content,260,4,Reporter,2,No,2,2.3,3,On-site,1.0
+47,79315,No,News & Content,261,2,Producer,3,No,3,9.7,4,On-site,0.5
+38,57539,No,News & Content,262,4,Photojournalist,4,No,3,0.3,4,On-site,0.2
+31,70930,No,Sales,263,3,Sales Manager,1,No,3,11.0,3,On-site,0.4
+33,61317,Yes,News & Content,264,3,Photojournalist,3,Yes,3,1.2,1,On-site,1.2
+33,64203,No,Engineering,265,3,IT Support,4,No,3,8.0,2,On-site,3.3
+48,68730,No,Finance,266,4,Accountant,3,No,4,7.8,3,On-site,3.3
+26,58017,No,News & Content,267,3,Photojournalist,4,No,4,3.0,3,On-site,1.0
+21,120415,No,Engineering,268,4,Systems Engineer,3,No,3,1.0,3,On-site,1.0
+28,51978,No,Sales,269,2,Account Executive,4,No,3,0.9,4,On-site,0.9
+49,34000,No,Sales,270,1,Account Executive,4,No,3,5.9,2,Hybrid,1.6
+43,106411,No,News & Content,271,3,Reporter,2,Yes,4,6.2,3,On-site,1.5
+31,96206,No,Sales,272,3,Sales Coordinator,4,No,3,4.0,3,Hybrid,1.0
+39,60590,Yes,News & Content,273,3,Photojournalist,4,Yes,3,1.2,4,Hybrid,1.2
+45,75673,No,Sales,274,4,Sales Coordinator,2,No,2,2.8,3,Hybrid,0.5
+45,40688,Yes,News & Content,275,3,Producer,4,Yes,3,3.8,1,Hybrid,3.8
+25,75358,No,Sales,276,3,Sales Coordinator,3,No,3,1.6,2,Hybrid,1.6
+46,113234,Yes,News & Content,277,2,Producer,2,No,3,20.8,1,Hybrid,0.7
+36,43522,Yes,Sales,278,3,Account Executive,2,Yes,2,1.2,4,Remote,0.0
+32,47593,No,News & Content,279,4,Reporter,4,No,3,0.5,3,Hybrid,0.5
+30,76131,No,News & Content,280,4,Producer,3,Yes,3,2.6,4,Hybrid,1.5
+24,127643,No,Finance,281,3,Accountant,1,No,3,0.8,4,Remote,0.8
+50,90611,Yes,News & Content,282,2,Editor,1,Yes,3,2.4,4,On-site,0.2
+39,52975,No,News & Content,283,3,Photojournalist,1,Yes,3,6.0,3,On-site,0.4
+42,34000,Yes,News & Content,284,3,News Director,4,No,3,0.1,2,On-site,0.1
+32,101074,No,Engineering,285,3,Systems Engineer,1,No,3,1.1,3,Hybrid,0.6
+49,68023,No,News & Content,286,4,Photojournalist,3,Yes,3,1.0,2,On-site,1.0
+36,52216,No,Finance,287,4,Accountant,3,Yes,3,0.6,3,On-site,0.6
+42,70206,No,News & Content,288,3,Producer,4,No,3,10.3,3,Hybrid,0.5
+33,56931,No,Sales,289,1,Sales Manager,4,No,3,3.3,2,Hybrid,0.7
+31,113004,No,News & Content,290,3,Photojournalist,3,No,3,4.5,3,Hybrid,3.8
+34,64558,No,News & Content,291,3,Reporter,3,No,4,6.6,2,On-site,0.7
+47,69355,No,Engineering,292,3,IT Support,4,No,3,17.2,3,Hybrid,6.5
+36,34000,Yes,Sales,293,2,Sales Coordinator,2,No,3,2.5,1,Remote,1.2
+41,98399,Yes,News & Content,294,4,Producer,2,Yes,2,7.2,1,On-site,0.9
+42,61975,No,Engineering,295,1,Systems Engineer,3,No,2,11.7,1,Hybrid,1.1
+37,140016,Yes,News & Content,296,2,Photojournalist,4,Yes,3,3.8,3,On-site,0.2
+44,56635,No,Sales,297,3,Account Executive,1,No,3,12.0,3,Hybrid,0.2
+31,86048,Yes,News & Content,298,2,Editor,2,No,3,3.0,2,On-site,1.7
+53,47933,Yes,News & Content,299,2,Reporter,3,No,3,1.0,4,On-site,0.8
+26,85099,Yes,Engineering,300,1,Broadcast Engineer,1,Yes,3,3.5,4,On-site,1.3
+46,123229,No,Sales,301,3,Sales Coordinator,2,No,3,9.0,3,Hybrid,1.2
+42,87556,Yes,Finance,302,3,Finance Manager,2,Yes,3,1.5,3,Hybrid,1.5
+33,97052,No,News & Content,303,3,News Director,3,No,3,5.1,3,Hybrid,1.2
+27,36939,No,Sales,304,2,Account Executive,3,No,4,4.9,2,On-site,0.3
+33,34000,Yes,News & Content,305,2,News Director,1,No,3,0.1,1,On-site,0.1
+25,39309,No,Finance,306,3,Financial Analyst,1,No,3,5.0,3,Hybrid,0.3
+28,101026,No,Sales,307,4,Sales Manager,4,No,4,3.4,4,On-site,2.5
+26,90631,Yes,News & Content,308,2,News Director,2,No,3,1.8,1,On-site,1.8
+44,62835,Yes,News & Content,309,3,Editor,2,Yes,4,0.1,2,Hybrid,0.1
+47,34000,Yes,Engineering,310,1,IT Support,2,Yes,4,2.2,2,On-site,0.4
+21,60950,No,News & Content,311,3,Reporter,2,No,3,1.0,4,Hybrid,1.0
+41,71996,No,News & Content,312,3,News Director,4,Yes,3,6.3,2,Hybrid,0.7
+40,34000,No,Engineering,313,2,IT Support,2,No,4,3.3,2,Remote,2.3
+37,71932,No,Sales,314,2,Sales Manager,4,No,3,7.7,2,Hybrid,5.0
+31,104548,No,Human Resources,315,4,HR Manager,3,No,3,11.0,4,Remote,3.9
+39,78104,No,News & Content,316,3,Reporter,4,No,3,2.4,1,Hybrid,1.6
+26,34000,No,Finance,317,3,Accountant,4,No,3,0.6,3,On-site,0.6
+39,44089,Yes,Sales,318,2,Sales Manager,4,No,3,1.4,2,Hybrid,0.1
+47,79139,No,Sales,319,4,Sales Coordinator,2,Yes,4,3.9,3,On-site,1.8
+33,85677,Yes,Sales,320,3,Sales Coordinator,2,Yes,3,2.1,3,Remote,0.8
+39,69232,No,News & Content,321,4,Reporter,4,No,3,0.6,2,Hybrid,0.1
+39,86798,Yes,News & Content,322,4,Producer,2,Yes,3,0.7,1,Hybrid,0.7
+35,64590,No,Sales,323,4,Sales Manager,4,Yes,3,2.8,4,On-site,1.3
+38,85063,No,Sales,324,4,Sales Coordinator,3,No,3,4.5,3,Hybrid,0.5
+52,87518,No,Sales,325,3,Account Executive,2,No,3,3.3,1,On-site,0.4
+36,62371,Yes,News & Content,326,3,Photojournalist,2,Yes,3,13.7,1,Remote,1.8
+39,34571,No,Sales,327,4,Sales Manager,1,No,3,4.7,4,On-site,0.2
+27,102957,Yes,Sales,328,4,Account Executive,1,No,3,0.3,1,On-site,0.3
+34,70202,No,News & Content,329,1,Producer,2,No,3,1.8,4,On-site,1.8
+35,45828,No,Sales,330,4,Sales Coordinator,2,No,4,1.0,3,On-site,1.0
+32,34000,Yes,News & Content,331,2,Photojournalist,4,No,3,2.4,4,Hybrid,2.4
+42,80571,No,Engineering,332,3,Broadcast Engineer,3,No,3,14.2,3,Hybrid,0.1
+32,39131,No,Finance,333,3,Finance Manager,3,No,3,5.0,3,Hybrid,1.9
+53,66862,No,Sales,334,3,Sales Coordinator,1,No,3,7.9,3,Hybrid,1.2
+34,54866,No,Sales,335,3,Account Executive,3,Yes,3,2.4,2,Hybrid,1.5
+34,47098,Yes,Finance,336,2,Finance Manager,1,No,3,3.8,3,Hybrid,1.5
+35,108735,No,News & Content,337,3,Photojournalist,4,No,3,6.2,2,On-site,0.5
+51,34000,Yes,News & Content,338,3,Producer,2,Yes,3,0.4,4,Hybrid,0.4
+61,34000,No,Finance,339,4,Finance Manager,4,No,4,4.9,4,On-site,0.7
+35,34000,No,Sales,340,1,Sales Coordinator,4,No,3,10.5,3,Hybrid,5.9
+48,52384,No,Sales,341,4,Account Executive,4,Yes,3,6.5,3,Hybrid,2.5
+23,100976,No,News & Content,342,1,Reporter,3,No,4,1.0,3,Hybrid,1.0
+34,82361,No,News & Content,343,2,Editor,3,No,3,14.0,1,On-site,0.3
+40,52381,No,News & Content,344,1,Photojournalist,4,No,3,9.2,4,On-site,0.1
+47,54774,No,Sales,345,4,Sales Manager,1,No,3,8.9,3,Remote,3.1
+33,78452,No,Sales,346,3,Account Executive,3,No,3,4.1,2,On-site,4.1
+39,106418,No,Sales,347,3,Sales Coordinator,4,No,4,0.9,3,Hybrid,0.9
+48,80792,Yes,News & Content,348,2,Producer,2,No,3,1.6,1,Hybrid,1.6
+47,51569,No,News & Content,349,1,Photojournalist,1,No,3,2.2,3,On-site,1.0
+47,53209,No,Engineering,350,3,IT Support,3,No,3,0.6,3,On-site,0.6
+42,101953,No,Engineering,351,2,Broadcast Engineer,3,No,3,2.4,4,Remote,0.9
+36,103674,No,News & Content,352,3,Producer,1,No,3,3.8,3,Hybrid,3.8
+36,92731,No,Engineering,353,3,IT Support,3,No,3,0.6,3,On-site,0.6
+33,98899,No,Engineering,354,4,Broadcast Engineer,4,Yes,2,6.0,3,Hybrid,1.7
+40,72493,Yes,News & Content,355,4,Reporter,1,Yes,3,8.8,3,Hybrid,1.1
+33,75236,No,Sales,356,3,Account Executive,2,Yes,3,13.0,1,Remote,1.0
+30,63264,No,Engineering,357,2,IT Support,1,No,3,10.0,2,On-site,0.4
+41,119875,No,Sales,358,3,Sales Coordinator,1,Yes,4,6.4,3,Hybrid,0.3
+36,77938,No,Sales,359,3,Sales Coordinator,2,No,3,1.5,3,On-site,0.4
+21,76575,No,Engineering,360,3,Broadcast Engineer,1,Yes,4,1.0,3,Remote,0.7
+34,38847,No,News & Content,361,4,News Director,2,No,3,13.3,2,On-site,1.1
+42,92141,No,Sales,362,4,Account Executive,4,No,4,3.4,4,Hybrid,2.4
+33,105089,Yes,Engineering,363,2,Systems Engineer,2,No,3,0.6,2,On-site,0.6
+43,81324,No,News & Content,364,2,Reporter,3,Yes,4,2.9,3,Hybrid,1.9
+30,66529,Yes,News & Content,365,1,Photojournalist,2,Yes,3,0.7,4,On-site,0.7
+54,58833,No,Engineering,366,2,Systems Engineer,4,No,4,3.4,3,Hybrid,0.9
+36,62314,No,News & Content,367,4,Editor,2,No,3,3.1,1,Hybrid,2.6
+42,91400,No,Finance,368,3,Finance Manager,2,No,4,3.8,4,Hybrid,3.5
+34,70834,No,Human Resources,369,3,HR Manager,3,No,3,0.3,3,On-site,0.3
+28,47243,No,News & Content,370,3,Producer,4,Yes,3,3.0,3,On-site,1.3
+37,69132,No,Sales,371,2,Sales Manager,3,No,3,1.8,4,Hybrid,1.8
+48,62215,No,News & Content,372,3,News Director,4,No,3,4.7,3,Hybrid,4.2
+34,82060,No,Sales,373,4,Sales Coordinator,2,No,3,2.5,3,On-site,0.5
+21,73380,Yes,Engineering,374,1,Broadcast Engineer,2,Yes,3,1.0,4,Hybrid,0.8
+48,100331,No,News & Content,375,2,Photojournalist,3,No,3,10.3,2,Hybrid,0.4
+31,95414,No,Sales,376,3,Sales Manager,3,No,3,7.5,4,On-site,3.6
+21,72796,No,Engineering,377,3,IT Support,1,No,3,1.0,3,Hybrid,0.0
+37,69200,No,Finance,378,1,Accountant,3,No,3,4.3,2,Hybrid,0.6
+28,77563,Yes,Engineering,379,4,Systems Engineer,1,Yes,4,0.2,2,On-site,0.2
+37,36071,No,News & Content,380,4,Reporter,3,No,4,1.9,2,Hybrid,1.9
+27,99865,No,News & Content,381,3,Photojournalist,3,No,4,4.5,4,On-site,0.8
+37,74329,No,News & Content,382,4,Photojournalist,1,No,4,1.7,4,Hybrid,1.7
+39,91873,No,Sales,383,4,Sales Coordinator,3,No,4,0.6,3,Hybrid,0.6
+30,34000,No,Sales,384,2,Sales Coordinator,3,Yes,4,5.0,3,Remote,2.6
+34,63442,Yes,News & Content,385,3,Photojournalist,4,Yes,3,1.0,3,Hybrid,0.1
+38,76677,No,News & Content,386,4,Editor,3,No,3,0.6,2,Remote,0.6
+30,42180,Yes,Sales,387,2,Account Executive,2,No,3,2.3,4,On-site,0.1
+24,104088,No,News & Content,388,3,Photojournalist,3,No,2,0.9,3,On-site,0.6
+40,101573,Yes,News & Content,389,2,Reporter,1,Yes,3,5.0,4,On-site,0.7
+52,96956,No,Human Resources,390,3,HR Manager,4,No,3,2.5,4,On-site,1.3
+45,83519,No,Finance,391,1,Accountant,3,No,3,25.0,1,On-site,4.6
+21,45364,Yes,News & Content,392,2,Photojournalist,1,No,3,1.0,4,On-site,0.6
+37,66270,No,Finance,393,3,Financial Analyst,1,No,3,1.8,2,On-site,1.8
+41,58594,No,Engineering,394,3,Broadcast Engineer,3,Yes,2,0.1,3,Hybrid,0.1
+38,34000,No,Engineering,395,3,Broadcast Engineer,4,Yes,2,10.8,4,Hybrid,5.9
+43,75094,Yes,News & Content,396,2,Producer,1,No,3,1.5,3,On-site,0.7
+29,36596,No,News & Content,397,4,Editor,3,No,4,7.1,3,Hybrid,2.1
+33,127673,Yes,News & Content,398,2,Editor,3,No,3,5.9,4,On-site,1.5
+40,72239,No,News & Content,399,4,Photojournalist,3,No,3,4.3,2,Hybrid,0.9
+37,46787,Yes,News & Content,400,2,Editor,4,Yes,3,1.9,2,Hybrid,0.4
+46,81941,No,Sales,401,4,Sales Manager,3,No,3,1.3,3,Hybrid,0.3
+41,93266,No,News & Content,402,3,Reporter,4,No,3,1.3,3,Hybrid,1.3
+22,37809,No,Sales,403,2,Sales Coordinator,3,No,3,1.7,2,On-site,1.7
+38,62083,No,Sales,404,1,Sales Manager,3,No,3,0.1,3,Hybrid,0.1
+23,66162,No,Engineering,405,1,Broadcast Engineer,4,No,3,0.6,2,On-site,0.6
+30,72125,No,Sales,406,4,Account Executive,1,No,3,5.8,4,Hybrid,1.3
+29,68020,No,News & Content,407,3,News Director,1,Yes,4,6.2,2,Hybrid,2.2
+32,55325,No,Engineering,408,4,Systems Engineer,3,No,3,1.6,3,Hybrid,0.6
+24,34000,Yes,Finance,409,2,Financial Analyst,1,No,3,3.8,3,Hybrid,0.4
+37,72488,Yes,News & Content,410,2,Photojournalist,2,Yes,4,1.7,3,Hybrid,1.7
+44,63605,No,Sales,411,1,Sales Manager,3,No,3,4.5,3,On-site,0.7
+49,77361,No,News & Content,412,3,Reporter,3,No,3,2.5,3,On-site,2.5
+33,54728,No,Human Resources,413,3,HR Generalist,4,No,3,2.2,4,On-site,0.3
+50,118399,No,Finance,414,1,Finance Manager,4,No,2,7.0,2,On-site,0.9
+29,81760,No,News & Content,415,4,Editor,4,Yes,4,4.7,3,Hybrid,1.0
+37,90892,No,News & Content,416,4,News Director,2,No,3,6.9,4,Hybrid,3.7
+30,61513,No,News & Content,417,3,Reporter,1,No,3,4.8,4,On-site,1.3
+43,66956,No,Sales,418,3,Sales Coordinator,3,Yes,2,0.7,3,Hybrid,0.7
+43,34000,Yes,News & Content,419,3,Reporter,4,Yes,2,0.4,2,Hybrid,0.4
+32,70254,No,Engineering,420,4,Broadcast Engineer,2,No,3,3.5,3,On-site,3.5
+46,83695,No,News & Content,421,2,Reporter,3,No,3,14.8,2,Hybrid,1.9
+43,69251,No,Sales,422,3,Account Executive,1,No,3,3.1,1,Hybrid,0.5
+42,55818,No,Sales,423,2,Account Executive,4,Yes,3,3.1,3,Hybrid,0.4
+48,67557,Yes,News & Content,424,4,Editor,2,No,3,0.8,2,On-site,0.5
+39,82648,Yes,News & Content,425,2,Photojournalist,2,Yes,3,1.6,1,Hybrid,0.2
+43,63032,Yes,Sales,426,2,Account Executive,2,Yes,3,0.8,1,On-site,0.2
+43,47402,No,News & Content,427,4,Editor,4,Yes,3,5.0,3,Hybrid,3.5
+45,82365,Yes,News & Content,428,1,News Director,2,No,3,1.7,2,On-site,1.7
+26,101440,No,Human Resources,429,4,HR Generalist,1,No,3,2.8,4,On-site,2.8
+39,67719,No,Sales,430,2,Account Executive,4,No,4,7.4,1,On-site,2.2
+32,63622,No,Sales,431,3,Account Executive,4,No,3,1.4,1,On-site,1.4
+46,96514,Yes,Sales,432,2,Account Executive,2,Yes,4,4.8,3,On-site,2.1
+36,54898,No,Human Resources,433,3,HR Manager,4,No,3,3.4,4,Remote,3.4
+23,63555,Yes,News & Content,434,2,Reporter,3,No,3,0.8,3,Remote,0.4
+52,57653,Yes,Finance,435,1,Finance Manager,1,No,2,0.7,3,On-site,0.7
+55,39657,No,Human Resources,436,3,HR Generalist,3,No,3,18.1,1,On-site,2.0
+23,70342,No,News & Content,437,4,Producer,3,No,4,3.0,3,Hybrid,1.8
+34,34000,Yes,News & Content,438,2,News Director,4,No,3,1.0,4,On-site,1.0
+37,93327,Yes,News & Content,439,1,Reporter,2,No,4,0.9,3,On-site,0.9
+37,46139,Yes,Engineering,440,2,IT Support,4,Yes,3,1.5,3,Hybrid,1.5
+38,45501,Yes,News & Content,441,2,Reporter,3,No,4,0.1,3,Hybrid,0.1
+44,63765,No,Sales,442,4,Sales Coordinator,2,Yes,3,1.9,3,On-site,1.9
+38,40125,Yes,Engineering,443,3,Broadcast Engineer,1,No,3,0.2,3,On-site,0.2
+38,138874,No,Sales,444,1,Account Executive,3,Yes,2,13.7,4,Hybrid,0.3
+21,101527,No,Finance,445,4,Finance Manager,4,No,3,1.0,4,On-site,0.3
+32,41646,No,News & Content,446,3,Photojournalist,4,No,3,9.3,1,Hybrid,0.6
+44,48661,No,Finance,447,3,Finance Manager,3,No,2,9.1,4,Remote,0.8
+39,72862,No,Sales,448,4,Account Executive,4,Yes,3,0.5,3,Hybrid,0.5
+40,100649,No,Engineering,449,2,Systems Engineer,3,No,3,0.6,3,Hybrid,0.2
+45,109415,No,Finance,450,4,Accountant,2,Yes,3,3.4,3,Remote,1.8
+45,53781,No,Human Resources,451,1,HR Generalist,2,No,3,3.0,2,Hybrid,0.8
+21,38470,Yes,News & Content,452,2,News Director,2,No,2,1.0,3,Hybrid,1.0
+48,45078,No,Sales,453,3,Sales Manager,4,No,3,13.1,3,Hybrid,2.5
+35,58911,No,News & Content,454,3,Producer,1,No,3,3.3,4,Remote,0.1
+34,76068,No,News & Content,455,4,Editor,1,No,3,0.5,4,On-site,0.5
+23,99384,No,Human Resources,456,3,HR Manager,3,No,3,1.0,2,Remote,1.0
+32,85422,No,Human Resources,457,3,HR Generalist,3,No,2,3.2,4,On-site,1.7
+47,87371,No,Sales,458,3,Sales Manager,1,No,3,3.1,2,Hybrid,2.3
+38,107198,No,Sales,459,2,Account Executive,3,No,3,3.4,2,On-site,2.0
+44,99825,Yes,News & Content,460,4,Editor,4,Yes,4,0.7,3,On-site,0.6
+45,67129,No,Sales,461,4,Sales Coordinator,1,No,2,4.7,2,Hybrid,1.1
+28,76243,No,News & Content,462,1,Photojournalist,3,No,3,0.5,4,On-site,0.5
+32,109107,No,Sales,463,3,Account Executive,4,No,3,3.9,2,Hybrid,3.9
+41,75384,No,Human Resources,464,2,HR Manager,4,Yes,2,0.8,3,Remote,0.8
+37,100731,Yes,News & Content,465,3,Producer,2,Yes,3,3.3,4,Remote,3.3
+42,120947,Yes,News & Content,466,3,Photojournalist,2,Yes,3,3.6,4,Hybrid,3.6
+26,67138,No,Human Resources,467,1,HR Generalist,3,No,3,0.5,2,Remote,0.5
+48,63755,No,News & Content,468,4,Reporter,3,No,3,1.7,3,Hybrid,1.0
+37,100036,No,Engineering,469,3,Broadcast Engineer,2,No,2,5.9,2,Hybrid,0.8
+51,47431,No,Sales,470,1,Sales Coordinator,1,No,3,0.4,3,Hybrid,0.4
+21,62757,No,Sales,471,3,Sales Manager,3,No,3,1.0,4,Remote,0.2
+45,94045,No,Sales,472,3,Sales Coordinator,4,No,2,0.2,3,Hybrid,0.2
+24,92324,No,Sales,473,3,Account Executive,3,No,3,4.0,1,Hybrid,2.1
+58,92040,Yes,Human Resources,474,2,HR Generalist,1,No,3,7.9,3,On-site,1.8
+46,110602,No,News & Content,475,3,Producer,3,No,3,0.7,4,Hybrid,0.7
+51,70209,No,Finance,476,4,Finance Manager,2,Yes,3,3.3,2,On-site,0.5
+46,90277,No,Engineering,477,2,Broadcast Engineer,4,No,3,1.4,3,On-site,0.2
+53,73156,No,Sales,478,3,Sales Coordinator,4,Yes,3,12.8,3,On-site,0.3
+26,88028,No,Sales,479,3,Sales Coordinator,4,No,2,0.7,3,On-site,0.7
+32,92655,No,News & Content,480,3,Producer,4,No,3,5.7,4,Hybrid,1.5
+35,34000,No,News & Content,481,3,Editor,3,No,3,7.2,4,Hybrid,1.7
+51,63208,Yes,News & Content,482,1,Reporter,2,Yes,3,3.1,3,Remote,1.1
+31,89090,Yes,News & Content,483,1,Reporter,3,No,4,0.4,1,Hybrid,0.4
+39,34000,No,Engineering,484,4,Systems Engineer,4,Yes,3,7.2,4,Hybrid,0.6
+40,84540,No,Sales,485,3,Account Executive,1,Yes,3,6.0,4,On-site,0.3
+37,70901,No,Human Resources,486,3,HR Manager,1,Yes,3,0.9,3,Hybrid,0.9
+42,34000,Yes,News & Content,487,4,News Director,2,No,3,0.1,3,On-site,0.1
+38,34000,Yes,News & Content,488,3,Producer,2,No,3,6.2,4,Remote,0.1
+40,54590,No,News & Content,489,1,Editor,3,No,3,2.4,2,On-site,1.3
+44,80475,No,Sales,490,3,Sales Manager,3,Yes,3,0.1,4,On-site,0.1
+32,75969,No,Engineering,491,3,IT Support,3,No,3,5.0,3,Hybrid,0.5
+44,88805,No,Engineering,492,3,Systems Engineer,3,Yes,3,0.8,3,Hybrid,0.8
+36,48411,No,News & Content,493,3,Photojournalist,4,No,4,6.4,4,Remote,1.2
+42,34000,No,Sales,494,3,Sales Manager,3,Yes,3,2.6,2,On-site,2.6
+42,80088,No,Engineering,495,4,Broadcast Engineer,2,Yes,3,6.4,2,On-site,0.9
+47,88082,No,Sales,496,1,Sales Manager,4,No,3,0.2,3,Hybrid,0.2
+31,90453,No,Sales,497,3,Sales Manager,4,No,3,5.1,4,On-site,1.0
+42,82340,Yes,News & Content,498,2,Producer,2,No,3,2.3,2,On-site,1.5
+29,67245,Yes,Sales,499,2,Sales Coordinator,2,Yes,3,2.6,4,Hybrid,2.6
+31,67359,No,Sales,500,3,Account Executive,1,No,3,8.8,2,Remote,2.7
+45,90575,No,News & Content,501,4,Producer,4,No,4,4.6,4,Hybrid,3.0
+27,79172,Yes,News & Content,502,2,News Director,4,Yes,3,2.7,2,Hybrid,0.4
+62,84222,No,Finance,503,3,Accountant,2,Yes,3,1.4,4,On-site,1.4
+40,103821,No,News & Content,504,4,Photojournalist,4,No,4,3.1,4,On-site,1.8
+26,96274,Yes,News & Content,505,2,Producer,4,Yes,3,1.3,2,On-site,1.3
+39,37217,No,Engineering,506,1,Broadcast Engineer,4,No,3,2.5,1,On-site,1.4
+50,83079,No,Finance,507,4,Financial Analyst,4,Yes,3,7.2,4,On-site,0.1
+48,60800,No,News & Content,508,2,Reporter,3,No,3,10.6,4,On-site,0.4
+33,96653,No,Finance,509,4,Finance Manager,3,No,3,3.2,3,On-site,2.6
+38,34000,No,Finance,510,2,Finance Manager,3,No,2,4.5,3,Hybrid,1.5
+24,64055,Yes,News & Content,511,2,Editor,4,Yes,3,1.0,4,Remote,0.9
+34,107265,No,News & Content,512,3,Photojournalist,4,Yes,3,3.2,2,Hybrid,3.2
+51,90037,No,News & Content,513,2,News Director,3,No,2,6.5,4,On-site,5.1
+43,78026,Yes,News & Content,514,4,News Director,3,Yes,3,2.1,1,On-site,1.8
+47,44974,Yes,News & Content,515,3,News Director,3,Yes,2,8.9,2,Hybrid,1.3
+31,62853,No,News & Content,516,4,Producer,3,Yes,2,9.1,2,Hybrid,4.7
+44,34000,Yes,News & Content,517,4,News Director,4,No,3,5.1,3,On-site,5.1
+25,124286,Yes,News & Content,518,2,News Director,4,No,3,0.4,2,Hybrid,0.4
+33,95569,No,News & Content,519,2,Producer,3,No,3,2.5,1,On-site,0.6
+45,56680,No,News & Content,520,3,Editor,3,No,3,5.5,3,Hybrid,1.1
+31,50124,No,Sales,521,2,Sales Manager,2,No,2,7.4,3,On-site,0.6
+54,49877,Yes,Engineering,522,4,IT Support,1,Yes,3,8.8,3,On-site,0.0
+50,66466,No,News & Content,523,3,Photojournalist,3,No,3,1.4,3,On-site,1.1
+44,67590,No,Human Resources,524,2,HR Generalist,4,No,4,7.1,3,Hybrid,1.4
+58,78455,Yes,News & Content,525,3,Reporter,1,No,3,6.8,1,On-site,0.4
+27,77443,No,Sales,526,2,Sales Manager,1,No,2,7.0,3,Hybrid,0.8
+40,86050,No,News & Content,527,3,Reporter,3,Yes,4,0.6,4,On-site,0.6
+44,85838,No,Sales,528,2,Sales Manager,4,No,3,4.9,2,On-site,0.4
+31,81570,No,News & Content,529,4,Reporter,3,Yes,2,6.7,3,Hybrid,3.2
+31,90799,No,Finance,530,3,Accountant,3,No,4,3.4,1,Hybrid,2.2
+34,87200,No,Sales,531,3,Sales Coordinator,3,No,3,7.8,2,Hybrid,2.9
+48,47476,No,Sales,532,4,Sales Coordinator,3,No,3,2.8,3,Remote,0.2
+33,49684,No,Engineering,533,3,Systems Engineer,3,Yes,4,3.0,2,On-site,0.6
+45,82072,No,Engineering,534,4,IT Support,4,Yes,3,3.5,3,Remote,1.6
+53,61832,No,Sales,535,4,Sales Coordinator,4,Yes,3,2.5,4,On-site,2.5
+35,89616,No,Finance,536,4,Financial Analyst,4,No,2,0.6,2,On-site,0.6
+35,95682,No,Sales,537,2,Account Executive,4,No,2,0.7,4,Hybrid,0.7
+43,83048,No,Sales,538,4,Sales Coordinator,4,No,3,8.9,2,On-site,0.9
+21,61642,No,Sales,539,1,Account Executive,3,Yes,3,1.0,4,Hybrid,0.5
+26,49357,Yes,Finance,540,4,Accountant,4,Yes,4,0.7,3,Hybrid,0.2
+21,82268,Yes,Engineering,541,4,Broadcast Engineer,4,Yes,3,1.0,1,Remote,1.0
+25,34000,Yes,News & Content,542,3,Reporter,3,Yes,3,5.0,1,On-site,2.8
+21,79210,No,Sales,543,4,Sales Manager,1,No,4,1.0,1,On-site,1.0
+64,94775,No,Human Resources,544,1,HR Manager,2,No,2,7.6,3,On-site,0.5
+50,72994,No,Finance,545,2,Finance Manager,3,No,3,1.9,2,Hybrid,1.9
+32,82607,No,Sales,546,3,Sales Manager,3,No,3,1.0,4,Hybrid,1.0
+49,112374,No,Sales,547,2,Sales Coordinator,3,No,3,0.5,1,On-site,0.5
+35,34000,No,Finance,548,1,Finance Manager,4,No,3,3.9,3,Hybrid,0.2
+41,90648,No,News & Content,549,3,Photojournalist,1,No,3,1.3,3,Hybrid,1.0
+56,102405,No,News & Content,550,2,News Director,4,Yes,3,3.3,2,On-site,2.1
+21,57494,No,News & Content,551,3,News Director,2,No,3,0.5,3,On-site,0.5
+31,64478,No,Sales,552,4,Account Executive,4,No,3,10.9,4,Hybrid,3.1
+21,59478,No,Sales,553,4,Sales Manager,4,No,3,1.0,3,Hybrid,0.6
+35,84626,Yes,News & Content,554,2,Producer,3,Yes,3,2.2,4,On-site,2.2
+39,40485,Yes,News & Content,555,1,Reporter,1,Yes,3,0.1,4,Remote,0.1
+45,74453,No,Sales,556,4,Sales Manager,4,No,3,1.1,3,Hybrid,1.1
+21,47899,No,Sales,557,4,Account Executive,4,Yes,3,1.0,4,Hybrid,0.3
+30,97402,No,Engineering,558,4,IT Support,4,No,4,1.8,4,On-site,0.7
+35,60694,No,Sales,559,4,Account Executive,4,No,3,3.1,4,On-site,1.1
+31,34000,No,Finance,560,3,Accountant,4,No,4,11.0,2,Hybrid,1.5
+38,34000,No,Sales,561,4,Account Executive,4,Yes,3,3.4,3,Remote,2.8
+21,34000,No,Sales,562,3,Sales Manager,4,No,3,1.0,3,Hybrid,1.0
+29,121339,No,Human Resources,563,1,HR Manager,3,No,4,5.9,2,On-site,2.8
+25,84200,No,Sales,564,4,Account Executive,4,No,4,1.7,3,Hybrid,1.7
+49,48561,No,Sales,565,4,Account Executive,3,Yes,3,16.0,3,Hybrid,2.6
+47,72962,No,Finance,566,4,Finance Manager,4,No,3,3.9,4,Hybrid,0.2
+30,34000,Yes,Engineering,567,3,Broadcast Engineer,2,Yes,3,1.4,3,On-site,0.8
+45,50855,No,Human Resources,568,4,HR Manager,4,No,3,0.5,4,On-site,0.5
+34,95923,No,Human Resources,569,4,HR Manager,3,No,3,6.6,3,Remote,1.9
+45,93326,Yes,News & Content,570,2,Editor,2,Yes,3,0.4,4,Hybrid,0.4
+50,68283,No,Finance,571,4,Financial Analyst,2,Yes,3,10.3,1,Hybrid,1.8
+37,63309,No,Sales,572,4,Account Executive,1,No,4,2.1,2,Hybrid,1.2
+45,75269,No,Finance,573,4,Accountant,3,No,4,0.3,3,On-site,0.3
+34,55540,Yes,News & Content,574,2,Reporter,3,No,3,1.1,4,On-site,1.1
+51,65660,No,Human Resources,575,3,HR Manager,3,No,3,9.9,3,On-site,2.0
+30,34000,No,Finance,576,1,Financial Analyst,3,No,3,4.8,3,On-site,2.7
+48,56006,No,News & Content,577,3,Reporter,3,No,4,10.2,1,Hybrid,0.0
+35,90388,No,Sales,578,2,Account Executive,2,No,3,2.2,4,Hybrid,0.5
+30,62351,No,News & Content,579,4,Reporter,4,Yes,2,0.5,2,On-site,0.5
+34,56022,No,News & Content,580,4,News Director,3,No,4,4.4,3,Remote,1.8
+23,34000,No,Sales,581,1,Account Executive,4,No,4,0.6,3,Hybrid,0.5
+29,108837,No,Sales,582,4,Account Executive,3,Yes,3,0.3,3,Hybrid,0.0
+21,67815,Yes,Engineering,583,2,IT Support,2,Yes,2,1.0,2,Hybrid,0.5
+27,74470,No,News & Content,584,3,Reporter,3,No,2,7.0,3,Hybrid,0.1
+35,151821,No,News & Content,585,4,News Director,3,No,3,5.9,3,On-site,3.8
+56,86581,No,Engineering,586,2,Systems Engineer,3,No,4,3.0,2,On-site,0.1
+50,96515,No,Engineering,587,3,IT Support,4,No,3,2.5,4,On-site,1.4
+37,90450,No,Sales,588,4,Sales Coordinator,4,No,3,12.7,2,On-site,3.2
+34,49351,No,Sales,589,1,Sales Coordinator,4,No,3,14.0,3,Remote,0.5
+49,55189,No,News & Content,590,3,Editor,4,No,2,0.3,3,Remote,0.3
+46,116997,Yes,News & Content,591,1,News Director,2,Yes,4,12.4,2,On-site,0.1
+37,90627,No,Sales,592,3,Sales Manager,2,No,3,1.0,4,Hybrid,1.0
+28,40247,Yes,News & Content,593,2,Photojournalist,2,No,3,0.6,3,Hybrid,0.2
+47,60544,No,Human Resources,594,4,HR Generalist,4,No,3,0.4,3,Hybrid,0.4
+31,50295,No,Sales,595,3,Account Executive,3,Yes,3,1.8,4,Hybrid,0.0
+31,68792,Yes,News & Content,596,4,Producer,2,No,3,0.5,3,On-site,0.5
+45,89299,No,Human Resources,597,4,HR Manager,3,Yes,4,1.4,3,Hybrid,1.4
+50,130534,No,Sales,598,4,Account Executive,2,No,3,2.9,2,On-site,0.0
+32,61773,Yes,News & Content,599,2,Reporter,1,No,3,5.7,2,Remote,2.9
+42,103329,No,Engineering,600,4,Systems Engineer,4,No,3,0.5,1,Hybrid,0.5
+43,64815,No,Finance,601,1,Finance Manager,4,No,3,2.4,2,Remote,2.4
+34,44829,Yes,News & Content,602,4,Reporter,2,Yes,3,3.1,2,Hybrid,1.7
+37,68811,Yes,Sales,603,4,Account Executive,2,No,3,0.5,1,Hybrid,0.5
+41,34000,Yes,News & Content,604,4,Photojournalist,1,No,2,14.9,3,On-site,6.6
+24,53030,No,Finance,605,4,Finance Manager,2,No,4,4.0,2,On-site,1.5
+56,34000,No,News & Content,606,1,Producer,3,No,3,2.5,3,Hybrid,0.5
+34,63827,Yes,News & Content,607,2,News Director,4,Yes,4,0.3,1,Hybrid,0.3
+27,52210,Yes,News & Content,608,3,News Director,2,No,3,0.7,4,Hybrid,0.7
+36,88774,Yes,Sales,609,2,Account Executive,2,No,3,4.9,1,Hybrid,0.4
+34,80660,Yes,News & Content,610,2,News Director,4,No,3,0.5,2,Remote,0.4
+23,75397,No,Engineering,611,3,IT Support,4,No,3,2.7,1,Hybrid,2.7
+30,106363,No,News & Content,612,3,Reporter,2,No,4,2.4,4,On-site,2.4
+35,66475,No,News & Content,613,3,Producer,2,No,3,1.8,3,Hybrid,0.1
+62,40762,No,Engineering,614,3,Systems Engineer,4,Yes,3,7.6,2,On-site,0.3
+34,94597,No,Sales,615,3,Sales Coordinator,4,Yes,4,4.0,1,Hybrid,1.6
+42,71516,No,News & Content,616,2,Reporter,3,No,4,1.0,2,Hybrid,1.0
+21,67030,No,Engineering,617,3,IT Support,3,No,4,0.1,2,Hybrid,0.1
+30,90050,No,Sales,618,3,Sales Manager,4,Yes,3,5.6,4,On-site,0.4
+44,70340,No,News & Content,619,4,Photojournalist,3,No,3,3.0,4,Remote,0.4
+43,86570,No,Sales,620,3,Sales Coordinator,4,No,4,0.5,4,Hybrid,0.5
+35,78861,No,News & Content,621,3,Producer,3,No,3,1.2,4,On-site,1.2
+26,40045,No,News & Content,622,3,Reporter,2,No,3,3.9,3,Hybrid,0.4
+29,77258,No,Sales,623,4,Sales Manager,1,No,3,4.2,3,On-site,2.7
+37,79485,No,News & Content,624,1,Reporter,3,No,4,2.0,1,Hybrid,0.9
+53,83498,Yes,Engineering,625,2,Systems Engineer,3,Yes,3,0.7,2,On-site,0.3
+34,60880,No,News & Content,626,3,Producer,3,Yes,3,8.9,2,On-site,2.3
+44,102375,Yes,News & Content,627,3,Producer,4,Yes,3,0.5,4,Remote,0.5
+37,84356,No,Finance,628,2,Financial Analyst,1,No,2,3.4,3,On-site,0.2
+33,78910,No,Sales,629,4,Sales Coordinator,3,Yes,4,4.7,1,Hybrid,4.7
+39,63172,No,News & Content,630,4,Reporter,3,No,3,0.9,2,On-site,0.9
+59,101689,No,News & Content,631,3,News Director,3,Yes,4,11.8,4,Remote,1.0
+48,69742,No,Engineering,632,3,IT Support,4,Yes,3,1.7,3,On-site,1.2
+53,34000,Yes,News & Content,633,3,News Director,1,No,3,15.6,3,On-site,0.4
+43,100916,No,Sales,634,4,Sales Coordinator,4,No,3,4.1,2,On-site,4.1
+33,77458,No,Sales,635,4,Sales Manager,4,No,4,4.1,2,Hybrid,2.3
+38,69915,Yes,Engineering,636,2,IT Support,2,No,3,1.0,2,Hybrid,0.7
+46,50542,Yes,News & Content,637,3,News Director,2,No,3,9.7,3,Hybrid,3.2
+36,66875,No,Human Resources,638,1,HR Generalist,3,No,4,11.8,3,Hybrid,3.8
+45,35580,No,News & Content,639,4,Editor,3,Yes,4,9.4,4,Remote,0.6
+24,36768,No,Engineering,640,3,Systems Engineer,3,No,4,4.0,2,Hybrid,1.7
+60,46586,No,News & Content,641,3,Editor,4,No,3,4.2,2,On-site,1.7
+33,71984,No,Sales,642,3,Sales Coordinator,1,No,4,6.6,3,Hybrid,1.1
+37,56779,No,Finance,643,4,Finance Manager,3,Yes,4,3.6,2,On-site,3.6
+37,80213,Yes,Sales,644,1,Sales Coordinator,2,Yes,3,0.7,4,Hybrid,0.7
+43,139483,Yes,News & Content,645,1,Photojournalist,4,Yes,2,0.1,2,Remote,0.1
+21,82633,No,News & Content,646,3,Producer,4,No,3,1.0,2,Hybrid,1.0
+38,105865,No,Human Resources,647,3,HR Generalist,4,No,3,5.3,2,Hybrid,0.5
+53,87428,No,Sales,648,3,Sales Manager,2,No,2,1.5,3,On-site,1.1
+33,50175,No,News & Content,649,1,News Director,4,No,4,1.2,3,Hybrid,1.2
+44,57531,No,Engineering,650,3,IT Support,4,Yes,3,2.0,4,On-site,2.0
+34,80051,No,News & Content,651,2,Photojournalist,2,No,4,2.3,2,On-site,1.2
+49,34000,Yes,Sales,652,1,Sales Manager,1,Yes,4,0.8,2,Hybrid,0.8
+21,74106,Yes,News & Content,653,3,News Director,4,Yes,3,0.8,3,On-site,0.8
+22,34000,No,Sales,654,4,Account Executive,1,No,3,2.0,2,On-site,0.6
+34,91670,No,Finance,655,3,Finance Manager,2,No,3,4.7,2,Hybrid,1.2
+38,86885,No,Finance,656,1,Financial Analyst,1,Yes,4,2.0,2,Hybrid,1.6
+33,71152,No,Sales,657,2,Account Executive,3,Yes,3,5.3,2,Hybrid,1.9
+40,115687,No,News & Content,658,3,Editor,3,Yes,2,5.3,4,Remote,2.4
+42,60065,No,Sales,659,4,Sales Coordinator,4,No,2,12.2,3,On-site,0.0
+34,64178,Yes,News & Content,660,2,Editor,2,Yes,3,14.0,3,Remote,6.3
+54,109896,No,Engineering,661,3,Systems Engineer,3,No,4,4.6,4,On-site,3.3
+29,99447,Yes,News & Content,662,3,News Director,1,Yes,3,2.6,4,On-site,2.0
+24,57107,No,Sales,663,3,Sales Coordinator,3,Yes,3,0.8,3,On-site,0.8
+30,48095,No,Engineering,664,4,Systems Engineer,4,No,3,7.5,3,Hybrid,1.1
+49,34000,No,Engineering,665,4,Broadcast Engineer,3,No,2,8.6,2,Hybrid,1.3
+55,125784,No,Human Resources,666,3,HR Manager,3,Yes,3,2.5,2,Hybrid,2.5
+45,107126,No,News & Content,667,1,Photojournalist,3,No,3,4.6,3,Hybrid,4.6
+31,36591,Yes,News & Content,668,1,News Director,4,No,3,1.6,4,On-site,1.6
+21,94004,Yes,News & Content,669,4,Producer,1,No,4,0.8,4,On-site,0.8
+51,89730,No,News & Content,670,2,Editor,3,No,3,4.8,3,Remote,1.8
+28,49100,No,News & Content,671,3,Reporter,1,No,3,3.7,3,Remote,2.7
+27,158655,No,News & Content,672,4,News Director,3,No,4,4.9,4,Remote,0.3
+34,86452,Yes,News & Content,673,4,Photojournalist,2,No,3,1.1,4,Hybrid,1.1
+21,75024,No,Sales,674,3,Account Executive,1,No,2,1.0,4,Remote,1.0
+21,61847,Yes,Human Resources,675,2,HR Manager,2,No,3,1.0,3,On-site,0.6
+30,96192,No,Human Resources,676,3,HR Generalist,4,No,3,0.6,4,On-site,0.4
+34,110147,Yes,News & Content,677,4,Producer,2,Yes,3,3.1,4,Hybrid,0.1
+26,99853,No,News & Content,678,4,Reporter,4,No,4,2.3,3,On-site,2.3
+21,76391,No,News & Content,679,3,News Director,3,No,3,1.0,3,On-site,1.0
+43,51470,No,Human Resources,680,4,HR Generalist,4,No,3,2.5,2,On-site,2.5
+26,50350,No,News & Content,681,4,Photojournalist,1,Yes,3,3.7,3,Hybrid,1.5
+34,48092,No,Sales,682,4,Sales Manager,2,Yes,3,8.7,3,On-site,1.2
+40,71471,Yes,News & Content,683,4,Reporter,2,No,4,1.2,4,Hybrid,1.2
+33,99661,No,News & Content,684,4,Editor,1,No,3,3.2,3,Remote,0.4
+51,79261,No,News & Content,685,3,Photojournalist,3,No,3,0.1,2,Hybrid,0.1
+45,67485,No,News & Content,686,3,News Director,4,No,4,10.3,4,Hybrid,0.3
+41,42829,No,Human Resources,687,3,HR Generalist,1,No,3,1.9,1,On-site,1.6
+35,75422,No,Sales,688,2,Sales Manager,2,No,3,1.7,4,Hybrid,0.6
+34,113465,No,Sales,689,4,Sales Coordinator,2,No,3,1.8,4,On-site,1.8
+45,36955,Yes,Sales,690,1,Sales Manager,3,No,3,5.7,1,On-site,5.7
+49,83427,No,Engineering,691,3,Broadcast Engineer,2,No,4,2.3,3,Remote,1.8
+41,105899,No,Finance,692,4,Financial Analyst,3,Yes,3,1.4,2,On-site,1.4
+42,121157,No,Sales,693,3,Sales Manager,3,No,3,10.6,4,Hybrid,1.0
+37,62596,No,News & Content,694,3,Producer,4,No,3,17.0,3,On-site,1.7
+57,59554,No,Human Resources,695,4,HR Manager,4,No,4,3.5,1,Hybrid,3.1
+34,63149,No,Sales,696,3,Account Executive,4,No,3,7.0,3,On-site,1.2
+43,88666,Yes,News & Content,697,2,Reporter,4,No,3,3.9,1,Hybrid,0.2
+35,57868,No,News & Content,698,4,Producer,4,No,3,0.9,3,Hybrid,0.2
+47,50118,No,Sales,699,3,Sales Manager,1,Yes,2,3.5,3,On-site,3.5
+36,104536,Yes,News & Content,700,3,News Director,1,No,3,0.8,1,Hybrid,0.7
+22,111579,No,Finance,701,4,Finance Manager,1,No,3,2.0,3,Remote,0.1
+25,47748,No,Finance,702,3,Financial Analyst,2,No,4,3.9,3,On-site,0.2
+40,77757,Yes,News & Content,703,3,Reporter,3,No,3,1.5,1,Remote,1.5
+32,34000,Yes,News & Content,704,3,News Director,3,Yes,3,3.0,4,Remote,3.0
+52,44329,Yes,Engineering,705,1,Broadcast Engineer,2,Yes,2,5.0,4,On-site,0.2
+38,79365,Yes,News & Content,706,2,Photojournalist,3,No,2,0.8,1,Remote,0.8
+31,34000,No,Finance,707,2,Financial Analyst,3,No,2,0.4,2,Hybrid,0.4
+42,34000,No,News & Content,708,4,Reporter,3,Yes,4,3.4,3,On-site,1.4
+33,56188,No,Finance,709,3,Financial Analyst,1,No,2,1.2,3,On-site,0.2
+31,35683,No,Sales,710,1,Sales Coordinator,4,No,4,2.3,3,On-site,0.8
+57,73302,No,News & Content,711,1,News Director,4,No,3,4.0,3,Hybrid,1.0
+47,60494,No,Engineering,712,3,Systems Engineer,4,Yes,3,9.2,3,Remote,0.6
+34,37700,No,News & Content,713,3,Editor,4,No,3,2.0,2,On-site,1.1
+37,113410,No,Sales,714,3,Account Executive,2,No,3,10.8,3,On-site,0.1
+41,65467,No,Engineering,715,4,Broadcast Engineer,4,No,3,0.5,3,On-site,0.5
+31,62994,No,Human Resources,716,4,HR Generalist,2,No,3,3.7,4,Remote,2.6
+34,70632,No,Sales,717,2,Account Executive,3,No,3,3.0,2,Hybrid,2.5
+41,75045,No,News & Content,718,4,News Director,3,No,3,1.3,2,On-site,1.3
+28,78906,No,Sales,719,3,Account Executive,3,No,3,0.3,3,Hybrid,0.3
+21,34000,Yes,Sales,720,1,Sales Manager,4,Yes,3,1.0,4,On-site,1.0
+21,38936,No,Sales,721,3,Account Executive,3,No,3,1.0,2,Hybrid,1.0
+28,71998,No,Engineering,722,2,Broadcast Engineer,2,No,3,3.1,3,On-site,0.3
+43,49445,No,Human Resources,723,4,HR Generalist,3,Yes,4,6.6,4,On-site,6.6
+36,96878,No,Sales,724,4,Sales Coordinator,3,No,3,8.3,3,On-site,1.1
+42,99933,No,News & Content,725,3,Producer,4,No,3,1.9,4,Hybrid,1.9
+38,81316,No,Sales,726,2,Sales Manager,4,No,3,18.0,4,Hybrid,4.8
+43,53519,No,Engineering,727,3,IT Support,2,No,4,1.9,4,On-site,1.7
+51,106808,Yes,News & Content,728,1,Reporter,1,No,2,2.5,1,Hybrid,1.9
+40,89224,No,Human Resources,729,4,HR Manager,4,Yes,3,2.4,2,Hybrid,2.4
+51,66684,Yes,Finance,730,2,Finance Manager,1,No,3,1.4,4,On-site,0.0
+46,103752,No,News & Content,731,4,Photojournalist,3,No,3,1.0,3,On-site,1.0
+28,105981,No,Engineering,732,4,IT Support,4,Yes,2,7.0,4,On-site,2.1
+39,54141,No,Finance,733,1,Accountant,3,No,4,8.9,3,Hybrid,0.4
+34,34000,Yes,Finance,734,3,Finance Manager,2,Yes,3,1.5,1,Hybrid,1.0
+43,73907,Yes,News & Content,735,3,Reporter,4,Yes,3,1.1,2,On-site,1.1
+44,70352,No,Finance,736,3,Financial Analyst,2,No,2,5.1,4,On-site,4.1
+28,133420,Yes,Sales,737,2,Sales Coordinator,1,No,4,8.0,1,Hybrid,0.7
+61,53781,No,Sales,738,3,Sales Manager,3,No,2,34.3,4,On-site,6.1
+29,38881,Yes,News & Content,739,3,News Director,3,No,3,1.4,3,On-site,1.1
+30,86817,No,Human Resources,740,3,HR Generalist,1,No,3,7.1,4,On-site,0.4
+24,65314,No,News & Content,741,4,Editor,4,No,3,3.0,3,Remote,2.0
+48,71382,No,News & Content,742,4,Producer,4,No,3,3.9,2,Hybrid,1.3
+41,39131,No,Human Resources,743,1,HR Manager,4,No,4,2.9,3,Hybrid,2.9
+43,34000,No,News & Content,744,3,Editor,4,No,2,2.4,4,On-site,2.0
+41,93492,No,Human Resources,745,4,HR Generalist,1,No,3,5.0,4,Remote,2.4
+21,56136,Yes,Sales,746,3,Account Executive,1,No,4,1.0,1,Hybrid,1.0
+21,139725,Yes,News & Content,747,3,News Director,4,Yes,3,1.0,2,On-site,0.1
+28,64934,No,News & Content,748,3,Photojournalist,1,No,4,6.1,3,On-site,0.7
+52,58484,Yes,News & Content,749,2,Producer,2,No,3,1.2,3,Hybrid,1.2
+46,44339,Yes,Sales,750,3,Sales Coordinator,2,Yes,2,4.3,2,Hybrid,0.7
+30,78203,Yes,News & Content,751,2,Reporter,1,No,4,6.3,4,Hybrid,0.2
+48,52191,Yes,News & Content,752,1,Reporter,1,No,3,1.2,2,On-site,1.2
+54,34261,No,News & Content,753,3,Photojournalist,4,No,3,6.8,4,On-site,4.8
+33,109850,No,Sales,754,3,Account Executive,4,Yes,3,0.6,3,On-site,0.6
+26,73677,No,Engineering,755,2,Broadcast Engineer,2,No,3,3.2,1,Hybrid,1.2
+57,35905,Yes,News & Content,756,3,News Director,1,Yes,3,0.7,3,Remote,0.7
+45,116004,No,News & Content,757,3,Editor,4,No,3,1.1,4,Hybrid,1.1
+38,36390,Yes,News & Content,758,2,Reporter,4,Yes,4,10.0,2,Hybrid,4.6
+32,87862,Yes,News & Content,759,2,Producer,3,No,3,1.4,4,Hybrid,1.4
+33,34000,Yes,Sales,760,4,Sales Manager,2,No,2,1.1,2,Hybrid,1.1
+26,92454,No,Sales,761,2,Account Executive,2,No,3,6.0,2,Remote,1.6
+32,137051,No,News & Content,762,3,Editor,4,No,4,12.0,3,Hybrid,1.0
+29,86339,No,Sales,763,1,Account Executive,3,No,3,9.0,3,Hybrid,1.9
+52,96612,No,Sales,764,2,Sales Manager,4,No,3,8.4,4,Remote,8.2
+53,34000,Yes,Sales,765,3,Sales Coordinator,4,Yes,3,0.4,4,Remote,0.4
+21,79385,No,News & Content,766,4,News Director,2,No,4,1.0,2,On-site,0.9
+43,79857,No,News & Content,767,4,Producer,3,No,3,2.6,3,On-site,1.9
+50,55747,No,Sales,768,3,Sales Manager,4,No,3,4.8,1,On-site,1.1
+54,114793,No,News & Content,769,3,News Director,4,No,3,2.0,3,Hybrid,1.5
+44,63215,No,Engineering,770,4,Systems Engineer,4,No,3,1.3,4,Hybrid,1.3
+28,34000,No,Sales,771,2,Sales Manager,3,No,3,2.5,4,On-site,1.1
+50,89088,No,Sales,772,2,Sales Coordinator,1,No,3,9.0,2,Hybrid,1.1
+21,99074,Yes,News & Content,773,2,Editor,4,Yes,3,1.0,4,On-site,1.0
+59,38473,No,Finance,774,4,Accountant,2,No,3,6.0,4,On-site,0.9
+35,128287,No,Sales,775,4,Account Executive,4,No,3,15.0,4,On-site,3.7
+37,125749,Yes,News & Content,776,2,Photojournalist,4,Yes,3,2.8,2,Hybrid,1.3
+46,69716,No,News & Content,777,4,Editor,3,No,3,1.8,4,On-site,0.6
+40,84249,No,Engineering,778,2,Systems Engineer,4,No,3,3.4,3,Hybrid,1.4
+29,103797,No,Sales,779,3,Sales Manager,3,No,3,7.2,3,Hybrid,0.7
+21,102901,Yes,News & Content,780,4,Producer,2,No,3,1.0,3,Hybrid,0.2
+39,55443,No,Engineering,781,1,Systems Engineer,2,No,3,2.5,3,Hybrid,0.2
+39,48891,No,News & Content,782,3,Photojournalist,3,No,3,9.0,3,On-site,3.0
+45,84918,No,Engineering,783,3,IT Support,4,No,3,2.6,3,Remote,0.8
+50,64777,Yes,Finance,784,2,Financial Analyst,2,No,3,0.1,2,Hybrid,0.1
+42,93572,No,News & Content,785,1,Producer,3,Yes,3,3.6,3,Remote,0.5
+33,77069,No,News & Content,786,4,Photojournalist,3,Yes,4,10.0,3,Hybrid,5.3
+46,78459,No,Sales,787,4,Sales Manager,3,Yes,3,14.8,3,Hybrid,1.6
+25,76587,No,News & Content,788,2,News Director,4,No,3,5.0,3,On-site,0.7
+42,77098,No,News & Content,789,3,News Director,4,No,3,7.9,3,On-site,1.2
+63,54900,No,Sales,790,2,Account Executive,3,No,3,3.2,1,Hybrid,1.4
+40,98424,Yes,Sales,791,3,Sales Coordinator,2,Yes,3,0.9,4,On-site,0.9
+37,62706,No,Engineering,792,4,Systems Engineer,4,Yes,3,0.2,1,On-site,0.2
+39,48166,No,Sales,793,3,Sales Coordinator,3,No,4,4.4,2,Hybrid,0.7
+31,73475,No,Sales,794,3,Sales Manager,4,No,3,5.1,3,Hybrid,1.3
+27,80653,No,News & Content,795,3,Photojournalist,4,Yes,3,7.0,4,Hybrid,1.5
+31,34000,Yes,Sales,796,2,Sales Coordinator,4,No,2,0.9,4,On-site,0.9
+36,73301,No,News & Content,797,2,Photojournalist,4,No,3,2.4,4,Hybrid,1.9
+62,62910,No,News & Content,798,4,Photojournalist,3,No,3,0.1,2,Hybrid,0.1
+33,78488,No,News & Content,799,4,Editor,1,No,3,1.1,3,On-site,0.9
+27,64447,No,News & Content,800,1,News Director,4,No,3,6.5,4,On-site,0.2
+30,102391,No,Engineering,801,2,Systems Engineer,2,No,3,2.0,4,Hybrid,0.4
+41,73701,Yes,News & Content,802,4,News Director,1,No,3,0.6,4,On-site,0.6
+21,108564,Yes,Sales,803,3,Sales Manager,1,No,2,1.0,4,On-site,1.0
+49,112439,No,Finance,804,2,Finance Manager,4,No,3,3.1,3,Hybrid,0.3
+41,50842,No,Finance,805,2,Financial Analyst,4,No,3,2.5,2,Hybrid,2.5
+46,52411,No,Sales,806,3,Account Executive,3,No,3,3.5,3,Hybrid,0.1
+43,46292,No,Sales,807,3,Account Executive,3,No,4,8.3,2,Hybrid,0.3
+58,84230,No,Engineering,808,2,Systems Engineer,4,No,3,1.6,2,On-site,1.6
+37,44615,No,News & Content,809,4,News Director,2,No,3,4.2,3,On-site,0.1
+49,34000,Yes,News & Content,810,1,Editor,4,No,2,1.3,3,On-site,1.3
+33,101463,No,News & Content,811,3,Reporter,4,No,2,10.6,2,Remote,0.5
+34,34000,No,News & Content,812,2,Photojournalist,4,No,3,3.3,2,On-site,2.4
+34,92342,No,Finance,813,4,Finance Manager,2,No,3,5.5,3,Remote,1.1
+27,101515,No,Sales,814,4,Sales Manager,3,No,3,4.9,3,Hybrid,2.6
+41,157447,Yes,News & Content,815,2,News Director,3,No,2,1.1,4,On-site,1.1
+47,86294,No,News & Content,816,4,Photojournalist,3,Yes,3,11.6,3,Hybrid,5.2
+29,69891,Yes,News & Content,817,2,Producer,3,No,2,5.5,1,On-site,0.2
+60,85236,No,Sales,818,3,Sales Manager,4,Yes,3,3.8,3,On-site,1.1
+49,75316,No,Sales,819,3,Account Executive,3,Yes,3,0.6,3,On-site,0.6
+28,68126,No,Sales,820,3,Sales Coordinator,3,No,2,0.4,2,On-site,0.4
+54,81043,Yes,News & Content,821,2,News Director,1,No,3,1.1,3,Hybrid,1.1
+40,61944,No,Engineering,822,4,Broadcast Engineer,2,No,3,13.7,4,Remote,10.0
+55,38795,No,Engineering,823,3,Broadcast Engineer,4,No,3,0.1,3,On-site,0.1
+50,49934,No,Finance,824,3,Financial Analyst,3,No,3,2.6,1,On-site,2.6
+41,88826,No,Engineering,825,3,Systems Engineer,4,Yes,3,13.4,3,Hybrid,2.4
+41,34000,No,Sales,826,4,Sales Coordinator,3,No,3,8.9,2,Hybrid,0.4
+21,71391,Yes,Sales,827,1,Sales Coordinator,2,No,3,1.0,3,On-site,1.0
+51,64485,No,News & Content,828,4,Editor,4,No,4,17.0,4,On-site,2.4
+45,86340,Yes,News & Content,829,3,Producer,1,No,3,1.9,2,On-site,1.9
+40,52213,No,Engineering,830,3,Broadcast Engineer,1,No,2,6.3,2,Hybrid,2.4
+36,54701,No,Sales,831,3,Account Executive,2,No,3,12.1,2,On-site,2.6
+54,39588,Yes,News & Content,832,3,Producer,3,No,3,0.5,4,Remote,0.5
+26,91717,No,Sales,833,3,Sales Coordinator,4,No,4,1.7,3,Hybrid,1.7
+48,77209,Yes,Engineering,834,2,Broadcast Engineer,2,Yes,3,0.2,3,Remote,0.2
+39,48095,Yes,News & Content,835,2,Photojournalist,1,No,3,0.5,2,On-site,0.5
+21,34000,Yes,Human Resources,836,2,HR Manager,4,No,3,1.0,2,On-site,0.8
+46,109210,No,Sales,837,4,Sales Manager,2,No,3,1.5,4,On-site,1.5
+45,86235,Yes,News & Content,838,3,Photojournalist,1,No,3,4.6,1,Hybrid,2.2
+36,77175,No,Sales,839,2,Sales Manager,4,No,4,9.8,3,On-site,0.4
+34,43321,No,News & Content,840,4,News Director,3,No,4,7.3,3,On-site,0.5
+39,78427,No,News & Content,841,3,News Director,4,No,3,4.0,4,On-site,0.6
+31,77448,No,News & Content,842,4,News Director,4,No,2,1.4,3,Hybrid,1.1
+37,74845,Yes,News & Content,843,3,Photojournalist,2,No,3,0.1,3,Hybrid,0.1
+21,66353,No,Sales,844,4,Sales Manager,4,No,4,1.0,2,Hybrid,0.2
+36,90644,No,Sales,845,4,Sales Coordinator,3,No,4,6.4,2,On-site,1.7
+31,101052,No,Sales,846,4,Account Executive,1,No,3,2.7,3,Remote,1.2
+22,78865,No,Sales,847,4,Sales Manager,3,No,4,2.0,4,On-site,0.0
+38,67121,No,News & Content,848,2,News Director,3,No,3,2.0,3,Remote,1.1
+27,90713,No,News & Content,849,2,Photojournalist,1,No,3,7.0,4,Hybrid,2.7
+49,65062,No,Engineering,850,4,IT Support,3,Yes,4,2.4,3,Hybrid,1.9
+51,60685,No,News & Content,851,1,Producer,3,No,3,3.6,3,Remote,3.6
+50,59205,No,News & Content,852,1,Reporter,2,No,3,9.7,3,Hybrid,1.1
+53,51246,No,News & Content,853,4,News Director,4,No,3,3.2,3,Remote,0.6
+34,72400,Yes,News & Content,854,4,Editor,3,Yes,3,8.6,4,Hybrid,3.7
+38,90514,No,News & Content,855,4,Photojournalist,2,No,3,13.8,4,Hybrid,2.1
+39,100960,No,Engineering,856,4,Broadcast Engineer,2,No,3,1.9,4,On-site,1.9
+44,78501,No,Finance,857,1,Accountant,4,No,3,5.1,2,Hybrid,2.8
+36,65581,No,Engineering,858,4,Broadcast Engineer,4,Yes,3,14.7,2,Remote,2.7
+50,57063,No,Sales,859,1,Account Executive,2,No,3,1.9,3,Remote,0.6
+37,84849,No,Finance,860,3,Finance Manager,3,No,3,1.6,2,On-site,1.3
+42,94434,No,Sales,861,2,Sales Coordinator,4,No,4,6.6,4,On-site,4.8
+21,101471,Yes,News & Content,862,2,Reporter,1,No,4,1.0,4,On-site,1.0
+47,74677,Yes,News & Content,863,1,News Director,2,No,2,11.0,2,On-site,6.6
+43,34000,No,Finance,864,4,Accountant,1,No,3,2.4,2,On-site,0.7
+49,35250,No,Human Resources,865,4,HR Generalist,3,No,3,1.5,4,Remote,0.9
+26,41500,No,Sales,866,1,Sales Coordinator,3,Yes,3,4.9,2,Hybrid,0.0
+30,67330,No,News & Content,867,2,Photojournalist,2,No,3,5.3,2,Hybrid,1.5
+34,71724,No,Human Resources,868,3,HR Manager,3,No,4,1.4,4,Hybrid,0.7
+31,34000,No,Finance,869,4,Finance Manager,4,Yes,3,1.7,2,On-site,0.1
+39,54755,No,Human Resources,870,3,HR Generalist,4,No,3,3.9,1,On-site,3.9
+35,60165,Yes,News & Content,871,2,Reporter,4,No,3,1.1,2,On-site,1.1
+42,97592,No,Human Resources,872,2,HR Generalist,3,No,3,0.4,3,Hybrid,0.4
+26,70047,No,News & Content,873,3,Editor,2,No,3,2.3,3,Hybrid,2.3
+31,49671,No,News & Content,874,3,Producer,4,No,3,1.1,3,On-site,1.1
+35,80195,No,Finance,875,4,Finance Manager,3,No,3,7.0,4,Hybrid,4.5
+35,55999,Yes,News & Content,876,2,Producer,4,No,3,9.8,4,On-site,3.1
+31,96227,No,News & Content,877,4,News Director,4,No,3,4.4,3,Hybrid,4.4
+48,103105,No,Human Resources,878,4,HR Manager,4,No,4,2.3,4,Hybrid,2.2
+27,69820,No,Sales,879,4,Account Executive,4,No,3,7.0,3,On-site,2.0
+22,119226,No,News & Content,880,4,Editor,4,No,4,2.0,3,Hybrid,0.0
+44,58696,No,Sales,881,1,Sales Manager,2,No,2,7.8,4,On-site,4.5
+35,55347,No,News & Content,882,4,Producer,3,No,4,7.6,3,On-site,4.9
+32,99877,No,Sales,883,4,Account Executive,3,Yes,3,1.4,4,Hybrid,0.1
+46,44617,No,Finance,884,3,Finance Manager,3,Yes,3,11.0,4,On-site,0.7
+27,82688,No,News & Content,885,4,Producer,3,No,2,7.0,3,Hybrid,0.3
+29,61314,Yes,News & Content,886,2,Editor,4,Yes,3,0.9,3,Hybrid,0.6
+38,97623,Yes,Finance,887,4,Finance Manager,1,Yes,3,7.1,4,On-site,4.6
+35,102948,No,Finance,888,3,Accountant,4,No,3,2.3,1,On-site,1.8
+37,67808,No,News & Content,889,2,Producer,4,No,3,6.9,2,On-site,1.3
+45,58039,No,Finance,890,3,Finance Manager,2,No,3,7.4,4,On-site,1.6
+24,82181,Yes,Sales,891,2,Sales Manager,1,No,3,1.1,1,Hybrid,1.1
+33,52286,No,News & Content,892,1,News Director,4,No,3,5.8,3,Hybrid,0.9
+57,105012,No,Sales,893,2,Account Executive,2,No,3,3.6,2,On-site,2.1
+43,122420,No,News & Content,894,4,Photojournalist,2,No,3,0.6,3,Remote,0.6
+52,68479,No,Human Resources,895,3,HR Manager,4,No,3,7.0,3,Remote,7.0
+58,84522,No,News & Content,896,2,News Director,4,No,3,1.7,1,Hybrid,1.7
+36,35479,Yes,News & Content,897,1,Reporter,1,Yes,3,4.7,2,On-site,1.2
+54,41703,Yes,News & Content,898,3,Reporter,3,Yes,3,0.4,3,Hybrid,0.4
+32,63479,Yes,Human Resources,899,3,HR Generalist,2,Yes,3,0.4,4,Hybrid,0.4
+51,51688,No,Engineering,900,4,Systems Engineer,4,No,3,3.6,3,On-site,1.3
+46,70908,No,Finance,901,2,Financial Analyst,3,No,4,15.7,3,Remote,4.5
+41,47830,No,Human Resources,902,3,HR Generalist,3,No,2,3.2,2,On-site,0.2
+31,34000,Yes,News & Content,903,4,Editor,2,Yes,3,2.8,3,On-site,0.4
+33,67472,No,News & Content,904,3,Photojournalist,4,No,3,1.8,4,Hybrid,1.7
+51,75784,No,News & Content,905,4,News Director,3,No,2,18.0,1,On-site,1.0
+40,84320,No,Finance,906,3,Accountant,4,No,4,8.2,2,On-site,2.3
+26,34000,Yes,News & Content,907,3,Producer,3,Yes,3,6.0,4,Hybrid,6.0
+37,105700,No,Sales,908,2,Sales Coordinator,4,No,3,4.0,3,Hybrid,0.4
+35,71353,No,News & Content,909,4,Photojournalist,3,No,2,2.3,4,Hybrid,2.3
+35,87328,No,News & Content,910,3,Reporter,4,Yes,3,4.8,3,Hybrid,4.8
+51,67979,No,Finance,911,1,Finance Manager,4,No,3,0.8,2,On-site,0.8
+39,114642,Yes,Engineering,912,3,Systems Engineer,2,No,4,0.7,1,On-site,0.4
+36,56568,Yes,News & Content,913,4,Editor,2,Yes,3,2.1,4,Remote,2.1
+21,90312,No,News & Content,914,4,Reporter,3,No,3,1.0,2,Remote,1.0
+53,87721,No,Engineering,915,3,Broadcast Engineer,2,No,3,0.1,3,On-site,0.1
+25,34000,Yes,News & Content,916,3,Photojournalist,3,Yes,3,0.6,2,Hybrid,0.6
+26,65973,No,News & Content,917,4,Photojournalist,4,No,3,2.8,3,Remote,0.7
+41,54894,No,Finance,918,2,Finance Manager,3,Yes,4,2.1,3,On-site,1.9
+40,83056,Yes,News & Content,919,2,News Director,4,Yes,3,0.1,2,On-site,0.1
+31,126923,No,Finance,920,2,Accountant,2,No,3,6.8,4,Hybrid,0.5
+24,34000,Yes,News & Content,921,4,News Director,3,No,3,0.3,3,On-site,0.0
+64,56058,Yes,Engineering,922,2,Broadcast Engineer,2,No,3,7.1,1,Hybrid,2.3
+26,41394,No,Engineering,923,4,IT Support,4,No,2,5.0,2,On-site,0.6
+30,80926,No,News & Content,924,3,Editor,3,No,3,2.6,1,On-site,2.3
+26,84535,Yes,News & Content,925,1,Photojournalist,3,Yes,3,1.0,2,Hybrid,1.0
+35,34000,No,Sales,926,4,Account Executive,3,No,3,4.3,2,On-site,0.0
+49,123563,No,News & Content,927,4,Photojournalist,2,No,3,6.9,3,Hybrid,2.5
+43,34000,Yes,Finance,928,3,Accountant,1,Yes,4,0.6,3,Hybrid,0.6
+39,54432,No,Engineering,929,3,IT Support,3,No,2,5.2,2,Hybrid,1.1
+37,141201,No,News & Content,930,2,News Director,3,No,4,4.7,3,Hybrid,2.0
+42,64862,No,Sales,931,2,Sales Coordinator,1,No,4,4.7,2,Remote,2.9
+28,51275,No,Sales,932,2,Account Executive,2,No,3,2.9,3,On-site,0.2
+43,119695,Yes,Engineering,933,2,IT Support,2,Yes,2,17.0,1,On-site,2.5
+48,34000,Yes,Sales,934,4,Sales Coordinator,2,No,3,1.5,1,Hybrid,1.5
+21,52251,Yes,News & Content,935,2,Editor,4,Yes,3,1.0,2,On-site,0.2
+30,59706,No,News & Content,936,4,Photojournalist,3,No,3,0.8,2,Hybrid,0.8
+56,87494,Yes,Sales,937,2,Sales Coordinator,2,No,3,0.6,3,Hybrid,0.6
+46,46099,No,News & Content,938,3,Editor,2,Yes,2,2.7,3,Hybrid,0.3
+41,102982,Yes,Human Resources,939,1,HR Manager,1,No,3,0.9,3,On-site,0.3
+24,75315,Yes,News & Content,940,4,Reporter,4,Yes,3,4.0,1,Hybrid,0.1
+28,73033,Yes,News & Content,941,1,Reporter,1,No,3,1.7,4,Hybrid,1.7
+50,82049,No,News & Content,942,3,Reporter,3,No,4,1.8,4,On-site,1.8
+26,83370,No,News & Content,943,3,Producer,3,No,3,2.1,2,Hybrid,2.1
+21,121871,No,Engineering,944,4,IT Support,3,No,3,1.0,2,Hybrid,1.0
+31,124197,Yes,Sales,945,3,Sales Coordinator,1,No,3,3.7,1,On-site,3.7
+33,76906,No,News & Content,946,2,Reporter,4,No,3,0.5,4,Hybrid,0.5
+44,76646,No,Sales,947,1,Sales Manager,4,Yes,3,1.0,3,On-site,1.0
+30,70574,No,News & Content,948,2,Editor,3,No,3,5.2,4,Remote,3.4
+38,48070,No,Sales,949,4,Sales Coordinator,3,No,3,1.1,3,Hybrid,0.5
+36,86908,No,News & Content,950,3,Photojournalist,4,No,3,3.3,2,Remote,2.4
+38,86768,No,News & Content,951,3,Reporter,4,No,4,3.6,2,Hybrid,1.5
+36,78540,Yes,Human Resources,952,4,HR Manager,2,Yes,4,6.9,3,Remote,1.5
+41,63239,No,Sales,953,2,Account Executive,4,No,3,0.7,4,On-site,0.7
+44,34000,No,News & Content,954,1,Producer,3,No,3,8.5,3,Remote,0.5
+36,71328,Yes,News & Content,955,3,News Director,2,No,2,0.6,4,On-site,0.6
+23,98266,No,Sales,956,2,Account Executive,4,No,3,3.0,2,On-site,2.6
+32,34000,Yes,News & Content,957,4,Photojournalist,1,No,4,0.6,3,On-site,0.6
+27,93370,No,Sales,958,3,Sales Coordinator,2,No,4,2.5,4,Hybrid,0.9
+37,65955,No,Sales,959,1,Account Executive,2,No,3,11.4,3,Remote,0.2
+30,88550,No,Engineering,960,4,Systems Engineer,4,Yes,2,3.3,3,Remote,3.3
+42,62705,Yes,News & Content,961,4,Reporter,3,Yes,3,7.7,4,On-site,4.1
+30,73702,No,Finance,962,4,Accountant,4,No,2,2.4,3,On-site,0.0
+26,96040,Yes,Sales,963,2,Account Executive,2,No,3,2.9,2,Hybrid,1.0
+59,124853,No,Finance,964,3,Accountant,2,No,3,8.2,4,Remote,5.8
+52,46630,Yes,News & Content,965,3,Reporter,2,Yes,3,2.2,3,Remote,0.4
+30,46046,No,Sales,966,2,Sales Coordinator,4,No,3,10.0,3,Hybrid,2.2
+30,57087,No,Engineering,967,2,IT Support,4,No,3,3.0,1,On-site,3.0
+26,67652,No,Sales,968,2,Sales Coordinator,3,Yes,3,6.0,2,Hybrid,3.3
+31,64970,No,News & Content,969,3,Editor,4,No,4,2.9,2,On-site,2.5
+40,121225,Yes,News & Content,970,3,News Director,2,No,3,0.8,2,Remote,0.8
+32,91388,No,Finance,971,3,Financial Analyst,3,No,3,2.8,4,On-site,1.7
+27,67189,No,Finance,972,2,Finance Manager,4,No,2,0.2,3,On-site,0.2
+52,128852,No,Sales,973,4,Sales Manager,4,No,3,4.9,4,Hybrid,1.1
+21,59692,No,Engineering,974,4,Broadcast Engineer,4,No,2,1.0,4,Hybrid,1.0
+42,53274,No,News & Content,975,1,Producer,3,No,3,2.0,2,On-site,0.6
+40,70874,No,Sales,976,3,Sales Coordinator,2,No,4,0.8,4,Hybrid,0.8
+43,34000,Yes,Engineering,977,4,IT Support,2,Yes,3,1.3,3,On-site,1.3
+46,62470,No,News & Content,978,4,News Director,2,No,3,14.7,4,Hybrid,0.9
+48,66552,No,News & Content,979,1,News Director,4,Yes,3,10.2,4,On-site,0.1
+29,67034,Yes,Sales,980,2,Sales Coordinator,2,No,3,0.1,3,Hybrid,0.1
+33,42412,No,News & Content,981,4,Photojournalist,3,No,3,2.1,4,Hybrid,0.0
+37,41538,Yes,Engineering,982,4,IT Support,4,Yes,3,0.1,3,Hybrid,0.1
+46,42942,Yes,Engineering,983,1,IT Support,3,No,3,0.9,2,On-site,0.9
+29,123272,No,Sales,984,3,Account Executive,2,No,3,9.0,3,On-site,0.1
+39,34000,No,News & Content,985,4,Photojournalist,3,No,3,8.9,4,Hybrid,1.1
+36,34000,Yes,News & Content,986,3,Reporter,2,No,4,7.8,3,On-site,6.0
+34,91950,No,Sales,987,3,Sales Manager,3,No,3,1.3,3,Hybrid,1.3
+51,50137,No,Engineering,988,4,Systems Engineer,3,No,2,0.1,4,On-site,0.1
+21,69316,No,Human Resources,989,4,HR Manager,4,No,3,1.0,3,Hybrid,1.0
+40,58359,No,News & Content,990,3,Producer,2,No,4,3.0,3,On-site,0.4
+28,90339,No,Sales,991,3,Account Executive,4,No,3,0.3,3,Hybrid,0.3
+28,51253,Yes,News & Content,992,1,Reporter,2,No,3,1.9,4,Remote,1.6
+47,50791,Yes,News & Content,993,2,Reporter,4,Yes,3,2.3,3,Hybrid,2.3
+35,139036,Yes,News & Content,994,4,News Director,1,No,3,1.3,3,On-site,0.8
+45,106172,No,Sales,995,4,Sales Coordinator,3,No,3,3.9,2,On-site,0.4
+21,35102,Yes,Sales,996,1,Account Executive,4,No,3,1.0,4,On-site,1.0
+34,34000,Yes,Sales,997,2,Sales Coordinator,2,No,4,8.7,3,On-site,1.0
+29,74362,No,Sales,998,3,Sales Coordinator,3,No,3,3.2,4,Hybrid,0.8
+38,34000,Yes,Sales,999,4,Account Executive,4,Yes,4,0.6,4,Remote,0.6
+48,42872,No,Sales,1000,4,Sales Coordinator,4,No,3,0.3,2,On-site,0.3
+35,81201,No,Sales,1001,3,Sales Manager,3,Yes,3,5.1,4,Hybrid,0.9
+32,72903,No,News & Content,1002,3,News Director,1,No,3,6.4,3,On-site,1.1
+36,89318,No,News & Content,1003,2,News Director,3,No,2,5.7,3,Remote,2.0
+25,50522,Yes,Engineering,1004,4,Systems Engineer,1,Yes,3,1.0,2,On-site,0.6
+47,116929,No,Finance,1005,3,Finance Manager,1,Yes,3,2.0,3,Hybrid,2.0
+47,99214,No,Sales,1006,2,Sales Coordinator,2,No,3,2.5,3,On-site,0.3
+47,78642,No,Sales,1007,3,Account Executive,4,No,3,7.0,1,On-site,1.2
+50,75730,No,Human Resources,1008,3,HR Generalist,3,No,3,4.3,3,Hybrid,2.1
+44,34000,Yes,News & Content,1009,4,News Director,3,No,3,3.6,3,On-site,3.6
+51,67658,No,Sales,1010,1,Account Executive,1,No,3,10.2,2,Remote,1.8
+57,67063,Yes,News & Content,1011,2,Reporter,3,No,3,0.2,2,Hybrid,0.0
+49,110818,No,News & Content,1012,3,Reporter,2,Yes,3,2.9,4,Hybrid,2.9
+22,82418,No,Human Resources,1013,3,HR Manager,4,No,3,2.0,2,On-site,0.3
+40,39481,No,News & Content,1014,3,Reporter,3,No,2,0.5,2,Remote,0.5
+33,62921,No,News & Content,1015,3,Editor,1,No,3,2.5,2,Hybrid,2.5
+43,47795,Yes,News & Content,1016,2,News Director,1,Yes,3,5.1,2,On-site,0.5
+34,71356,No,Engineering,1017,4,Systems Engineer,1,No,3,3.0,4,Hybrid,0.2
+24,49601,Yes,Engineering,1018,1,Systems Engineer,2,Yes,3,1.3,3,On-site,1.3
+43,88488,No,News & Content,1019,1,Producer,4,No,3,11.9,4,Hybrid,11.1
+29,71165,No,Human Resources,1020,2,HR Manager,4,No,3,7.4,3,Hybrid,0.8
+41,38141,Yes,Sales,1021,3,Sales Coordinator,2,Yes,3,1.3,3,Remote,0.4
+21,71008,No,Sales,1022,2,Sales Coordinator,3,No,3,0.3,3,Remote,0.3
+35,70007,No,Engineering,1023,2,IT Support,4,No,3,5.8,2,On-site,5.6
+22,151165,No,Sales,1024,4,Account Executive,4,No,3,1.5,4,Hybrid,0.6
+30,134527,No,Sales,1025,3,Sales Coordinator,2,No,3,6.9,4,On-site,0.2
+39,103243,Yes,News & Content,1026,2,News Director,4,Yes,3,3.2,3,On-site,0.0
+38,92867,No,News & Content,1027,2,Producer,3,Yes,3,5.4,4,Hybrid,0.6
+50,65046,No,News & Content,1028,3,Reporter,4,Yes,3,3.3,2,Hybrid,0.3
+37,93805,Yes,News & Content,1029,2,Photojournalist,1,No,2,0.9,2,On-site,0.4
+49,73423,Yes,News & Content,1030,3,Producer,2,No,3,0.3,4,On-site,0.3
+50,94161,No,Sales,1031,3,Account Executive,4,No,2,0.1,2,On-site,0.1
+39,34706,Yes,Finance,1032,3,Finance Manager,2,Yes,3,2.3,4,Remote,2.3
+35,92043,No,Finance,1033,3,Finance Manager,4,No,3,6.1,3,On-site,0.1
+35,54248,Yes,Engineering,1034,1,IT Support,1,Yes,4,14.5,3,On-site,1.0
+31,46026,No,Finance,1035,2,Accountant,3,Yes,2,10.9,3,Remote,0.2
+44,95140,Yes,Finance,1036,2,Financial Analyst,2,Yes,3,10.9,4,Hybrid,7.4
+48,137043,No,Sales,1037,2,Account Executive,3,No,3,3.1,3,On-site,1.5
+27,90439,No,News & Content,1038,1,Producer,1,No,3,1.5,2,On-site,0.2
+26,115745,No,Sales,1039,2,Account Executive,3,No,3,5.0,4,Remote,3.8
+54,65773,No,Human Resources,1040,3,HR Generalist,2,No,2,1.6,2,Hybrid,1.6
+34,50354,Yes,News & Content,1041,4,Producer,2,Yes,3,3.7,4,Hybrid,0.5
+38,70712,No,News & Content,1042,4,Reporter,3,No,3,1.7,4,Hybrid,1.1
+30,99331,No,Sales,1043,4,Sales Manager,2,No,3,3.7,2,Hybrid,2.0
+26,64488,No,News & Content,1044,3,Photojournalist,1,Yes,3,2.8,3,Hybrid,2.8
+22,34000,Yes,Sales,1045,2,Account Executive,4,Yes,3,2.0,2,On-site,2.0
+56,54027,No,News & Content,1046,3,Editor,4,Yes,3,3.3,4,Hybrid,0.6
+40,98135,Yes,News & Content,1047,1,Producer,1,No,3,8.9,1,Hybrid,0.2
+34,58934,No,Sales,1048,4,Account Executive,3,No,4,0.6,1,On-site,0.6
+42,70814,No,News & Content,1049,3,News Director,3,No,2,1.6,1,On-site,1.6
+32,78494,No,Human Resources,1050,2,HR Generalist,4,Yes,3,1.1,3,Hybrid,0.7
+35,98810,Yes,Sales,1051,2,Sales Manager,1,No,4,0.6,2,On-site,0.6
+59,103582,No,News & Content,1052,3,Editor,2,No,3,5.3,3,Hybrid,0.9
+24,73107,No,Sales,1053,4,Sales Coordinator,4,No,2,4.0,3,Hybrid,0.2
+37,106646,No,Engineering,1054,4,Systems Engineer,3,Yes,2,13.5,4,Remote,6.5
+51,56110,No,News & Content,1055,3,Producer,4,No,3,7.7,3,On-site,3.0
+27,82556,Yes,Human Resources,1056,4,HR Generalist,2,Yes,3,0.3,1,Hybrid,0.1
+48,92464,No,Engineering,1057,2,Broadcast Engineer,3,No,4,0.2,3,Hybrid,0.2
+40,50011,No,News & Content,1058,4,Producer,4,Yes,2,2.3,2,On-site,2.3
+48,60829,No,Sales,1059,4,Sales Manager,1,No,3,9.0,3,Hybrid,1.7
+36,34000,Yes,Engineering,1060,2,Systems Engineer,2,No,3,3.9,4,On-site,0.1
+44,90097,No,Sales,1061,4,Sales Coordinator,1,No,2,0.4,2,On-site,0.4
+49,79665,No,News & Content,1062,4,Reporter,4,No,3,0.4,4,Hybrid,0.4
+42,97581,No,Finance,1063,4,Financial Analyst,1,No,4,1.6,3,Hybrid,0.4
+49,66213,No,News & Content,1064,1,Editor,4,No,3,7.4,2,Hybrid,7.4
+24,83905,Yes,News & Content,1065,2,Producer,3,No,3,1.4,1,On-site,1.2
+59,84327,No,Sales,1066,2,Account Executive,3,No,3,0.4,2,On-site,0.4
+37,34033,Yes,News & Content,1067,3,News Director,3,Yes,3,1.9,3,On-site,0.4
+33,34000,No,Engineering,1068,4,IT Support,4,Yes,3,8.1,4,Hybrid,0.3
+23,34000,Yes,Sales,1069,4,Sales Coordinator,1,No,3,1.0,4,On-site,1.0
+35,73718,No,News & Content,1070,3,Producer,3,No,3,5.0,1,Remote,0.3
+39,62423,No,News & Content,1071,4,Reporter,4,Yes,3,19.0,2,On-site,0.5
+24,34000,No,News & Content,1072,4,Producer,3,Yes,2,4.0,4,Hybrid,1.6
+47,58917,No,Engineering,1073,3,IT Support,1,Yes,4,0.9,4,Remote,0.4
+23,34000,No,News & Content,1074,3,Photojournalist,4,No,3,1.9,3,Hybrid,0.1
+44,37540,No,Sales,1075,3,Sales Manager,4,No,3,1.8,2,Hybrid,1.8
+45,81774,No,Sales,1076,2,Sales Coordinator,4,No,3,1.7,3,On-site,1.7
+43,111964,No,Human Resources,1077,3,HR Manager,2,No,3,1.9,3,Hybrid,1.2
+44,69266,No,News & Content,1078,3,Producer,1,No,4,0.7,3,On-site,0.7
+40,103040,No,News & Content,1079,3,Reporter,4,Yes,3,12.1,3,On-site,0.3
+31,87501,No,Engineering,1080,3,Broadcast Engineer,4,No,4,1.4,3,Hybrid,1.1
+34,90131,No,News & Content,1081,2,News Director,4,No,4,4.0,3,On-site,0.1
+48,95759,Yes,Sales,1082,2,Sales Coordinator,2,No,3,1.0,3,Hybrid,1.0
+37,123188,No,Human Resources,1083,2,HR Manager,3,Yes,4,4.6,4,Hybrid,0.9
+63,83833,No,News & Content,1084,3,Producer,1,No,3,7.0,2,Hybrid,2.3
+32,85290,No,Engineering,1085,4,Broadcast Engineer,2,No,2,0.2,3,Hybrid,0.2
+35,102072,No,Sales,1086,2,Sales Coordinator,4,No,3,0.2,3,On-site,0.2
+56,116853,No,News & Content,1087,3,Reporter,3,Yes,3,2.1,3,Remote,1.1
+43,104036,No,News & Content,1088,3,Reporter,1,No,3,3.4,2,Hybrid,3.4
+28,75752,No,Finance,1089,2,Accountant,3,No,3,8.0,2,On-site,1.6
+30,67338,No,News & Content,1090,3,Reporter,3,No,3,2.5,2,Hybrid,0.6
+38,115559,No,News & Content,1091,1,News Director,4,No,3,4.2,3,Remote,0.0
+21,77755,No,Finance,1092,3,Financial Analyst,4,No,3,1.0,3,Hybrid,1.0
+40,99606,No,Finance,1093,4,Financial Analyst,4,Yes,3,2.6,3,On-site,2.6
+48,61554,No,Sales,1094,4,Account Executive,4,No,2,1.5,4,Hybrid,0.3
+34,47778,Yes,News & Content,1095,2,Photojournalist,1,No,4,5.1,1,On-site,1.1
+45,41083,Yes,News & Content,1096,2,Producer,3,No,3,0.1,3,Hybrid,0.1
+32,121349,Yes,News & Content,1097,2,News Director,4,Yes,3,2.4,3,Hybrid,1.0
+44,52927,No,News & Content,1098,4,Photojournalist,4,No,3,1.1,3,On-site,1.1
+33,93820,No,News & Content,1099,3,News Director,1,Yes,3,3.9,4,On-site,2.5
+34,66507,Yes,News & Content,1100,3,Producer,4,No,3,0.5,1,On-site,0.5
+47,66607,No,Sales,1101,4,Sales Coordinator,1,No,2,2.6,4,Hybrid,1.4
+39,66403,No,Sales,1102,3,Sales Manager,2,No,3,2.3,1,Hybrid,1.7
+54,80561,No,Sales,1103,1,Sales Manager,3,No,3,4.2,4,Hybrid,2.9
+64,51025,No,Sales,1104,3,Sales Manager,3,No,3,1.3,4,Remote,1.3
+51,53379,No,Engineering,1105,2,Broadcast Engineer,2,Yes,2,3.0,3,On-site,3.0
+33,49421,No,News & Content,1106,2,Producer,4,No,3,2.6,2,Hybrid,2.5
+35,48430,Yes,News & Content,1107,2,Editor,3,No,3,6.7,3,On-site,6.7
+60,57148,No,Sales,1108,3,Sales Manager,3,No,3,0.7,3,Remote,0.4
+39,90544,Yes,News & Content,1109,4,Producer,3,Yes,3,1.2,3,On-site,0.1
+37,80929,No,News & Content,1110,3,News Director,2,No,4,2.6,4,On-site,2.0
+46,86880,No,Sales,1111,3,Account Executive,4,Yes,3,4.5,3,Hybrid,4.5
+28,85118,No,News & Content,1112,4,Reporter,1,No,3,2.1,3,Hybrid,1.1
+48,41213,Yes,News & Content,1113,3,Reporter,2,No,3,0.1,1,Hybrid,0.1
+59,54668,No,Sales,1114,2,Sales Coordinator,4,Yes,2,2.9,3,On-site,0.4
+46,101575,No,Sales,1115,3,Sales Manager,3,Yes,3,3.0,3,On-site,2.5
+32,61922,Yes,Finance,1116,1,Financial Analyst,3,Yes,3,2.2,2,Hybrid,2.2
+40,55157,No,News & Content,1117,4,Editor,1,No,2,3.0,4,Remote,3.0
+34,68220,No,Engineering,1118,2,Systems Engineer,3,No,2,9.6,4,On-site,5.1
+28,57054,No,Engineering,1119,3,Broadcast Engineer,1,Yes,4,2.4,3,On-site,2.3
+46,61474,Yes,News & Content,1120,2,Reporter,1,No,4,0.1,2,Hybrid,0.1
+27,92349,No,News & Content,1121,3,Editor,1,No,3,0.2,1,Hybrid,0.2
+34,39584,Yes,News & Content,1122,2,Photojournalist,4,No,3,14.0,2,Hybrid,3.1
+29,101846,No,News & Content,1123,2,Editor,4,No,3,9.0,2,On-site,0.2
+53,84668,No,Sales,1124,1,Sales Manager,4,No,4,0.4,2,Hybrid,0.4
+40,34000,No,Engineering,1125,3,Broadcast Engineer,3,No,3,4.6,2,Hybrid,1.1
+46,56125,Yes,Engineering,1126,2,Broadcast Engineer,2,No,3,1.5,2,Remote,1.5
+48,58795,No,News & Content,1127,3,News Director,2,No,3,10.0,4,On-site,0.2
+57,54973,No,Sales,1128,4,Account Executive,1,No,3,2.4,4,Hybrid,0.4
+44,77956,No,News & Content,1129,4,Photojournalist,2,No,3,6.9,3,Hybrid,3.9
+47,60587,No,Sales,1130,4,Sales Manager,3,Yes,3,6.0,4,On-site,3.3
+54,34000,No,News & Content,1131,4,Producer,4,No,4,6.1,3,Hybrid,0.9
+50,69202,No,Engineering,1132,2,Broadcast Engineer,4,No,3,0.3,3,Hybrid,0.3
+41,62563,Yes,News & Content,1133,4,Reporter,2,No,2,0.1,3,Remote,0.1
+22,46473,No,News & Content,1134,2,Producer,3,No,3,1.9,4,On-site,0.9
+40,59648,Yes,News & Content,1135,1,Photojournalist,2,No,3,2.3,3,On-site,1.1
+36,91855,No,Finance,1136,2,Accountant,3,Yes,2,6.5,4,Hybrid,0.3
+29,91551,No,Sales,1137,3,Sales Manager,2,No,3,6.9,4,On-site,4.0
+36,38536,Yes,Sales,1138,3,Sales Coordinator,2,Yes,3,9.9,4,Hybrid,3.8
+32,34000,Yes,Finance,1139,2,Financial Analyst,3,No,3,6.9,2,On-site,3.5
+35,82286,No,Sales,1140,2,Sales Manager,4,No,3,1.7,3,Hybrid,0.4
+43,106630,No,News & Content,1141,3,Reporter,1,Yes,4,2.7,2,Hybrid,2.4
+25,73433,No,News & Content,1142,3,Editor,3,No,3,5.0,3,On-site,0.8
+64,64393,Yes,News & Content,1143,2,Reporter,4,Yes,3,0.8,2,Hybrid,0.8
+35,79304,No,Engineering,1144,4,Broadcast Engineer,4,No,2,4.6,1,Hybrid,2.1
+44,73734,No,Sales,1145,2,Sales Manager,3,No,3,0.9,3,Hybrid,0.9
+31,108078,No,News & Content,1146,3,Producer,3,No,3,5.5,2,Remote,2.1
+43,67166,No,Sales,1147,4,Sales Manager,4,No,3,4.9,3,Hybrid,0.5
+43,54059,No,News & Content,1148,1,News Director,3,No,3,0.3,4,On-site,0.3
+35,112601,Yes,Engineering,1149,2,IT Support,2,No,3,1.0,3,Hybrid,1.0
+63,36377,Yes,News & Content,1150,4,Producer,1,No,2,5.0,3,On-site,0.2
+48,47243,Yes,Engineering,1151,2,Broadcast Engineer,2,Yes,3,7.2,3,On-site,5.8
+47,80703,No,Sales,1152,3,Account Executive,1,No,4,2.6,1,On-site,0.6
+34,54848,Yes,News & Content,1153,1,Photojournalist,3,No,3,1.0,1,Hybrid,1.0
+31,58076,Yes,Sales,1154,1,Account Executive,4,Yes,3,3.8,1,On-site,1.7
+58,119929,No,News & Content,1155,3,Editor,2,No,3,6.0,4,Remote,1.7
+21,69523,Yes,Engineering,1156,2,Systems Engineer,4,No,4,1.0,3,On-site,1.0
+34,69995,No,News & Content,1157,4,Photojournalist,1,No,4,3.7,4,On-site,1.2
+42,93182,No,Sales,1158,4,Account Executive,2,No,3,0.1,2,On-site,0.1
+53,91703,No,News & Content,1159,3,Editor,4,No,4,2.7,2,On-site,1.4
+27,92998,No,News & Content,1160,2,Photojournalist,4,Yes,3,7.0,4,Hybrid,0.0
+33,49472,No,Engineering,1161,4,IT Support,3,No,3,4.3,2,Hybrid,0.8
+27,65565,No,Sales,1162,2,Account Executive,1,No,3,1.6,3,Hybrid,0.1
+41,142993,Yes,Sales,1163,2,Account Executive,3,No,3,0.2,4,Remote,0.2
+39,68743,No,Sales,1164,3,Account Executive,2,No,3,3.8,3,On-site,2.0
+21,34000,No,Human Resources,1165,3,HR Manager,4,No,2,1.0,3,On-site,1.0
+32,99595,No,Engineering,1166,3,Broadcast Engineer,4,No,4,4.9,4,On-site,2.6
+21,81172,Yes,News & Content,1167,2,Photojournalist,1,No,4,1.0,4,Hybrid,1.0
+31,45745,No,Sales,1168,3,Account Executive,4,No,3,2.2,2,Remote,1.7
+32,37933,Yes,News & Content,1169,2,Photojournalist,1,No,3,9.6,3,On-site,1.9
+35,80075,No,Sales,1170,3,Sales Coordinator,4,No,3,4.9,4,Hybrid,0.5
+35,60645,No,Engineering,1171,2,IT Support,3,No,3,1.6,1,On-site,0.8
+51,66498,No,Finance,1172,2,Financial Analyst,3,Yes,3,3.0,2,Hybrid,0.1
+28,84653,Yes,News & Content,1173,2,Producer,2,No,3,8.0,4,On-site,0.1
+40,54950,No,Sales,1174,4,Sales Manager,1,No,4,16.4,4,On-site,0.4
+21,72851,Yes,News & Content,1175,2,News Director,4,No,4,0.9,3,On-site,0.9
+38,43535,No,News & Content,1176,3,Photojournalist,3,No,3,6.0,2,Hybrid,1.0
+31,50771,No,Sales,1177,4,Account Executive,4,No,3,11.0,2,Hybrid,1.2
+44,107764,Yes,Engineering,1178,2,Broadcast Engineer,2,Yes,2,1.5,4,On-site,1.5
+37,61970,No,News & Content,1179,2,Reporter,3,No,3,0.1,2,Hybrid,0.1
+31,60009,Yes,News & Content,1180,4,Reporter,2,Yes,4,0.1,1,Remote,0.1
+21,86150,No,Human Resources,1181,3,HR Manager,3,No,4,1.0,3,On-site,1.0
+45,58844,No,Human Resources,1182,4,HR Generalist,3,Yes,3,1.6,3,Hybrid,1.6
+40,118726,No,News & Content,1183,4,Photojournalist,3,No,3,4.2,3,Hybrid,0.0
+40,78671,Yes,Sales,1184,2,Sales Coordinator,2,No,4,1.2,1,Hybrid,0.9
+21,40650,Yes,News & Content,1185,3,Photojournalist,4,No,3,1.0,1,Hybrid,0.2
+51,101082,No,Sales,1186,4,Account Executive,4,No,2,1.3,4,On-site,0.8
+34,98145,No,News & Content,1187,2,News Director,4,No,3,4.6,3,Hybrid,3.1
+42,59632,No,Engineering,1188,4,Broadcast Engineer,4,No,4,0.9,3,On-site,0.9
+43,34000,No,News & Content,1189,4,Editor,4,No,3,15.0,2,On-site,0.2
+41,51094,No,Sales,1190,4,Account Executive,3,No,4,19.9,3,Hybrid,3.7
+37,83358,No,News & Content,1191,4,Editor,3,Yes,2,2.2,3,Hybrid,1.7
+21,87062,Yes,Engineering,1192,3,IT Support,1,No,4,1.0,3,On-site,1.0
+36,78756,No,News & Content,1193,3,News Director,3,Yes,3,5.5,3,On-site,0.4
+42,86059,No,Sales,1194,3,Sales Coordinator,1,No,3,2.5,2,On-site,2.5
+39,37924,Yes,Engineering,1195,2,Broadcast Engineer,2,No,3,15.3,4,On-site,0.4
+34,34000,No,News & Content,1196,4,News Director,3,No,3,4.1,3,On-site,1.3
+43,57658,No,News & Content,1197,4,Producer,4,Yes,3,3.9,4,On-site,0.4
+40,79450,No,News & Content,1198,3,Photojournalist,3,No,4,1.7,1,Hybrid,1.7
+33,45385,No,Human Resources,1199,2,HR Manager,4,No,3,3.9,2,On-site,0.4
+24,34000,Yes,News & Content,1200,3,News Director,2,No,3,0.5,2,Hybrid,0.5
+35,36347,Yes,News & Content,1201,2,Producer,4,No,4,1.9,3,Hybrid,1.9
+32,69703,No,News & Content,1202,3,News Director,4,No,3,0.5,3,On-site,0.5
+33,95845,No,News & Content,1203,3,Producer,3,No,2,4.1,4,On-site,2.6
+29,34000,Yes,News & Content,1204,3,News Director,3,No,3,4.8,1,Hybrid,3.8
+32,85485,No,Finance,1205,2,Finance Manager,3,No,3,1.1,3,Hybrid,1.1
+27,51597,No,Finance,1206,4,Accountant,4,Yes,2,7.0,4,On-site,5.1
+28,122111,No,News & Content,1207,2,Producer,3,No,3,4.5,3,On-site,0.8
+26,133363,Yes,Finance,1208,1,Accountant,2,Yes,3,1.7,3,On-site,1.7
+50,56271,No,News & Content,1209,4,Reporter,4,No,4,2.7,1,On-site,1.8
+46,34697,Yes,Engineering,1210,4,Broadcast Engineer,2,No,2,2.1,3,On-site,0.4
+36,98662,No,News & Content,1211,3,Photojournalist,4,Yes,4,1.7,2,On-site,1.7
+30,59733,No,Finance,1212,3,Financial Analyst,1,No,2,4.8,4,On-site,1.2
+36,78381,No,Sales,1213,3,Account Executive,1,No,3,2.5,2,On-site,2.5
+24,40203,No,News & Content,1214,3,Reporter,3,No,4,1.7,3,Hybrid,0.1
+25,42877,No,Engineering,1215,3,Broadcast Engineer,3,No,3,5.0,2,On-site,0.4
+51,57693,No,News & Content,1216,4,Producer,4,No,4,14.1,3,On-site,0.2
+59,37712,No,Sales,1217,4,Account Executive,4,No,3,1.5,2,Hybrid,1.5
+53,61651,Yes,News & Content,1218,1,News Director,1,Yes,3,3.1,3,On-site,0.9
+30,85593,Yes,News & Content,1219,2,News Director,3,Yes,3,10.0,2,On-site,3.4
+33,51809,No,Engineering,1220,2,IT Support,3,No,2,5.9,3,On-site,0.4
+35,89053,Yes,News & Content,1221,1,Reporter,2,No,3,5.8,3,On-site,0.4
+31,75747,No,Finance,1222,2,Finance Manager,4,No,3,3.9,3,Hybrid,1.4
+21,102102,No,Sales,1223,4,Sales Coordinator,1,No,4,1.0,3,Hybrid,1.0
+37,70247,No,Human Resources,1224,3,HR Manager,2,No,4,0.6,4,Remote,0.6
+49,86102,No,Engineering,1225,1,Broadcast Engineer,3,No,3,8.1,4,On-site,1.1
+26,74632,No,Finance,1226,3,Accountant,2,Yes,4,3.4,2,Hybrid,2.6
+38,68094,Yes,Sales,1227,1,Account Executive,4,No,3,1.0,1,Remote,0.4
+33,58816,Yes,Finance,1228,2,Accountant,2,Yes,3,13.0,4,Hybrid,1.6
+33,104117,Yes,Sales,1229,2,Account Executive,2,No,3,8.5,1,Hybrid,1.1
+29,42753,Yes,Sales,1230,1,Sales Coordinator,1,Yes,3,9.0,2,Hybrid,1.2
+47,69937,No,Sales,1231,3,Sales Coordinator,3,No,3,2.8,2,Hybrid,0.5
+46,70929,No,Engineering,1232,3,IT Support,3,No,3,2.5,4,Hybrid,0.7
+36,87586,Yes,News & Content,1233,4,Editor,2,No,3,7.0,4,Hybrid,5.1
+54,73548,No,Engineering,1234,3,Broadcast Engineer,3,No,3,1.3,2,On-site,1.3
+41,97221,No,Engineering,1235,3,Systems Engineer,2,No,3,1.2,4,On-site,0.9
+56,82585,No,News & Content,1236,4,Reporter,3,Yes,3,6.3,3,Hybrid,1.1
+56,69986,No,Human Resources,1237,2,HR Manager,4,No,3,1.7,4,Hybrid,1.7
+43,74004,No,Sales,1238,4,Sales Manager,2,No,4,2.1,4,Hybrid,0.9
+32,34000,No,Sales,1239,3,Sales Coordinator,3,No,2,1.7,4,On-site,1.7
+52,60054,Yes,News & Content,1240,2,Photojournalist,2,Yes,3,10.4,4,Remote,3.5
+31,92837,No,Sales,1241,3,Sales Coordinator,4,Yes,3,2.1,2,Hybrid,2.1
+36,55584,No,News & Content,1242,2,Photojournalist,3,No,4,3.4,4,Hybrid,3.4
+36,46979,No,Human Resources,1243,3,HR Manager,3,Yes,3,14.9,3,Hybrid,1.0
+25,69363,No,Engineering,1244,3,IT Support,1,No,3,5.0,2,Hybrid,0.2
+42,87110,No,News & Content,1245,3,Producer,4,No,3,9.6,4,Hybrid,0.2
+45,93549,Yes,News & Content,1246,3,Producer,4,No,4,2.3,1,On-site,2.3
+39,45238,No,Sales,1247,3,Sales Manager,1,No,3,4.0,4,Hybrid,0.3
+45,36784,Yes,News & Content,1248,4,Photojournalist,3,No,3,7.4,1,Remote,6.8
+28,108830,No,News & Content,1249,4,Producer,3,No,3,0.5,4,Hybrid,0.5
+32,137324,No,Sales,1250,3,Sales Coordinator,1,Yes,3,10.4,2,Hybrid,1.5
+28,44315,Yes,News & Content,1251,4,Editor,4,No,3,4.8,3,On-site,4.2
+56,50137,No,News & Content,1252,3,Photojournalist,3,No,2,8.9,3,Remote,1.0
+38,56061,Yes,Sales,1253,4,Sales Coordinator,1,Yes,3,0.2,4,Remote,0.2
+37,54187,No,News & Content,1254,2,Editor,2,No,3,17.0,2,On-site,1.4
+38,101889,No,Sales,1255,3,Sales Manager,1,Yes,4,5.9,3,Remote,0.3
+31,77758,No,Finance,1256,4,Finance Manager,2,No,3,9.5,3,Hybrid,0.2
+48,85918,No,News & Content,1257,2,Editor,3,No,3,5.2,4,Hybrid,0.8
+45,63325,No,Finance,1258,2,Finance Manager,2,No,3,1.7,3,On-site,0.9
+37,50387,No,News & Content,1259,3,Photojournalist,1,No,3,3.6,2,On-site,2.4
+47,74211,No,Engineering,1260,4,Systems Engineer,3,No,2,0.1,2,Remote,0.1
+26,111588,No,News & Content,1261,3,Reporter,4,No,3,6.0,3,On-site,0.5
+42,57739,Yes,News & Content,1262,4,Reporter,4,Yes,3,3.6,1,Remote,1.7
+23,75396,No,News & Content,1263,3,Photojournalist,1,No,3,3.0,3,Hybrid,1.6
+32,72749,Yes,Sales,1264,3,Account Executive,1,Yes,2,0.1,3,Hybrid,0.1
+41,82223,No,Finance,1265,4,Accountant,3,No,2,5.8,3,Remote,1.3
+45,108940,Yes,News & Content,1266,4,Producer,1,No,3,0.1,3,Hybrid,0.1
+35,69757,No,News & Content,1267,3,Editor,4,Yes,3,8.0,3,Remote,3.1
+43,94720,No,Human Resources,1268,2,HR Generalist,4,No,3,3.1,2,Hybrid,0.0
+42,56908,No,Sales,1269,2,Account Executive,2,No,2,5.5,3,On-site,1.1
+39,119871,No,News & Content,1270,3,Photojournalist,4,Yes,3,5.7,4,Hybrid,1.0
+51,86141,No,News & Content,1271,3,Editor,4,No,3,1.8,3,Hybrid,1.8
+38,34000,No,Finance,1272,3,Finance Manager,4,No,3,6.7,3,Hybrid,3.6
+44,43549,Yes,News & Content,1273,4,Reporter,1,Yes,3,1.1,2,Hybrid,0.7
+27,65790,No,Sales,1274,3,Sales Manager,2,No,3,1.5,3,Remote,1.0
+31,83974,Yes,News & Content,1275,3,Producer,1,Yes,3,4.4,3,On-site,4.4
+33,50016,No,Finance,1276,3,Accountant,4,No,4,0.8,4,Hybrid,0.8
+42,119538,No,Sales,1277,2,Sales Coordinator,2,No,3,3.4,2,Hybrid,3.0
+37,34000,No,Sales,1278,4,Sales Manager,3,No,3,4.1,1,Hybrid,3.7
+51,107505,No,News & Content,1279,1,News Director,3,No,3,7.3,3,Hybrid,0.5
+50,60654,Yes,Sales,1280,2,Sales Coordinator,1,No,3,0.9,2,Hybrid,0.9
+24,88997,No,Finance,1281,3,Accountant,2,Yes,3,2.8,2,On-site,2.8
+29,89617,No,Human Resources,1282,4,HR Manager,3,No,3,8.0,3,Hybrid,2.8
+29,80059,No,Engineering,1283,4,IT Support,4,No,3,6.6,3,On-site,1.0
+28,97410,No,Sales,1284,2,Sales Coordinator,4,No,3,8.0,3,Hybrid,1.3
+39,35099,No,Sales,1285,3,Sales Manager,3,No,3,2.7,4,On-site,2.2
+54,53875,Yes,News & Content,1286,1,Producer,2,No,3,7.1,3,Hybrid,3.7
+30,91980,No,Finance,1287,4,Finance Manager,3,No,3,3.1,3,Hybrid,3.1
+51,65331,No,Finance,1288,4,Accountant,3,No,3,2.6,3,On-site,1.7
+37,44246,Yes,Sales,1289,2,Account Executive,2,Yes,3,1.3,2,On-site,1.3
+44,82808,No,Finance,1290,3,Accountant,2,No,3,0.3,2,Hybrid,0.2
+21,58131,No,Sales,1291,4,Sales Manager,3,No,3,1.0,3,On-site,1.0
+39,34000,Yes,News & Content,1292,3,Photojournalist,4,Yes,3,0.1,4,Hybrid,0.1
+31,76867,No,News & Content,1293,3,Photojournalist,3,No,3,2.8,1,On-site,1.0
+32,81288,No,News & Content,1294,3,News Director,2,No,4,2.0,4,On-site,0.4
+39,34000,Yes,News & Content,1295,3,Producer,3,Yes,4,2.9,4,On-site,0.7
+47,79059,Yes,News & Content,1296,2,News Director,2,No,2,2.9,3,On-site,1.3
+36,61733,No,News & Content,1297,2,Reporter,4,No,3,5.3,4,Hybrid,5.2
+25,67835,No,News & Content,1298,4,News Director,3,No,3,5.0,3,Hybrid,1.3
+26,34000,Yes,News & Content,1299,3,Producer,3,Yes,2,5.1,3,Hybrid,3.2
+63,78641,No,Human Resources,1300,3,HR Manager,3,No,4,3.6,4,Remote,3.3
+28,68736,No,News & Content,1301,3,News Director,4,No,3,5.9,2,Hybrid,4.2
+38,95929,No,Finance,1302,2,Financial Analyst,2,No,3,4.6,4,Hybrid,0.4
+43,48255,Yes,Engineering,1303,2,IT Support,4,No,3,0.7,4,Hybrid,0.7
+30,40972,No,News & Content,1304,4,Reporter,3,Yes,4,5.7,2,Remote,2.1
+45,128537,No,News & Content,1305,4,Producer,4,No,3,4.5,3,Hybrid,2.2
+37,50166,Yes,Sales,1306,1,Sales Coordinator,2,Yes,3,0.7,4,On-site,0.1
+33,84699,No,Human Resources,1307,4,HR Manager,1,No,3,5.6,1,Remote,1.5
+27,84882,No,News & Content,1308,3,Photojournalist,4,No,4,6.5,4,On-site,2.0
+53,73114,Yes,News & Content,1309,3,Editor,1,Yes,3,5.5,4,Hybrid,4.2
+27,75769,No,Finance,1310,2,Finance Manager,3,Yes,4,7.0,3,On-site,1.1
+44,83407,No,Sales,1311,3,Sales Coordinator,2,No,3,3.5,3,Remote,0.6
+32,105103,No,Engineering,1312,2,IT Support,3,No,3,1.9,2,On-site,0.2
+32,125739,No,News & Content,1313,3,News Director,2,No,3,1.8,1,On-site,1.8
+28,41499,No,Human Resources,1314,3,HR Manager,3,No,3,8.0,3,Hybrid,0.0
+52,81599,No,Engineering,1315,2,Systems Engineer,4,Yes,3,3.1,4,Hybrid,0.2
+22,108226,Yes,Engineering,1316,3,Systems Engineer,1,Yes,3,0.1,3,On-site,0.1
+37,34000,Yes,News & Content,1317,4,News Director,2,Yes,3,8.6,2,Remote,0.4
+21,34000,Yes,Sales,1318,2,Sales Manager,4,No,2,1.0,2,On-site,0.4
+60,57867,No,News & Content,1319,4,Photojournalist,2,No,3,8.5,2,Hybrid,1.2
+32,63687,Yes,News & Content,1320,4,Photojournalist,1,Yes,3,2.1,3,On-site,1.8
+36,34000,No,News & Content,1321,4,Photojournalist,3,No,3,2.0,4,On-site,2.0
+38,76644,No,Human Resources,1322,4,HR Manager,4,No,3,0.4,2,Hybrid,0.4
+43,116853,Yes,News & Content,1323,3,News Director,2,No,3,1.2,3,Hybrid,1.2
+24,54983,No,News & Content,1324,2,News Director,3,No,4,4.0,3,On-site,1.9
+55,109910,No,News & Content,1325,1,Reporter,4,No,4,5.7,3,On-site,5.3
+29,95739,No,Sales,1326,1,Account Executive,1,No,3,2.5,4,On-site,0.7
+42,88814,No,News & Content,1327,2,Producer,3,No,3,3.3,4,Remote,2.4
+46,84276,Yes,News & Content,1328,4,Photojournalist,4,Yes,3,0.5,4,Hybrid,0.5
+41,85148,Yes,News & Content,1329,1,News Director,4,Yes,3,1.8,4,On-site,0.0
+39,62669,No,Engineering,1330,2,Systems Engineer,1,No,3,13.8,3,Hybrid,1.3
+36,111449,Yes,Human Resources,1331,2,HR Manager,4,No,4,0.7,4,Hybrid,0.7
+41,84052,No,News & Content,1332,3,Producer,3,No,3,1.2,1,Remote,1.2
+25,80559,No,News & Content,1333,4,Producer,4,Yes,3,4.9,4,Remote,4.6
+36,85876,No,News & Content,1334,3,Reporter,4,No,3,1.3,3,On-site,1.3
+37,89802,No,News & Content,1335,3,News Director,4,No,2,5.4,3,Hybrid,1.3
+42,51892,Yes,Sales,1336,4,Sales Manager,1,Yes,3,10.9,4,Hybrid,0.5
+32,54192,No,Sales,1337,4,Account Executive,4,No,4,11.4,4,Hybrid,3.2
+31,34000,Yes,Finance,1338,3,Accountant,2,Yes,4,1.4,4,On-site,1.2
+27,77729,No,Engineering,1339,3,Broadcast Engineer,3,No,2,2.0,1,On-site,0.7
+40,62626,No,Sales,1340,2,Sales Manager,3,Yes,3,4.4,3,On-site,0.1
+47,61710,Yes,Sales,1341,3,Sales Manager,1,Yes,3,7.8,3,Hybrid,7.8
+25,34000,No,Engineering,1342,3,Systems Engineer,3,No,3,3.1,4,Remote,3.1
+37,107535,No,News & Content,1343,4,News Director,3,Yes,3,4.4,2,Remote,0.0
+31,90956,No,Finance,1344,4,Financial Analyst,4,No,4,5.6,4,Hybrid,1.3
+35,83910,No,Sales,1345,2,Account Executive,3,Yes,3,2.1,4,On-site,0.1
+42,86370,No,Finance,1346,3,Finance Manager,4,No,4,2.8,3,On-site,0.3
+36,64495,No,Sales,1347,3,Sales Coordinator,4,No,2,3.8,4,Hybrid,0.4
+50,78964,No,News & Content,1348,1,News Director,3,Yes,3,1.9,3,On-site,1.9
+41,36142,Yes,News & Content,1349,1,Photojournalist,2,No,3,6.1,3,On-site,0.4
+49,88258,Yes,Sales,1350,1,Sales Manager,2,No,3,11.7,2,Hybrid,6.9
+48,50666,No,Sales,1351,2,Sales Coordinator,3,No,3,1.6,1,Hybrid,1.6
+38,115495,Yes,News & Content,1352,1,Photojournalist,2,No,3,0.9,3,Remote,0.6
+37,47562,No,Sales,1353,1,Sales Manager,3,No,4,8.7,4,Hybrid,0.3
+21,95313,Yes,Engineering,1354,3,Systems Engineer,4,Yes,3,0.4,3,Remote,0.2
+29,34000,No,News & Content,1355,2,News Director,3,No,4,8.8,4,Hybrid,0.1
+31,89971,Yes,News & Content,1356,2,News Director,4,No,3,1.1,1,Hybrid,1.1
+42,68908,No,Human Resources,1357,3,HR Generalist,2,No,3,6.6,3,Hybrid,1.4
+38,52646,Yes,Human Resources,1358,1,HR Generalist,2,No,3,7.2,3,Remote,2.6
+23,109183,Yes,Sales,1359,2,Account Executive,2,No,4,0.5,4,Hybrid,0.5
+51,75782,Yes,Finance,1360,3,Financial Analyst,1,No,2,1.6,1,On-site,1.6
+46,97624,Yes,Engineering,1361,2,IT Support,4,Yes,3,0.8,3,On-site,0.8
+51,59602,No,Finance,1362,3,Finance Manager,3,No,4,0.3,4,Remote,0.3
+33,56705,No,Sales,1363,3,Sales Manager,4,Yes,4,6.5,4,On-site,5.2
+33,108993,No,News & Content,1364,4,News Director,3,Yes,3,6.2,3,Hybrid,6.2
+21,73659,Yes,Sales,1365,1,Sales Coordinator,1,No,2,1.0,3,Remote,1.0
+38,85030,Yes,News & Content,1366,3,Reporter,1,No,3,0.6,4,On-site,0.3
+54,107046,No,News & Content,1367,4,Editor,2,No,3,6.5,3,Hybrid,1.4
+47,49118,No,Sales,1368,1,Sales Manager,3,No,3,5.1,3,On-site,5.1
+55,36301,No,Engineering,1369,3,Broadcast Engineer,3,No,3,6.6,1,Remote,1.7
+29,90631,No,News & Content,1370,3,News Director,3,No,3,2.3,4,Hybrid,2.3
+21,57434,Yes,Sales,1371,2,Sales Coordinator,3,No,3,1.0,4,Remote,1.0
+37,61993,Yes,News & Content,1372,2,Producer,1,No,3,12.5,2,Remote,0.2
+40,85416,No,News & Content,1373,3,Reporter,4,No,3,6.1,4,Remote,1.0
+38,72467,No,News & Content,1374,3,Photojournalist,3,No,3,0.1,3,Hybrid,0.1
+43,48260,No,Sales,1375,2,Sales Coordinator,4,Yes,3,5.0,2,Hybrid,1.0
+25,34000,Yes,News & Content,1376,3,News Director,1,No,3,2.2,3,On-site,2.2
+36,141641,No,Sales,1377,2,Sales Manager,3,No,3,11.0,3,Remote,1.3
+41,53950,No,Sales,1378,2,Sales Manager,2,No,3,2.0,4,Hybrid,1.6
+21,65293,Yes,Sales,1379,2,Sales Manager,3,Yes,3,1.0,3,On-site,1.0
+50,76070,No,Engineering,1380,3,Broadcast Engineer,4,Yes,3,2.3,1,Hybrid,2.0
+37,79407,No,Sales,1381,4,Sales Manager,3,No,4,17.0,2,Hybrid,7.4
+42,98293,Yes,Human Resources,1382,1,HR Generalist,4,Yes,3,1.5,1,On-site,1.5
+46,47751,No,Sales,1383,2,Sales Coordinator,4,Yes,3,2.0,3,Hybrid,1.1
+43,83747,No,Engineering,1384,2,Systems Engineer,4,No,3,0.3,2,On-site,0.3
+36,66841,No,Engineering,1385,4,Broadcast Engineer,4,No,4,3.2,3,Hybrid,1.5
+35,75591,No,News & Content,1386,3,Reporter,2,No,3,6.3,4,On-site,2.5
+30,60564,No,Sales,1387,2,Sales Manager,2,No,2,6.6,2,On-site,2.4
+30,55790,No,Engineering,1388,4,Broadcast Engineer,4,No,4,0.9,4,Hybrid,0.2
+34,81738,No,Engineering,1389,2,IT Support,1,No,3,1.8,3,On-site,1.8
+35,41975,Yes,Sales,1390,2,Account Executive,1,No,2,0.4,2,On-site,0.4
+42,104786,Yes,Sales,1391,1,Sales Coordinator,2,Yes,3,14.5,3,On-site,0.7
+21,34000,Yes,Engineering,1392,1,Systems Engineer,2,No,3,1.0,3,On-site,1.0
+33,54686,Yes,News & Content,1393,2,Producer,1,Yes,3,6.7,3,Remote,3.2
+49,57687,No,Sales,1394,4,Account Executive,3,No,3,7.1,4,On-site,1.9
+25,60991,No,Sales,1395,2,Sales Manager,3,No,3,5.0,2,On-site,2.4
+39,56533,Yes,News & Content,1396,2,Reporter,1,Yes,3,6.7,3,Hybrid,4.5
+53,60898,No,News & Content,1397,3,News Director,4,No,3,7.8,4,Remote,0.3
+32,110315,No,Sales,1398,3,Sales Coordinator,3,No,3,2.8,4,On-site,2.8
+50,49816,No,News & Content,1399,3,Photojournalist,1,No,3,3.1,3,On-site,1.5
+47,54135,No,Finance,1400,4,Finance Manager,3,No,3,2.7,3,Hybrid,0.1
+24,67383,No,News & Content,1401,3,Reporter,3,No,4,4.0,2,On-site,0.1
+45,77170,No,Engineering,1402,3,Systems Engineer,3,No,3,2.4,2,Remote,2.4
+58,71993,No,News & Content,1403,3,Editor,3,Yes,3,1.5,3,On-site,1.2
+37,51077,No,Sales,1404,4,Account Executive,3,Yes,2,3.4,3,Hybrid,0.1
+29,83314,No,News & Content,1405,4,News Director,4,Yes,3,0.7,3,On-site,0.0
+23,69642,No,Sales,1406,1,Account Executive,4,No,3,3.0,3,Remote,0.7
+25,38621,Yes,News & Content,1407,3,News Director,4,Yes,3,2.3,4,On-site,2.3
+64,98175,No,Sales,1408,1,Sales Manager,4,No,3,13.2,3,On-site,0.6
+36,97986,Yes,Sales,1409,1,Sales Coordinator,2,No,3,0.2,2,On-site,0.2
+21,69815,No,News & Content,1410,3,Reporter,4,No,3,1.0,2,Remote,1.0
+33,88508,Yes,News & Content,1411,4,Reporter,1,No,3,0.8,2,Hybrid,0.7
+41,34000,Yes,News & Content,1412,2,Reporter,3,Yes,3,0.8,3,Hybrid,0.8
+22,35632,Yes,News & Content,1413,2,Editor,2,No,2,2.0,3,On-site,0.4
+39,101503,No,News & Content,1414,3,Editor,4,No,3,2.8,4,On-site,1.6
+39,86473,No,News & Content,1415,4,Reporter,1,No,3,1.8,3,Hybrid,1.8
+27,83966,Yes,News & Content,1416,1,Editor,1,Yes,3,7.0,3,On-site,2.0
+37,65260,No,Sales,1417,4,Account Executive,4,Yes,3,0.3,4,On-site,0.3
+38,65076,No,Human Resources,1418,3,HR Manager,3,No,3,2.8,4,Hybrid,0.0
+45,86791,No,News & Content,1419,3,Editor,3,No,3,4.7,2,Hybrid,1.4
+44,120832,No,Sales,1420,3,Sales Coordinator,1,No,3,0.3,3,On-site,0.3
+33,58270,No,Engineering,1421,4,Broadcast Engineer,4,Yes,3,13.0,2,On-site,1.5
+51,63530,No,Sales,1422,4,Sales Manager,4,Yes,2,13.4,4,Hybrid,2.3
+50,85059,No,Finance,1423,3,Finance Manager,2,No,2,2.4,2,On-site,2.4
+28,66868,Yes,Finance,1424,2,Finance Manager,3,Yes,4,3.3,1,On-site,0.5
+21,34000,No,Sales,1425,2,Sales Manager,3,No,3,1.0,2,Hybrid,0.4
+21,97546,No,Engineering,1426,4,IT Support,4,No,3,1.0,4,Hybrid,0.4
+29,117359,No,News & Content,1427,3,Producer,2,No,4,2.4,3,On-site,2.4
+35,80627,No,Human Resources,1428,4,HR Generalist,1,No,4,1.9,4,On-site,1.4
+24,96424,No,Sales,1429,3,Sales Manager,3,No,3,4.0,1,On-site,2.5
+38,105901,No,News & Content,1430,4,Reporter,3,Yes,3,3.9,4,Hybrid,2.3
+36,51682,No,News & Content,1431,4,Photojournalist,4,No,2,7.8,4,Hybrid,0.2
+48,56387,Yes,News & Content,1432,2,News Director,2,Yes,3,1.4,3,On-site,1.4
+43,115507,No,Human Resources,1433,3,HR Generalist,4,No,3,0.1,4,On-site,0.1
+36,80108,No,Engineering,1434,1,Broadcast Engineer,1,No,3,7.4,3,Hybrid,1.8
+30,96831,No,Sales,1435,3,Account Executive,2,No,3,0.7,3,On-site,0.1
+48,71712,No,News & Content,1436,2,Photojournalist,3,No,3,12.5,2,Hybrid,4.3
+39,71641,No,Sales,1437,2,Sales Manager,3,No,3,13.4,2,On-site,4.5
+35,61002,No,News & Content,1438,3,Reporter,4,No,3,1.1,2,On-site,1.1
+45,122169,No,News & Content,1439,1,Photojournalist,4,No,3,17.2,4,Hybrid,2.5
+45,48152,No,Engineering,1440,2,IT Support,4,No,3,2.3,3,On-site,0.2
+47,34000,Yes,News & Content,1441,2,Editor,4,Yes,3,5.0,2,Hybrid,2.0
+51,34000,No,News & Content,1442,4,Producer,4,No,3,1.7,3,Hybrid,0.4
+37,102293,No,News & Content,1443,2,Reporter,4,No,3,2.0,2,On-site,1.3
+42,49606,No,Finance,1444,4,Accountant,3,No,4,10.1,4,Hybrid,0.8
+32,79868,No,Engineering,1445,3,Systems Engineer,2,No,2,0.3,2,On-site,0.3
+36,87474,No,Sales,1446,4,Sales Manager,1,No,3,9.8,3,On-site,1.5
+54,34000,No,Human Resources,1447,3,HR Generalist,4,Yes,3,10.0,2,Remote,1.5
+42,53678,No,Human Resources,1448,1,HR Manager,3,Yes,3,2.7,3,Hybrid,2.7
+44,47512,No,News & Content,1449,4,Editor,2,No,3,1.7,2,On-site,1.7
+50,123462,No,Sales,1450,3,Sales Coordinator,4,No,3,5.3,4,On-site,2.6
+36,79308,No,Sales,1451,4,Sales Manager,3,Yes,3,1.6,3,Hybrid,0.4
+21,105557,No,News & Content,1452,3,Editor,3,No,3,0.9,2,Hybrid,0.9
+26,41642,No,Sales,1453,3,Sales Manager,4,No,3,0.5,3,On-site,0.5
+55,126432,No,News & Content,1454,4,Reporter,3,No,2,1.3,4,On-site,1.3
+40,98428,Yes,News & Content,1455,1,News Director,3,Yes,3,1.2,2,On-site,1.2
+35,91441,No,Sales,1456,1,Sales Manager,4,No,4,8.4,3,On-site,1.2
+36,57467,No,Sales,1457,3,Account Executive,2,Yes,3,5.7,3,Hybrid,2.0
+22,104675,No,Finance,1458,3,Accountant,3,No,4,0.9,3,Hybrid,0.9
+39,34000,Yes,News & Content,1459,3,Photojournalist,3,No,2,1.5,2,Hybrid,0.3
+59,71799,No,News & Content,1460,3,Producer,3,No,3,2.6,3,Hybrid,1.2
+31,64453,No,News & Content,1461,3,News Director,3,No,3,4.0,2,On-site,0.9
+48,96513,No,News & Content,1462,1,Reporter,4,No,3,6.5,4,Hybrid,1.6
+28,133833,No,News & Content,1463,3,Reporter,2,No,4,3.8,2,Hybrid,2.3
+42,106564,No,Sales,1464,2,Sales Manager,4,No,2,0.3,4,Hybrid,0.3
+21,93741,Yes,News & Content,1465,1,Producer,3,Yes,3,1.0,4,On-site,1.0
+41,71795,No,Engineering,1466,4,Systems Engineer,3,No,3,2.0,3,On-site,2.0
+43,60271,No,Finance,1467,4,Financial Analyst,4,Yes,3,5.7,2,Hybrid,0.8
+49,68909,Yes,News & Content,1468,1,Photojournalist,2,No,3,8.8,1,On-site,1.1
+33,47542,No,News & Content,1469,3,Editor,3,No,4,3.9,2,Remote,1.2
+48,113643,No,Sales,1470,3,Sales Coordinator,1,No,3,4.8,3,On-site,0.4

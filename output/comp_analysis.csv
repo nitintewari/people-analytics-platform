@@ -1,0 +1,6 @@
+Department,Headcount,MinSalary,AvgSalary,MaxSalary,SalaryRangePct
+Human Resources,98,34000,76787.0,125784,270.0
+Sales,407,34000,73625.0,169884,399.7
+News & Content,630,34000,73040.0,158655,366.6
+Engineering,189,34000,70566.0,132349,289.3
+Finance,146,34000,70029.0,133363,292.2
